@@ -1,6 +1,21 @@
-{
-  "version": "1.0.0",
-  "minecraft": "1.21.1",
-  "forge": "52.0.16",
-  "mods": []
+﻿{
+    "minecraft":  "1.21.1",
+    "version":  "1.0.0",
+    "forge":  "52.0.16",
+    "mods":  [
+                 {
+                     "url":  "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cloth-config-15.0.140-neoforge.jar",
+                     "name":  "cloth-config-15.0.140-neoforge",
+                     "filename":  "cloth-config-15.0.140-neoforge.jar",
+                     "required":  true,
+                     "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+                 },
+                 {
+                     "url":  "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/hw_patches_archive-1.17.10.jar",
+                     "name":  "hw_patches_archive-1.17.10",
+                     "filename":  "hw_patches_archive-1.17.10.jar",
+                     "required":  true,
+                     "sha256":  "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864"
+                 }
+             ]
 }
