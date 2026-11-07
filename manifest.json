@@ -24,22 +24,22 @@
     {
       "path": "config/fml.toml",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/configs/config/fml.toml",
-      "sha256": "6e4d22ef78d7b2d387df1b777b193056bcbdc1cc4b43be61e3db95d3bbe5fc38",
-      "size": 1551,
+      "sha256": "2870ae9a53e72732e14e0df029494680d3ca00ce00418c7b087dad96086cc7c2",
+      "size": 1519,
       "required": true
     },
     {
       "path": "config/neoforge-client.toml",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/configs/config/neoforge-client.toml",
-      "sha256": "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0",
-      "size": 578,
+      "sha256": "a5f0eb38f8daf8574f7672a8393a0ab5c668d6ec6e7ae43fc8669e928786929d",
+      "size": 570,
       "required": true
     },
     {
       "path": "config/neoforge-common.toml",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/configs/config/neoforge-common.toml",
-      "sha256": "8575eb5db529376141370dc9cf80bc762c4c70c22f538d3c89254b592e329f73",
-      "size": 1050,
+      "sha256": "0f6d56b78517db000f8326f434f10c3c6ebcb5504fe632123e8e740df397805b",
+      "size": 1034,
       "required": true
     }
   ]
