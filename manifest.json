@@ -1,13 +1,14 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minecraft": "1.21.1",
-  "forge": "52.0.16",
+  "forge": "21.1.265",
   "mods": [
     {
       "name": "cloth-config-15.0.140-neoforge",
       "filename": "cloth-config-15.0.140-neoforge.jar",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cloth-config-15.0.140-neoforge.jar",
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890,
       "required": true
     },
     {
@@ -15,6 +16,30 @@
       "filename": "hw_patches_archive-1.17.10.jar",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/hw_patches_archive-1.17.10.jar",
       "sha256": "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864",
+      "size": 331333,
+      "required": true
+    }
+  ],
+  "configs": [
+    {
+      "path": "config/fml.toml",
+      "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/configs/config/fml.toml",
+      "sha256": "6e4d22ef78d7b2d387df1b777b193056bcbdc1cc4b43be61e3db95d3bbe5fc38",
+      "size": 1551,
+      "required": true
+    },
+    {
+      "path": "config/neoforge-client.toml",
+      "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/configs/config/neoforge-client.toml",
+      "sha256": "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0",
+      "size": 578,
+      "required": true
+    },
+    {
+      "path": "config/neoforge-common.toml",
+      "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/configs/config/neoforge-common.toml",
+      "sha256": "8575eb5db529376141370dc9cf80bc762c4c70c22f538d3c89254b592e329f73",
+      "size": 1050,
       "required": true
     }
   ]
