@@ -4,13 +4,14 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
+  "lastUpdated": "2026-11-08T03:34:51.573067814Z",
   "mods": [
     {
       "name": "AeroEngine-1.3.0",
       "filename": "AeroEngine-1.3.0.jar",
       "sha256": "5d9f86d8345beb25189e21044ecd19c9140c77c6e9010fb1a7f2250fde775e05",
       "size": 1589690,
-      "serverUrl": "https://setver.polit.day/mods/AeroEngine-1.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/AeroEngine-1.3.0.jar",
       "required": true
     },
     {
@@ -20,7 +21,7 @@
       "version": "1.0a",
       "sha256": "5efc1fd59e42f1cb86bce4bed04fc026a70cc2b5b8c9d0ffe6097475d4526ad7",
       "size": 22812,
-      "serverUrl": "https://setver.polit.day/mods/AeroPropBlur-1.21.1-1.0a.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/AeroPropBlur-1.21.1-1.0a.jar",
       "required": true
     },
     {
@@ -28,7 +29,7 @@
       "filename": "Apotheosis-1.21.1-8.8.0.jar",
       "sha256": "11848e1129595d1e9ac302679128364d2fedf2085d9539797c808a9929abf972",
       "size": 7156644,
-      "serverUrl": "https://setver.polit.day/mods/Apotheosis-1.21.1-8.8.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Apotheosis-1.21.1-8.8.0.jar",
       "required": true
     },
     {
@@ -36,7 +37,7 @@
       "filename": "ApothicAttributes-1.21.1-2.10.1.jar",
       "sha256": "7f84ee803e9d4fef2858db28f552724dc0ea6c3943db111cc947d70aa2c9c159",
       "size": 323265,
-      "serverUrl": "https://setver.polit.day/mods/ApothicAttributes-1.21.1-2.10.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ApothicAttributes-1.21.1-2.10.1.jar",
       "required": true
     },
     {
@@ -44,7 +45,7 @@
       "filename": "ApothicEnchanting-1.21.1-1.6.2.jar",
       "sha256": "652406bc2e4c2d8488c93d35d38202390897e0ec6b4bc60b4813ce2fb6ad69f6",
       "size": 5415666,
-      "serverUrl": "https://setver.polit.day/mods/ApothicEnchanting-1.21.1-1.6.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ApothicEnchanting-1.21.1-1.6.2.jar",
       "required": true
     },
     {
@@ -52,7 +53,7 @@
       "filename": "ApothicSpawners-1.21.1-1.4.0.jar",
       "sha256": "f0cbc52ad606997789c36fac94ae651ab7e2e21c841e26a952c64041cad9cdbe",
       "size": 129784,
-      "serverUrl": "https://setver.polit.day/mods/ApothicSpawners-1.21.1-1.4.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ApothicSpawners-1.21.1-1.4.0.jar",
       "required": true
     },
     {
@@ -62,7 +63,7 @@
       "version": "1.4.0",
       "sha256": "2366af18445481d4acfb76cde82b6fad6fdee0eeab67ffa50bd05a4e59c08fe8",
       "size": 2630839,
-      "serverUrl": "https://setver.polit.day/mods/CBCmoreshells-1.4.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/CBCmoreshells-1.4.0.jar",
       "required": true
     },
     {
@@ -72,7 +73,7 @@
       "version": "${file.jarVersion}",
       "sha256": "78990104c08a2f14f1ec18e0ddab47a682398401894954331b5f91213b4ca767",
       "size": 1273384,
-      "serverUrl": "https://setver.polit.day/mods/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
       "required": true
     },
     {
@@ -82,7 +83,7 @@
       "version": "19.0.0.1",
       "sha256": "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
       "size": 18382,
-      "serverUrl": "https://setver.polit.day/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "required": true
     },
     {
@@ -92,7 +93,7 @@
       "version": "${file.jarVersion}",
       "sha256": "ee89c3425b9a4bff766aaff02ccf8110c06f5da6ef5d71974556885cf25d4880",
       "size": 86284,
-      "serverUrl": "https://setver.polit.day/mods/ConnectorExtras-1.12.1+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ConnectorExtras-1.12.1+1.21.1.jar",
       "required": true
     },
     {
@@ -102,7 +103,7 @@
       "version": "1.11.9",
       "sha256": "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a",
       "size": 1085674,
-      "serverUrl": "https://setver.polit.day/mods/CreateDragonsPlus-1.11.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/CreateDragonsPlus-1.11.9.jar",
       "required": true
     },
     {
@@ -112,7 +113,7 @@
       "version": "2.13.46",
       "sha256": "3fe2144fc608978203681f5c787dd75034879baf135372cc2302d6218ea75932",
       "size": 1235813,
-      "serverUrl": "https://setver.polit.day/mods/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
       "required": true
     },
     {
@@ -122,7 +123,7 @@
       "version": "2.2b",
       "sha256": "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f",
       "size": 6329899,
-      "serverUrl": "https://setver.polit.day/mods/Design-n-Decor-1.21.1-2.2b.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Design-n-Decor-1.21.1-2.2b.jar",
       "required": true
     },
     {
@@ -132,7 +133,7 @@
       "version": "2.3a-BETA",
       "sha256": "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379",
       "size": 1249099,
-      "serverUrl": "https://setver.polit.day/mods/DnDesires-1.21.1-2.3a-BETA.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/DnDesires-1.21.1-2.3a-BETA.jar",
       "required": true
     },
     {
@@ -142,7 +143,7 @@
       "version": "2.3.17",
       "sha256": "853cd59208f17c25188a419b48d1a9fed3acebf676bb1ddd026fa4e7fb56dad4",
       "size": 738480,
-      "serverUrl": "https://setver.polit.day/mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
       "required": true
     },
     {
@@ -152,7 +153,7 @@
       "version": "2.1.68",
       "sha256": "7eee1eca7e3b2c6c1bede055934f391ae2e8349ffe33e106f451176d2cfcf0e4",
       "size": 11842679,
-      "serverUrl": "https://setver.polit.day/mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/DungeonsArise-1.21.1-2.1.68-release.jar",
       "required": true
     },
     {
@@ -160,7 +161,7 @@
       "filename": "Dyeable Components Compat.jar",
       "sha256": "6ae11c15c9b7a9669ef648a3e7746d574f7657a70ea68d233816f29374a320ce",
       "size": 67929,
-      "serverUrl": "https://setver.polit.day/mods/Dyeable Components Compat.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Dyeable Components Compat.jar",
       "required": true
     },
     {
@@ -168,7 +169,7 @@
       "filename": "EclipticSeasons-1.21.1-neoforge-0.15.3.1.jar",
       "sha256": "886d8e650863c4d51f2dd1cdcebc1ddf12bd567ef16b350519cd74bbfb14bd7d",
       "size": 10324763,
-      "serverUrl": "https://setver.polit.day/mods/EclipticSeasons-1.21.1-neoforge-0.15.3.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/EclipticSeasons-1.21.1-neoforge-0.15.3.1.jar",
       "required": true
     },
     {
@@ -178,7 +179,7 @@
       "version": "1.6.5",
       "sha256": "2dc76398b48b2aae9b4024642da098b0880125572de160cb5ecf91d102890cad",
       "size": 767884,
-      "serverUrl": "https://setver.polit.day/mods/Explorify v1.6.5.mod.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Explorify v1.6.5.mod.jar",
       "required": true
     },
     {
@@ -188,7 +189,7 @@
       "version": "1.3.4",
       "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
       "size": 3160490,
-      "serverUrl": "https://setver.polit.day/mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/FarmersDelight-1.21.1-1.3.4.jar",
       "required": true
     },
     {
@@ -198,7 +199,7 @@
       "version": "2.1.0.2",
       "sha256": "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae",
       "size": 90717,
-      "serverUrl": "https://setver.polit.day/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
       "required": true
     },
     {
@@ -208,7 +209,7 @@
       "version": "2.3.0",
       "sha256": "89489f8c6979db11cb8dcc8e1199457038fe3fcd13f2d852aeb3ce34b11636d1",
       "size": 232283,
-      "serverUrl": "https://setver.polit.day/mods/Guide-API-VP-1.21.1-2.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Guide-API-VP-1.21.1-2.3.0.jar",
       "required": true
     },
     {
@@ -218,7 +219,7 @@
       "version": "21.0.16",
       "sha256": "6c59359cf83374fcda5cbaf9a3004a2038e5f5cc56f983cdaf5de0081196abc2",
       "size": 2406360,
-      "serverUrl": "https://setver.polit.day/mods/HammerLib-1.21-21.0.16.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/HammerLib-1.21-21.0.16.jar",
       "required": true
     },
     {
@@ -228,7 +229,7 @@
       "version": "${file.jarVersion}",
       "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810",
       "size": 726853,
-      "serverUrl": "https://setver.polit.day/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "required": true
     },
     {
@@ -236,7 +237,7 @@
       "filename": "MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
       "sha256": "e0631256277d4e7f595ed0d6bb1e46d3d6e7a1a830cc87c87d59d87f99fd5246",
       "size": 450248,
-      "serverUrl": "https://setver.polit.day/mods/MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
       "required": true
     },
     {
@@ -246,7 +247,7 @@
       "version": "1.10.4.1",
       "sha256": "4ad1462d5826e66569574cd0353dc8f7d10e54ac2a86fcb6350895861d0964e8",
       "size": 905059,
-      "serverUrl": "https://setver.polit.day/mods/MyNethersDelight-1.21.1-1.10.4.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/MyNethersDelight-1.21.1-1.10.4.1.jar",
       "required": true
     },
     {
@@ -256,7 +257,7 @@
       "version": "1.21.1-3.4.0-neoforge",
       "sha256": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
       "size": 224657,
-      "serverUrl": "https://setver.polit.day/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "required": true
     },
     {
@@ -264,7 +265,7 @@
       "filename": "NeoForge-Version-Serene Seasons Plus-1.21.1-5.1.2.jar",
       "sha256": "7a1f219128eac678bdd3f5d92d227cf32403175e1287e8a31e99398a2af659db",
       "size": 415754,
-      "serverUrl": "https://setver.polit.day/mods/NeoForge-Version-Serene Seasons Plus-1.21.1-5.1.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/NeoForge-Version-Serene Seasons Plus-1.21.1-5.1.2.jar",
       "required": true
     },
     {
@@ -272,7 +273,7 @@
       "filename": "Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
       "sha256": "077df852c512f4a3ba9562d6745dd28835f8827bafef2b6f80c56d7f27549701",
       "size": 1266810,
-      "serverUrl": "https://setver.polit.day/mods/Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
       "required": true
     },
     {
@@ -282,7 +283,7 @@
       "version": "0.6.2",
       "sha256": "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38",
       "size": 544378,
-      "serverUrl": "https://setver.polit.day/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
       "required": true
     },
     {
@@ -291,7 +292,7 @@
       "modId": "patchouli",
       "sha256": "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
       "size": 646777,
-      "serverUrl": "https://setver.polit.day/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Patchouli-1.21.1-93-NEOFORGE.jar",
       "required": true
     },
     {
@@ -301,7 +302,7 @@
       "version": "3.8.3+1.21-neoforge",
       "sha256": "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec",
       "size": 507568,
-      "serverUrl": "https://setver.polit.day/mods/Pehkui-3.8.3+1.21-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Pehkui-3.8.3+1.21-neoforge.jar",
       "required": true
     },
     {
@@ -309,7 +310,7 @@
       "filename": "Placebo-1.21.1-9.9.2.jar",
       "sha256": "1a844a5b081813b1edb82656329e54d38389ed470f6a6516a5887f5303d7daad",
       "size": 324058,
-      "serverUrl": "https://setver.polit.day/mods/Placebo-1.21.1-9.9.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Placebo-1.21.1-9.9.2.jar",
       "required": true
     },
     {
@@ -319,7 +320,7 @@
       "version": "1.1.6+mc.1.21.1",
       "sha256": "e41ee06000fc95444a482018ec24b3f1e79eb111ca6b8ca119e61ceabf9136c5",
       "size": 1156673,
-      "serverUrl": "https://setver.polit.day/mods/PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/PlayerAnimationLibNeoforge-1.1.6+mc.1.21.1.jar",
       "required": true
     },
     {
@@ -329,7 +330,7 @@
       "version": "21.1.60",
       "sha256": "179bcaafb812618834ba82e7f29b15eaee8894f74fb96152a51cfc22ad4f45c4",
       "size": 1442182,
-      "serverUrl": "https://setver.polit.day/mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar",
       "required": true
     },
     {
@@ -339,7 +340,7 @@
       "version": "1.8.7",
       "sha256": "429b872b29dc63eff9b5b7735fd206a1e7ff5c10c2018961b33748db3de86a23",
       "size": 74407,
-      "serverUrl": "https://setver.polit.day/mods/SSRD-1.8.7-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/SSRD-1.8.7-1.21.1.jar",
       "required": true
     },
     {
@@ -347,7 +348,7 @@
       "filename": "SableStuffAdditionsCompat v1.0.3-1.21.1.jar",
       "sha256": "4fbe277b75c5094a85cad86fde1e93f719b24876e3ecd62f614fe882d3223bf1",
       "size": 30346,
-      "serverUrl": "https://setver.polit.day/mods/SableStuffAdditionsCompat v1.0.3-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/SableStuffAdditionsCompat v1.0.3-1.21.1.jar",
       "required": true
     },
     {
@@ -357,7 +358,7 @@
       "version": "13.11.4",
       "sha256": "7d768aaaecbd0228c57d3a3c1fcee0c04469a42ea218925f93763ed33afe566c",
       "size": 1131420,
-      "serverUrl": "https://setver.polit.day/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
       "required": true
     },
     {
@@ -367,7 +368,7 @@
       "version": "0.1.12b",
       "sha256": "ff36e264190ea5316d99c0f8d0dcdc8a428e427295928b6a3d136228ac280b78",
       "size": 1087264,
-      "serverUrl": "https://setver.polit.day/mods/VampiresDelight-1.21.1-0.1.12b.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/VampiresDelight-1.21.1-0.1.12b.jar",
       "required": true
     },
     {
@@ -377,7 +378,7 @@
       "version": "1.0.3",
       "sha256": "d85736638db2eeb785c0f93a35f631adc6c54ae667124c245172c410cc5cea72",
       "size": 248085,
-      "serverUrl": "https://setver.polit.day/mods/VampiresNeedUmbrellas-1.21.1-1.0.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/VampiresNeedUmbrellas-1.21.1-1.0.3.jar",
       "required": true
     },
     {
@@ -387,7 +388,7 @@
       "version": "1.10.13",
       "sha256": "7f17cc7b4cfda8072bc80ab9065692a85eefb19b50526fd7cd4749670ec1aec3",
       "size": 12478474,
-      "serverUrl": "https://setver.polit.day/mods/Vampirism-1.21-1.10.13.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Vampirism-1.21-1.10.13.jar",
       "required": true
     },
     {
@@ -397,7 +398,7 @@
       "version": "2.0.1",
       "sha256": "1ec50b2a7e23ea1aab43df516835e99c85f3e579b6ecc6a2cf319d85e0ff60b0",
       "size": 136021,
-      "serverUrl": "https://setver.polit.day/mods/Voiceless Survival-1.21.1-neoforge-2.0.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Voiceless Survival-1.21.1-neoforge-2.0.1.jar",
       "required": true
     },
     {
@@ -407,7 +408,7 @@
       "version": "1.2.2-1.21.1",
       "sha256": "162f315b326fbbe008e0977680994898c5410b9145c1a0a3db0692d6f5d4a547",
       "size": 101116,
-      "serverUrl": "https://setver.polit.day/mods/Walkie-Chat-neoforge-1.2.2-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Walkie-Chat-neoforge-1.2.2-1.21.1.jar",
       "required": true
     },
     {
@@ -417,7 +418,7 @@
       "version": "2.0.3.3",
       "sha256": "ecbca2cd344e24ad48157834a8f321d1a7d2221c727fe8e61e4436d1219c6cfb",
       "size": 2297879,
-      "serverUrl": "https://setver.polit.day/mods/Werewolves-1.21-2.0.3.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/Werewolves-1.21-2.0.3.3.jar",
       "required": true
     },
     {
@@ -427,7 +428,7 @@
       "version": "1.21.1-NeoForge-5.1.9",
       "sha256": "375e0b2f988ab4f5bde182166c0f0b102377adc8f823660c24ade08b0b3cde56",
       "size": 413763,
-      "serverUrl": "https://setver.polit.day/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "required": true
     },
     {
@@ -437,7 +438,7 @@
       "version": "1.21.1-NeoForge-4.1.5",
       "sha256": "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
       "size": 905839,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
       "required": true
     },
     {
@@ -447,7 +448,7 @@
       "version": "1.21.1-NeoForge-5.1.4",
       "sha256": "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04",
       "size": 782160,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "required": true
     },
     {
@@ -457,7 +458,7 @@
       "version": "1.21.1-NeoForge-3.1.2",
       "sha256": "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
       "size": 398130,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
       "required": true
     },
     {
@@ -467,7 +468,7 @@
       "version": "1.21.1-NeoForge-3.1.2",
       "sha256": "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
       "size": 795839,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
       "required": true
     },
     {
@@ -477,7 +478,7 @@
       "version": "1.21.1-NeoForge-5.1.1",
       "sha256": "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
       "size": 493967,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
       "required": true
     },
     {
@@ -487,7 +488,7 @@
       "version": "1.21.1-NeoForge-3.1.5",
       "sha256": "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
       "size": 609639,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
       "required": true
     },
     {
@@ -497,7 +498,7 @@
       "version": "1.21.1-NeoForge-4.1.2",
       "sha256": "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
       "size": 1025571,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
       "required": true
     },
     {
@@ -507,7 +508,7 @@
       "version": "1.21.1-NeoForge-5.1.3",
       "sha256": "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
       "size": 461244,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
       "required": true
     },
     {
@@ -517,7 +518,7 @@
       "version": "1.21.1-NeoForge-4.1.1",
       "sha256": "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
       "size": 174789,
-      "serverUrl": "https://setver.polit.day/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
       "required": true
     },
     {
@@ -527,7 +528,7 @@
       "version": "1.21.1-NeoForge-5.1.1",
       "sha256": "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
       "size": 198183,
-      "serverUrl": "https://setver.polit.day/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
       "required": true
     },
     {
@@ -537,7 +538,7 @@
       "version": "${file.jarVersion}",
       "sha256": "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229",
       "size": 5193371,
-      "serverUrl": "https://setver.polit.day/mods/[1.21.1] SecurityCraft v1.10.2.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/[1.21.1] SecurityCraft v1.10.2.1.jar",
       "required": true
     },
     {
@@ -545,7 +546,7 @@
       "filename": "aces_spell_utils-1.2.7.2-1.21.1.jar",
       "sha256": "da3ec5f0201ff87d52df0d952b8ed379e77b8a5d98666558ec4bea0805fe97be",
       "size": 381096,
-      "serverUrl": "https://setver.polit.day/mods/aces_spell_utils-1.2.7.2-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aces_spell_utils-1.2.7.2-1.21.1.jar",
       "required": true
     },
     {
@@ -553,7 +554,7 @@
       "filename": "aero_cam_sync-1.4.0.jar",
       "sha256": "335ecaf8cefa4792815a81ac7257e5d432ee1c30704187fc548f1d1db855f4e2",
       "size": 912604,
-      "serverUrl": "https://setver.polit.day/mods/aero_cam_sync-1.4.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aero_cam_sync-1.4.0.jar",
       "required": true
     },
     {
@@ -561,7 +562,7 @@
       "filename": "aerocopycats-1.1.1.jar",
       "sha256": "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8",
       "size": 14702,
-      "serverUrl": "https://setver.polit.day/mods/aerocopycats-1.1.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aerocopycats-1.1.1.jar",
       "required": true
     },
     {
@@ -569,7 +570,7 @@
       "filename": "aeronauticadditions_neoforge_mc_1.21.1-1.2.0.jar",
       "sha256": "34705fa43efb7d1325e9584ae8c2089704f36c460bd43183ac8c5d740ad48792",
       "size": 91371,
-      "serverUrl": "https://setver.polit.day/mods/aeronauticadditions_neoforge_mc_1.21.1-1.2.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aeronauticadditions_neoforge_mc_1.21.1-1.2.0.jar",
       "required": true
     },
     {
@@ -579,7 +580,7 @@
       "version": "1.1.3",
       "sha256": "5204e1f901f20749673e384d18f73c1222f97c3efce28ff75c8fe782a55b1226",
       "size": 43764,
-      "serverUrl": "https://setver.polit.day/mods/aeronauticscompat-1.1.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aeronauticscompat-1.1.3.jar",
       "required": true
     },
     {
@@ -589,7 +590,7 @@
       "version": "1.3.0",
       "sha256": "121d1e10fdce23695d9b9c4baebdde3b0feaf42e4847447f5fd78cbb3bf6fa2d",
       "size": 940554,
-      "serverUrl": "https://setver.polit.day/mods/aerowarptics-1.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aerowarptics-1.3.0.jar",
       "required": true
     },
     {
@@ -599,7 +600,7 @@
       "version": "1.5.0",
       "sha256": "7e9745569a75eb613a9f75c9308aa2c806d3f0fab3a272d98647a13d3fa41641",
       "size": 790152,
-      "serverUrl": "https://setver.polit.day/mods/aeroworks-1.5.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aeroworks-1.5.0.jar",
       "required": true
     },
     {
@@ -609,7 +610,7 @@
       "version": "1.5.10",
       "sha256": "a999a9265eb550a46a0f8eedfee7c3c75371d7f6cf34b7c09ff800e48633e9f8",
       "size": 40223909,
-      "serverUrl": "https://setver.polit.day/mods/aether-1.21.1-1.5.10-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aether-1.21.1-1.5.10-neoforge.jar",
       "required": true
     },
     {
@@ -619,7 +620,7 @@
       "version": "2.1.2",
       "sha256": "5d5faee77f5560a29ac03a99d0febe1ab200d0f227e5c6d60cd37ec9a40d1f69",
       "size": 288935,
-      "serverUrl": "https://setver.polit.day/mods/alcocraftplus-1.21.1-2.1.2-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/alcocraftplus-1.21.1-2.1.2-neoforge.jar",
       "required": true
     },
     {
@@ -629,7 +630,7 @@
       "version": "2.2.3",
       "sha256": "fc15c48981bc59424a6934f07d9150c33cce7b363866fe099c686a3ebf650d02",
       "size": 146756,
-      "serverUrl": "https://setver.polit.day/mods/alcohol_industry-2.2.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/alcohol_industry-2.2.3.jar",
       "required": true
     },
     {
@@ -639,7 +640,7 @@
       "version": "2.0.10",
       "sha256": "6fad35bf07fcb977aaa32d3fe05bf122150c6a30ed16b057385040207a3b788f",
       "size": 74900204,
-      "serverUrl": "https://setver.polit.day/mods/alexscaves-2.0.10.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/alexscaves-2.0.10.jar",
       "required": true
     },
     {
@@ -649,7 +650,7 @@
       "version": "1.22.17",
       "sha256": "6e502855f79e4c9f2a11d560a9b88a3ab295aa378c44b0f0a0dd95f95d0301a6",
       "size": 26620546,
-      "serverUrl": "https://setver.polit.day/mods/alexsmobs-1.22.17.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/alexsmobs-1.22.17.jar",
       "required": true
     },
     {
@@ -657,7 +658,7 @@
       "filename": "apotheoticcreation-2.0.0.jar",
       "sha256": "267cfdb90984dd27682f3abd7e8bd144994d5b602dc6849036ea988591243a41",
       "size": 12198,
-      "serverUrl": "https://setver.polit.day/mods/apotheoticcreation-2.0.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/apotheoticcreation-2.0.0.jar",
       "required": true
     },
     {
@@ -667,7 +668,7 @@
       "version": "${file.jarVersion}",
       "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
       "size": 75804,
-      "serverUrl": "https://setver.polit.day/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
       "required": true
     },
     {
@@ -677,7 +678,7 @@
       "version": "13.0.11",
       "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb",
       "size": 584734,
-      "serverUrl": "https://setver.polit.day/mods/architectury-13.0.11-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/architectury-13.0.11-neoforge.jar",
       "required": true
     },
     {
@@ -687,7 +688,7 @@
       "version": "1.21.1-21.3.0",
       "sha256": "e634a3f0c39cd38007608cce1974a7c9bbad7d8202bfb6c75f17c2901f362c9b",
       "size": 1458261,
-      "serverUrl": "https://setver.polit.day/mods/ars_additions-1.21.1-21.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ars_additions-1.21.1-21.3.0.jar",
       "required": true
     },
     {
@@ -697,7 +698,7 @@
       "version": "${file.jarVersion}",
       "sha256": "50f0fe5c5f855151c1482c1772ea94c2eaadc2b0c85c963bb9aeb421fc801e4f",
       "size": 95973,
-      "serverUrl": "https://setver.polit.day/mods/ars_creo-1.21.1-5.4.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ars_creo-1.21.1-5.4.0.jar",
       "required": true
     },
     {
@@ -707,7 +708,7 @@
       "version": "${file.jarVersion}",
       "sha256": "99dff85e8778f7ae21dfd51cdedadf20f555a834fc757c0afe5f03c10eea96f2",
       "size": 20107711,
-      "serverUrl": "https://setver.polit.day/mods/ars_nouveau-1.21.1-5.13.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ars_nouveau-1.21.1-5.13.1.jar",
       "required": true
     },
     {
@@ -715,7 +716,7 @@
       "filename": "ars_technica-1.21.1-2.7.6.jar",
       "sha256": "64b70f39f8c8ca38262c69e2b84a6494a8a11c8ef7e570d8136b1818d5d3159d",
       "size": 3691171,
-      "serverUrl": "https://setver.polit.day/mods/ars_technica-1.21.1-2.7.6.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ars_technica-1.21.1-2.7.6.jar",
       "required": true
     },
     {
@@ -725,7 +726,7 @@
       "version": "2.0.0",
       "sha256": "616a07c0510ca7222698d90e365ae0c70b7a7c3d1f296acada8f5354a7be4166",
       "size": 67372,
-      "serverUrl": "https://setver.polit.day/mods/ars_two_way_portals-2.0.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ars_two_way_portals-2.0.0.jar",
       "required": true
     },
     {
@@ -733,7 +734,7 @@
       "filename": "arsdelight-2.2.2.jar",
       "sha256": "e8b547eccbbeefa98dc50b014e44c7c7ff30f479aad02ec8dab5716a473d0d46",
       "size": 1250237,
-      "serverUrl": "https://setver.polit.day/mods/arsdelight-2.2.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/arsdelight-2.2.2.jar",
       "required": true
     },
     {
@@ -743,7 +744,7 @@
       "version": "13.2.3",
       "sha256": "5841434f9ac404de3d3fdd05880f699b41d4388c4047aba4eccc70e356892e48",
       "size": 1086882,
-      "serverUrl": "https://setver.polit.day/mods/artifacts-neoforge-13.2.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/artifacts-neoforge-13.2.3.jar",
       "required": true
     },
     {
@@ -753,7 +754,7 @@
       "version": "4.0.6",
       "sha256": "e76570a113ac9cd7fecc85fc6d2323ef2e04318e4b7615d34519843adfe838f5",
       "size": 15397914,
-      "serverUrl": "https://setver.polit.day/mods/automodpack-mc1.21.1-neoforge-4.0.6.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/automodpack-mc1.21.1-neoforge-4.0.6.jar",
       "required": true
     },
     {
@@ -763,7 +764,7 @@
       "version": "3.1.11",
       "sha256": "54c3a272716344e214d00ba4c338ce153ef997fe4e70aec3d80ef92037dbd1b1",
       "size": 877948,
-      "serverUrl": "https://setver.polit.day/mods/azurelib-neo-1.21.1-3.1.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/azurelib-neo-1.21.1-3.1.11.jar",
       "required": true
     },
     {
@@ -771,7 +772,7 @@
       "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
       "sha256": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca",
       "size": 193619,
-      "serverUrl": "https://setver.polit.day/mods/bellsandwhistles-0.4.7-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/bellsandwhistles-0.4.7-1.21.1.jar",
       "required": true
     },
     {
@@ -781,7 +782,7 @@
       "version": "3.3.6.3",
       "sha256": "03acad0637dd5d86361178eb3e87ad8f2ed965e9c84514df4dc4228bb24aa2aa",
       "size": 585998,
-      "serverUrl": "https://setver.polit.day/mods/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
       "required": true
     },
     {
@@ -791,7 +792,7 @@
       "version": "1.0.212-1.21.1-snapshot",
       "sha256": "35f44cb349edb1d55d2a530e07705fe088b1695d1854355cbb12236b26f4311e",
       "size": 468142,
-      "serverUrl": "https://setver.polit.day/mods/blockui-1.0.212-1.21.1-snapshot.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/blockui-1.0.212-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -801,7 +802,7 @@
       "version": "21.1.81",
       "sha256": "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
       "size": 328813,
-      "serverUrl": "https://setver.polit.day/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
       "required": true
     },
     {
@@ -811,7 +812,7 @@
       "version": "7.0.1+1.21.1",
       "sha256": "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f",
       "size": 50235,
-      "serverUrl": "https://setver.polit.day/mods/caelus-neoforge-7.0.1+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/caelus-neoforge-7.0.1+1.21.1.jar",
       "required": true
     },
     {
@@ -819,7 +820,7 @@
       "filename": "cannoncompressedarmor-1.0.0.jar",
       "sha256": "4f7f57aef07991bd00c5234764d71907913de182cc3a64a059c3f3c958bd4e61",
       "size": 2317633,
-      "serverUrl": "https://setver.polit.day/mods/cannoncompressedarmor-1.0.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cannoncompressedarmor-1.0.0.jar",
       "required": true
     },
     {
@@ -827,7 +828,7 @@
       "filename": "carryon-neoforge-1.21.1-2.2.6.13.jar",
       "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09",
       "size": 361486,
-      "serverUrl": "https://setver.polit.day/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "required": true
     },
     {
@@ -837,7 +838,7 @@
       "version": "1.11.2",
       "sha256": "b3c958772c61354fccf04b52264f2e398c8bf9a28d192d675bf82359b647ef43",
       "size": 302750,
-      "serverUrl": "https://setver.polit.day/mods/catalogue-neoforge-1.21.1-1.11.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/catalogue-neoforge-1.21.1-1.11.2.jar",
       "required": true
     },
     {
@@ -845,7 +846,7 @@
       "filename": "cbc_at_Neoforge_1.21.1_0.1.4c.jar",
       "sha256": "88fb40b3353308c90d68f4512b78b63fd7278d05915d9d8628cecab9508ee58f",
       "size": 1438535,
-      "serverUrl": "https://setver.polit.day/mods/cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cbc_at_Neoforge_1.21.1_0.1.4c.jar",
       "required": true
     },
     {
@@ -853,7 +854,7 @@
       "filename": "cbc_going_ballistic-0.3.1.jar",
       "sha256": "0c06454df5b7a2e6d1b82e001e761fc997e4efc7c1028f2401b608149132df25",
       "size": 203847,
-      "serverUrl": "https://setver.polit.day/mods/cbc_going_ballistic-0.3.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cbc_going_ballistic-0.3.1.jar",
       "required": true
     },
     {
@@ -863,7 +864,7 @@
       "version": "0.4.0",
       "sha256": "01658c8e451046fe64b1fdd896e58ef37c670b951fb78409f96e2ab94b3bad79",
       "size": 293965,
-      "serverUrl": "https://setver.polit.day/mods/cbc_terminal_ballistics-2.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cbc_terminal_ballistics-2.3.0.jar",
       "required": true
     },
     {
@@ -873,7 +874,7 @@
       "version": "${file.jarVersion}",
       "sha256": "af778cd69bd34c372beb49cb374e6ce957287720a28a16e93f8b4174c7d7ad3e",
       "size": 100264,
-      "serverUrl": "https://setver.polit.day/mods/cbcnavigators-0.1.2+mc.1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cbcnavigators-0.1.2+mc.1.21.1.jar",
       "required": true
     },
     {
@@ -881,7 +882,7 @@
       "filename": "chunkloaders-1.2.9-neoforge-mc1.21.jar",
       "sha256": "6802c2b7ea859711462f64114c9e7ff4352a92c844a9a8f195056c8383a29147",
       "size": 146058,
-      "serverUrl": "https://setver.polit.day/mods/chunkloaders-1.2.9-neoforge-mc1.21.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/chunkloaders-1.2.9-neoforge-mc1.21.jar",
       "required": true
     },
     {
@@ -891,7 +892,7 @@
       "version": "1.4.23",
       "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274",
       "size": 340572,
-      "serverUrl": "https://setver.polit.day/mods/chunky-neoforge-1.4.23.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/chunky-neoforge-1.4.23.jar",
       "required": true
     },
     {
@@ -899,7 +900,7 @@
       "filename": "citadel-1.21.1-2.7.6.jar",
       "sha256": "9e12468c49e5a95b7adbf22b3b4d05bc55565989b89c40b985cd73bdfe63c3c2",
       "size": 3028943,
-      "serverUrl": "https://setver.polit.day/mods/citadel-1.21.1-2.7.6.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/citadel-1.21.1-2.7.6.jar",
       "required": true
     },
     {
@@ -909,7 +910,7 @@
       "version": "15.0.140",
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
       "size": 1163890,
-      "serverUrl": "https://setver.polit.day/mods/cloth-config-15.0.140-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cloth-config-15.0.140-neoforge.jar",
       "required": true
     },
     {
@@ -919,7 +920,7 @@
       "version": "8.39",
       "sha256": "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe",
       "size": 1061931,
-      "serverUrl": "https://setver.polit.day/mods/collective-1.21.1-8.39.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/collective-1.21.1-8.39.jar",
       "required": true
     },
     {
@@ -929,7 +930,7 @@
       "version": "0.2.0",
       "sha256": "7ba1d14c6d45a8534ef555dd95e24958545d3d97f0e0e1972117c13b00215949",
       "size": 470183,
-      "serverUrl": "https://setver.polit.day/mods/colonies_at_war-0.2.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/colonies_at_war-0.2.0.jar",
       "required": true
     },
     {
@@ -939,7 +940,7 @@
       "version": "${file.jarVersion}",
       "sha256": "289bce2316fa0584bd0867322751da8bcbc9ac3ab991a2deea4fa140a13e4f3e",
       "size": 26017,
-      "serverUrl": "https://setver.polit.day/mods/common-networking-neoforge-1.0.21-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/common-networking-neoforge-1.0.21-1.21.1.jar",
       "required": true
     },
     {
@@ -947,7 +948,7 @@
       "filename": "connectedglass-1.1.14-neoforge-mc1.21.jar",
       "sha256": "e5b2a1cd8ef1b8a49a322aeccfc5cd9a53d8303613b9f30718f12a1e525d49fe",
       "size": 819976,
-      "serverUrl": "https://setver.polit.day/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
       "required": true
     },
     {
@@ -955,7 +956,7 @@
       "filename": "connector-2.0.0-beta.14+1.21.1-full.jar",
       "sha256": "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b",
       "size": 4526785,
-      "serverUrl": "https://setver.polit.day/mods/connector-2.0.0-beta.14+1.21.1-full.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/connector-2.0.0-beta.14+1.21.1-full.jar",
       "required": true
     },
     {
@@ -965,7 +966,7 @@
       "version": "3.0.0+1.21.neoforge",
       "sha256": "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a",
       "size": 1014626,
-      "serverUrl": "https://setver.polit.day/mods/continuity-3.0.0+1.21.neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/continuity-3.0.0+1.21.neoforge.jar",
       "required": true
     },
     {
@@ -975,7 +976,7 @@
       "version": "3.0.9+mc.1.21.1-neoforge",
       "sha256": "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e",
       "size": 1799381,
-      "serverUrl": "https://setver.polit.day/mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/copycats-3.0.9+mc.1.21.1-neoforge.jar",
       "required": true
     },
     {
@@ -983,7 +984,7 @@
       "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
       "sha256": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826",
       "size": 63981,
-      "serverUrl": "https://setver.polit.day/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
       "required": true
     },
     {
@@ -993,7 +994,7 @@
       "version": "6.0.10",
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
       "size": 19123767,
-      "serverUrl": "https://setver.polit.day/mods/create-1.21.1-6.0.10.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create-1.21.1-6.0.10.jar",
       "required": true
     },
     {
@@ -1001,7 +1002,7 @@
       "filename": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
       "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e",
       "size": 33123131,
-      "serverUrl": "https://setver.polit.day/mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
       "required": true
     },
     {
@@ -1011,7 +1012,7 @@
       "version": "2.5.4",
       "sha256": "6e68d68eb0619fb092861d981ae998b1fcf3757d5ca72636103a24bcdb89d1ad",
       "size": 1607409,
-      "serverUrl": "https://setver.polit.day/mods/create-enchantment-industry-2.5.4.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create-enchantment-industry-2.5.4.jar",
       "required": true
     },
     {
@@ -1021,7 +1022,7 @@
       "version": "1.4.9",
       "sha256": "d9e00c7e9cc5dec11455d42dd0f6d78418ce2213c4740ca8bec6b1e0e73adf1d",
       "size": 1819221,
-      "serverUrl": "https://setver.polit.day/mods/create-gunsmithing-1.21.1-1.4.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create-gunsmithing-1.21.1-1.4.9.jar",
       "required": true
     },
     {
@@ -1031,7 +1032,7 @@
       "version": "1.2.0+mc1.21.1",
       "sha256": "a217ea21ccc8364e99d86777e519436bc7c94516df9737ad0103047e48a44717",
       "size": 1644485,
-      "serverUrl": "https://setver.polit.day/mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
       "required": true
     },
     {
@@ -1041,7 +1042,7 @@
       "version": "2.1.4.",
       "sha256": "4aee9a1af2754609ab31bfebf13dc0d7d648e61e440232dbf9bb3459941e23d5",
       "size": 1347181,
-      "serverUrl": "https://setver.polit.day/mods/create-stuff-additions1.21.1_v2.1.4b.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create-stuff-additions1.21.1_v2.1.4b.jar",
       "required": true
     },
     {
@@ -1051,7 +1052,7 @@
       "version": "0.1.1-1.21.1",
       "sha256": "77da138d202ed9fa95f57ee45c411f7af4b6addfa55ff5175bd379b68cd079a6",
       "size": 160220,
-      "serverUrl": "https://setver.polit.day/mods/create_aero_radar-0.1.1-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_aero_radar-0.1.1-1.21.1.jar",
       "required": true
     },
     {
@@ -1061,7 +1062,7 @@
       "version": "0.2.8",
       "sha256": "149a68e131440c62a2aae39357dc23cf190d7ec4fb52c0c0b105834988d63596",
       "size": 734744,
-      "serverUrl": "https://setver.polit.day/mods/create_aeronautics_transmission_linkage-0.2.8.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_aeronautics_transmission_linkage-0.2.8.jar",
       "required": true
     },
     {
@@ -1071,7 +1072,7 @@
       "version": "1.3.3-mc1.21.1",
       "sha256": "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f",
       "size": 6786783,
-      "serverUrl": "https://setver.polit.day/mods/create_connected-1.3.3-mc1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_connected-1.3.3-mc1.21.1.jar",
       "required": true
     },
     {
@@ -1081,7 +1082,7 @@
       "version": "1.2.0",
       "sha256": "b373a5a1483ba903ff9b696ffbf45b3e47aa514fed0fc880f7dbb6b9e8d293b0",
       "size": 421892,
-      "serverUrl": "https://setver.polit.day/mods/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1091,7 +1092,7 @@
       "version": "0.4.9.4-1.21.1",
       "sha256": "4554359fee389b1c255b4cef23ac41e978b2a371cec9e952185f4ec0a90ee930",
       "size": 2990812,
-      "serverUrl": "https://setver.polit.day/mods/create_radar-0.4.9.4-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_radar-0.4.9.4-1.21.1.jar",
       "required": true
     },
     {
@@ -1099,7 +1100,7 @@
       "filename": "create_sa_tankfix-1.0.0.jar",
       "sha256": "8d1f397691b945b272b940bd77e31de5ecfc88fb797ef064b12794cf2ffa45d8",
       "size": 8646,
-      "serverUrl": "https://setver.polit.day/mods/create_sa_tankfix-1.0.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_sa_tankfix-1.0.0.jar",
       "required": true
     },
     {
@@ -1109,7 +1110,7 @@
       "version": "1.2",
       "sha256": "b25c8242032af906af2ee2af69b110a0c6e350e3fd824ba72771cb56cb534575",
       "size": 204038,
-      "serverUrl": "https://setver.polit.day/mods/create_sna-1.2-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_sna-1.2-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1119,7 +1120,7 @@
       "version": "4.1.1",
       "sha256": "37cfe32ca602a37bd21307e6f456a35788c30315722f14e07326ff555d188fc0",
       "size": 1055815,
-      "serverUrl": "https://setver.polit.day/mods/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1129,7 +1130,7 @@
       "version": "2.2.4",
       "sha256": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0",
       "size": 235239,
-      "serverUrl": "https://setver.polit.day/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1137,7 +1138,7 @@
       "filename": "create_vampirism-1.0.jar",
       "sha256": "b009d604422613f8cbb5b09464620db37c0227bcbceb94ed8006dbf802924313",
       "size": 287207,
-      "serverUrl": "https://setver.polit.day/mods/create_vampirism-1.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_vampirism-1.0.jar",
       "required": true
     },
     {
@@ -1145,7 +1146,7 @@
       "filename": "create_wizardry-1.21.1-0.5.0.jar",
       "sha256": "2aea2828a3a570414fd370f8be5f4cc4158a3c363b75becfa74bb58b6dadc852",
       "size": 604049,
-      "serverUrl": "https://setver.polit.day/mods/create_wizardry-1.21.1-0.5.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/create_wizardry-1.21.1-0.5.0.jar",
       "required": true
     },
     {
@@ -1153,7 +1154,7 @@
       "filename": "createaddition-1.7.1.jar",
       "sha256": "69035faca181f645f23cff493fcfeebc5b3fb0f910460cf6547be13b6219062e",
       "size": 1726257,
-      "serverUrl": "https://setver.polit.day/mods/createaddition-1.7.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createaddition-1.7.1.jar",
       "required": true
     },
     {
@@ -1163,7 +1164,7 @@
       "version": "1.20.6",
       "sha256": "db1cd6ed5927b2be87f3c06d9176f4e424d3650e5ca98f4de599897b94f72843",
       "size": 1433941,
-      "serverUrl": "https://setver.polit.day/mods/createarscompact-1.20.6.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createarscompact-1.20.6.jar",
       "required": true
     },
     {
@@ -1173,7 +1174,7 @@
       "version": "5.11.7",
       "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca",
       "size": 3771506,
-      "serverUrl": "https://setver.polit.day/mods/createbigcannons-5.11.7+mc.1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createbigcannons-5.11.7+mc.1.21.1.jar",
       "required": true
     },
     {
@@ -1181,7 +1182,7 @@
       "filename": "createdeco-2.1.3.jar",
       "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
       "size": 3328498,
-      "serverUrl": "https://setver.polit.day/mods/createdeco-2.1.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createdeco-2.1.3.jar",
       "required": true
     },
     {
@@ -1191,7 +1192,7 @@
       "version": "1.21.1-1.3.15",
       "sha256": "56ef1d574278fc311f1ffa223dbd613077b899354a18d01ae8dca2578a4e2990",
       "size": 3154746,
-      "serverUrl": "https://setver.polit.day/mods/createdieselgenerators-1.21.1-1.3.15.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createdieselgenerators-1.21.1-1.3.15.jar",
       "required": true
     },
     {
@@ -1199,7 +1200,7 @@
       "filename": "createfood-neoforge-1.21.1-2.7.1.jar",
       "sha256": "f156291f5e16caf918acd5e77d052a82b8789a6be7a365d2d8e637efeaf3eb93",
       "size": 9502179,
-      "serverUrl": "https://setver.polit.day/mods/createfood-neoforge-1.21.1-2.7.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createfood-neoforge-1.21.1-2.7.1.jar",
       "required": true
     },
     {
@@ -1209,7 +1210,7 @@
       "version": "3.0.0-1.21.1",
       "sha256": "6b0ccd1579f59d13b927d7462a1f3c60b1069da967e54d3fb5629dbe2ff89216",
       "size": 21815,
-      "serverUrl": "https://setver.polit.day/mods/createliquidfuel-3.0.0-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createliquidfuel-3.0.0-1.21.1.jar",
       "required": true
     },
     {
@@ -1219,7 +1220,7 @@
       "version": "1.3.2-beta.3",
       "sha256": "0d33c608c756ef5e293f1734403050d64c9651332a311e7aaf01370f40d9b1e3",
       "size": 1842160,
-      "serverUrl": "https://setver.polit.day/mods/createnuclear-1.3.2-beta.3-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createnuclear-1.3.2-beta.3-neoforge.jar",
       "required": true
     },
     {
@@ -1229,7 +1230,7 @@
       "version": "1.1.5",
       "sha256": "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1",
       "size": 1707765,
-      "serverUrl": "https://setver.polit.day/mods/createpropulsion-1.1.5.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createpropulsion-1.1.5.jar",
       "required": true
     },
     {
@@ -1237,7 +1238,7 @@
       "filename": "createrelicsplus-1.5.2.jar",
       "sha256": "8f9722b9c8676bec750cc5c7e14a4be026858db600a5e02ad08b9d0d4411ae69",
       "size": 296629,
-      "serverUrl": "https://setver.polit.day/mods/createrelicsplus-1.5.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createrelicsplus-1.5.2.jar",
       "required": true
     },
     {
@@ -1247,7 +1248,7 @@
       "version": "1.0.0",
       "sha256": "21acc1d26da66cd177bcff1f6f9b12f68be7b512c73827b2f03d64df1dc07f63",
       "size": 283217,
-      "serverUrl": "https://setver.polit.day/mods/createtnt-1.21.1-neoforge-CreateTNT1.0.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/createtnt-1.21.1-neoforge-CreateTNT1.0.0.jar",
       "required": true
     },
     {
@@ -1255,7 +1256,7 @@
       "filename": "cristellib-neoforge-1.21.1-3.1.7.jar",
       "sha256": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
       "size": 583525,
-      "serverUrl": "https://setver.polit.day/mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cristellib-neoforge-1.21.1-3.1.7.jar",
       "required": true
     },
     {
@@ -1263,7 +1264,7 @@
       "filename": "cupboard-1.21.1-4.2.jar",
       "sha256": "5162922647fe07c7b9f446870915b57ddd0ae9dcf56b243611130fea30f2f77a",
       "size": 30517,
-      "serverUrl": "https://setver.polit.day/mods/cupboard-1.21.1-4.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cupboard-1.21.1-4.2.jar",
       "required": true
     },
     {
@@ -1273,7 +1274,7 @@
       "version": "9.5.1+1.21.1",
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
       "size": 410690,
-      "serverUrl": "https://setver.polit.day/mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/curios-neoforge-9.5.1+1.21.1.jar",
       "required": true
     },
     {
@@ -1283,7 +1284,7 @@
       "version": "14.28",
       "sha256": "0008fb0a91dd1e84d52162cfe96addb5f6aed3b76d426ea7305d7624e31f1894",
       "size": 191666,
-      "serverUrl": "https://setver.polit.day/mods/customskinloader_universal-14.28.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/customskinloader_universal-14.28.jar",
       "required": true
     },
     {
@@ -1291,7 +1292,7 @@
       "filename": "domum-ornamentum-1.0.236-snapshot-main.jar",
       "sha256": "fcf875b183f9096b868b527837dfb677e397a11510cec79bdb01c7268b918f27",
       "size": 1151579,
-      "serverUrl": "https://setver.polit.day/mods/domum-ornamentum-1.0.236-snapshot-main.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/domum-ornamentum-1.0.236-snapshot-main.jar",
       "required": true
     },
     {
@@ -1299,7 +1300,7 @@
       "filename": "dream_relics-1.0.5-neoforge+mc1.21.1.jar",
       "sha256": "79ba8f94c3630fba8a65e745bdf0772658bb112c92d621d6294c0971765cdd58",
       "size": 221063,
-      "serverUrl": "https://setver.polit.day/mods/dream_relics-1.0.5-neoforge+mc1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/dream_relics-1.0.5-neoforge+mc1.21.1.jar",
       "required": true
     },
     {
@@ -1307,7 +1308,7 @@
       "filename": "dungeons-and-taverns-ancient-city-overhaul-v2.jar",
       "sha256": "890882ec1239fff1cd5cc5f1da1fe4be98a31e748d418220bee5f2b9f3d8fd91",
       "size": 945778,
-      "serverUrl": "https://setver.polit.day/mods/dungeons-and-taverns-ancient-city-overhaul-v2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/dungeons-and-taverns-ancient-city-overhaul-v2.jar",
       "required": true
     },
     {
@@ -1315,7 +1316,7 @@
       "filename": "dungeons-and-taverns-pillager-outpost-overhaul-v2.2.jar",
       "sha256": "dc776b9c27d1fa3fe8662d001c9bbc39b193d3dab544d8f42390b8c46b9b22de",
       "size": 516323,
-      "serverUrl": "https://setver.polit.day/mods/dungeons-and-taverns-pillager-outpost-overhaul-v2.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/dungeons-and-taverns-pillager-outpost-overhaul-v2.2.jar",
       "required": true
     },
     {
@@ -1323,7 +1324,7 @@
       "filename": "dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
       "sha256": "aded59a9f4a00c2614bc100af18ae9da420b2f9a12c192c5dd998efacc124f90",
       "size": 3128192,
-      "serverUrl": "https://setver.polit.day/mods/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
       "required": true
     },
     {
@@ -1331,7 +1332,7 @@
       "filename": "dungeons-and-taverns-v4.4.4 [NeoForge].jar",
       "sha256": "1db28e89e0cb76aebe9e40955d1866e8ac1779575d15c2a1e250ac804a762d05",
       "size": 24859622,
-      "serverUrl": "https://setver.polit.day/mods/dungeons-and-taverns-v4.4.4 [NeoForge].jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/dungeons-and-taverns-v4.4.4 [NeoForge].jar",
       "required": true
     },
     {
@@ -1339,7 +1340,7 @@
       "filename": "ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
       "sha256": "c7e3ff9d2627e08a1b3926117be276a33a4ff8db5e53d647a246e45f28bce73e",
       "size": 52328,
-      "serverUrl": "https://setver.polit.day/mods/ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
       "required": true
     },
     {
@@ -1349,7 +1350,7 @@
       "version": "\"${file.jarVersion}\" #mandatory",
       "sha256": "8acd575046f7446dcdd4640c83b3022150ab92e5f25878b3b330e98358563bac",
       "size": 4050310,
-      "serverUrl": "https://setver.polit.day/mods/eidolon_repraised-1.21.1-0.5.0.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/eidolon_repraised-1.21.1-0.5.0.2.jar",
       "required": true
     },
     {
@@ -1359,7 +1360,7 @@
       "version": "21.1.11",
       "sha256": "868d3eab3305d96dd3ecf510d18a7aa7444e2aea168695cf4aff23a96bec975f",
       "size": 82648,
-      "serverUrl": "https://setver.polit.day/mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
       "required": true
     },
     {
@@ -1369,7 +1370,7 @@
       "version": "2.6.1+neoforge.1.21.1",
       "sha256": "030593aa0957520b114c7ab36532cbf3c63c02d7d1bff86331b8bd9fc4145c4e",
       "size": 258124,
-      "serverUrl": "https://setver.polit.day/mods/ends_delight-2.6.1+neoforge.1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ends_delight-2.6.1+neoforge.1.21.1.jar",
       "required": true
     },
     {
@@ -1379,7 +1380,7 @@
       "version": "4.2.4.0",
       "sha256": "80a56a0277595dfd50a9d12cb3202d97a68a6b4adfab41488eee4204ce2ebe40",
       "size": 1395672,
-      "serverUrl": "https://setver.polit.day/mods/enhancedai-4.2.4.0-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/enhancedai-4.2.4.0-1.21.1.jar",
       "required": true
     },
     {
@@ -1389,7 +1390,7 @@
       "version": "3.3.9",
       "sha256": "21881f096eb73d44f90120c07bf4cc5187d52115841a720785ac02f6c478e562",
       "size": 641785,
-      "serverUrl": "https://setver.polit.day/mods/entity_model_features-3.3.9-1.21-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/entity_model_features-3.3.9-1.21-neoforge.jar",
       "required": true
     },
     {
@@ -1399,7 +1400,7 @@
       "version": "7.2.4",
       "sha256": "49da793fe15a8aed2222cd42b12e87e2a09df9890f773e179770b2f462d2988d",
       "size": 790080,
-      "serverUrl": "https://setver.polit.day/mods/entity_texture_features-7.2.4-1.21-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/entity_texture_features-7.2.4-1.21-neoforge.jar",
       "required": true
     },
     {
@@ -1409,7 +1410,7 @@
       "version": "5.1.0",
       "sha256": "be4fa9704e3621acd55e738d7dd4d9bb229c13d4b82482044f8c3cba58e1f516",
       "size": 628299,
-      "serverUrl": "https://setver.polit.day/mods/etched-5.1.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/etched-5.1.0.jar",
       "required": true
     },
     {
@@ -1419,7 +1420,7 @@
       "version": "0.2.3.0-neoforge",
       "sha256": "f6f8040cf1a177cc771c2d5f32677323b4bb87b41db210877de0192489ed8af1",
       "size": 100092594,
-      "serverUrl": "https://setver.polit.day/mods/explosionoverhaul-0.2.3.0-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/explosionoverhaul-0.2.3.0-neoforge.jar",
       "required": true
     },
     {
@@ -1427,7 +1428,7 @@
       "filename": "fabric-api-0.141.6+1.21.11.jar",
       "sha256": "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f",
       "size": 2426039,
-      "serverUrl": "https://setver.polit.day/mods/fabric-api-0.141.6+1.21.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/fabric-api-0.141.6+1.21.11.jar",
       "required": true
     },
     {
@@ -1437,7 +1438,7 @@
       "version": "7.0.3",
       "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
       "size": 121559,
-      "serverUrl": "https://setver.polit.day/mods/ferritecore-7.0.3-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ferritecore-7.0.3-neoforge.jar",
       "required": true
     },
     {
@@ -1447,7 +1448,7 @@
       "version": "${file.jarVersion}",
       "sha256": "96f8b489f401c64e87343daf57a030ccd1b58be40fc0aad701278ba58a0fadaf",
       "size": 5613159,
-      "serverUrl": "https://setver.polit.day/mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
       "required": true
     },
     {
@@ -1457,7 +1458,7 @@
       "version": "0.13.11",
       "sha256": "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5",
       "size": 387334,
-      "serverUrl": "https://setver.polit.day/mods/framework-neoforge-1.21.1-0.13.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/framework-neoforge-1.21.1-0.13.11.jar",
       "required": true
     },
     {
@@ -1465,7 +1466,7 @@
       "filename": "fusion-1.3.15a-neoforge-mc1.21.1.jar",
       "sha256": "0ae37e908293fd7c4df7364e2481d1b3793e2e921ec7597e3485bc039c08c6d4",
       "size": 947072,
-      "serverUrl": "https://setver.polit.day/mods/fusion-1.3.15a-neoforge-mc1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/fusion-1.3.15a-neoforge-mc1.21.1.jar",
       "required": true
     },
     {
@@ -1475,7 +1476,7 @@
       "version": "0.7.7+1.21+neoforge",
       "sha256": "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85",
       "size": 2392693,
-      "serverUrl": "https://setver.polit.day/mods/fzzy_config-0.7.7+1.21+neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/fzzy_config-0.7.7+1.21+neoforge.jar",
       "required": true
     },
     {
@@ -1485,7 +1486,7 @@
       "version": "1.9",
       "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
       "size": 31997,
-      "serverUrl": "https://setver.polit.day/mods/gaboulibs-neoforge-1.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/gaboulibs-neoforge-1.9.jar",
       "required": true
     },
     {
@@ -1495,7 +1496,7 @@
       "version": "4.9.3",
       "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47",
       "size": 634531,
-      "serverUrl": "https://setver.polit.day/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "required": true
     },
     {
@@ -1503,7 +1504,7 @@
       "filename": "godly_vampirism-1.21.1-1.10.0.jar",
       "sha256": "4eee82ac3ce1aa1ec2684ec041b79ac9d59894cc39540eee20e4aa294adec714",
       "size": 7693,
-      "serverUrl": "https://setver.polit.day/mods/godly_vampirism-1.21.1-1.10.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/godly_vampirism-1.21.1-1.10.0.jar",
       "required": true
     },
     {
@@ -1511,7 +1512,7 @@
       "filename": "guardvillagers-2.4.12-1.21.1.jar",
       "sha256": "aab03d59216bd931a05434b2527e0d5b7641793bd0178a9958100579c4f11407",
       "size": 283407,
-      "serverUrl": "https://setver.polit.day/mods/guardvillagers-2.4.12-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/guardvillagers-2.4.12-1.21.1.jar",
       "required": true
     },
     {
@@ -1521,7 +1522,7 @@
       "version": "1.3.7",
       "sha256": "08e6a39c0713fe16087842352af23a458ad39ed635faa4e91aa41cc1691e662b",
       "size": 1880110,
-      "serverUrl": "https://setver.polit.day/mods/hexalia-neoforge-1.3.7.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/hexalia-neoforge-1.3.7.jar",
       "required": true
     },
     {
@@ -1531,7 +1532,7 @@
       "version": "1.17.10",
       "sha256": "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864",
       "size": 331333,
-      "serverUrl": "https://setver.polit.day/mods/hw_patches_archive-1.17.10.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/hw_patches_archive-1.17.10.jar",
       "required": true
     },
     {
@@ -1539,7 +1540,7 @@
       "filename": "iceandfire-2.1.2.jar",
       "sha256": "3ce264a17bc06e5372077f64e80870d6c84ffbd5383aef59faeaa81d297769a6",
       "size": 20773661,
-      "serverUrl": "https://setver.polit.day/mods/iceandfire-2.1.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/iceandfire-2.1.2.jar",
       "required": true
     },
     {
@@ -1549,7 +1550,7 @@
       "version": "6.0.10",
       "sha256": "67bb8031de30ae7aa2dd42394e5610da96d09bc3f820085f642cb3b997790e75",
       "size": 4762842,
-      "serverUrl": "https://setver.polit.day/mods/immersive_portals-6.0.10.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/immersive_portals-6.0.10.jar",
       "required": true
     },
     {
@@ -1557,7 +1558,7 @@
       "filename": "immortuoscalyx-neoforge-1.21.1-2.2.0.jar",
       "sha256": "5e101a75226101d3c33dd855556f9737561a9e3b699a6875d4502fb284aa43fd",
       "size": 467249,
-      "serverUrl": "https://setver.polit.day/mods/immortuoscalyx-neoforge-1.21.1-2.2.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/immortuoscalyx-neoforge-1.21.1-2.2.0.jar",
       "required": true
     },
     {
@@ -1567,7 +1568,7 @@
       "version": "1.21.1-1.2.2",
       "sha256": "694ead6f595f106c5b82fbd8de30816f9f72e9ec5bc4a6c8b754e514bee7be2d",
       "size": 215488,
-      "serverUrl": "https://setver.polit.day/mods/inline-neoforge-1.21.1-1.2.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/inline-neoforge-1.21.1-1.2.2.jar",
       "required": true
     },
     {
@@ -1577,7 +1578,7 @@
       "version": "2.4.33.0",
       "sha256": "0aff5520bd64cd7e151c954e70badbf8e59321523ba612a8668beac012c1cdfd",
       "size": 1200742,
-      "serverUrl": "https://setver.polit.day/mods/insanelib-2.4.33.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/insanelib-2.4.33.0.jar",
       "required": true
     },
     {
@@ -1587,7 +1588,7 @@
       "version": "0.6.1",
       "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
       "size": 486912,
-      "serverUrl": "https://setver.polit.day/mods/interiors-1.21.1-neoforge-0.6.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/interiors-1.21.1-neoforge-0.6.1.jar",
       "required": true
     },
     {
@@ -1597,7 +1598,7 @@
       "version": "1.21-neoforge-16.0.7",
       "sha256": "dae66a38a33c2adac6ca0b7a4fbf4b365ba37a6a1f7a10961028617965c1fcaf",
       "size": 305975,
-      "serverUrl": "https://setver.polit.day/mods/ironchest-1.21-neoforge-16.0.7.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ironchest-1.21-neoforge-16.0.7.jar",
       "required": true
     },
     {
@@ -1605,7 +1606,7 @@
       "filename": "ironfurnaces-neoforge-1.21.1-4.3.2.jar",
       "sha256": "97c0d7c323fda4aa852fdce69bf1250a40323bb9d34ef6c87790e07334d1c2de",
       "size": 576866,
-      "serverUrl": "https://setver.polit.day/mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
       "required": true
     },
     {
@@ -1615,7 +1616,7 @@
       "version": "\"1.21.1-2.1.0\" #mandatory",
       "sha256": "3d0ad1003d6edeaad2500b9922267b4192d2c603cdd846fda339b168f4deff72",
       "size": 406284,
-      "serverUrl": "https://setver.polit.day/mods/irons_lib-1.21.1-2.1.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/irons_lib-1.21.1-2.1.0.jar",
       "required": true
     },
     {
@@ -1623,7 +1624,7 @@
       "filename": "irons_spellbooks-1.21.1-3.16.3.jar",
       "sha256": "55a290db9b966e0c5d2f5c051d50775f3db6375cdb52730c4da528bcf5d5daa0",
       "size": 13890045,
-      "serverUrl": "https://setver.polit.day/mods/irons_spellbooks-1.21.1-3.16.3.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/irons_spellbooks-1.21.1-3.16.3.jar",
       "required": true
     },
     {
@@ -1631,7 +1632,7 @@
       "filename": "jei-1.21.1-neoforge-19.56.0.441.jar",
       "sha256": "f8f2d378f6291bb003e7aeb0675917227df5a428aa0842453ec3235d82ad735b",
       "size": 2156268,
-      "serverUrl": "https://setver.polit.day/mods/jei-1.21.1-neoforge-19.56.0.441.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/jei-1.21.1-neoforge-19.56.0.441.jar",
       "required": true
     },
     {
@@ -1641,7 +1642,7 @@
       "version": "1.21.1-6.0.8",
       "sha256": "a19a52a067556fcce59c782976019f26531ff307eb29a0e597fa49a845c776ee",
       "size": 4303084,
-      "serverUrl": "https://setver.polit.day/mods/journeymap-neoforge-1.21.1-6.0.8.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/journeymap-neoforge-1.21.1-6.0.8.jar",
       "required": true
     },
     {
@@ -1650,7 +1651,7 @@
       "modId": "jupiter",
       "sha256": "95af332af250f97fe2d9d288fe6b2057c266673a388348bf33756b0b693ace15",
       "size": 278988,
-      "serverUrl": "https://setver.polit.day/mods/jupiter-2.3.7-1.21.1-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/jupiter-2.3.7-1.21.1-neoforge.jar",
       "required": true
     },
     {
@@ -1658,7 +1659,7 @@
       "filename": "kotlinforforge-5.12.0-all.jar",
       "sha256": "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
       "size": 7279264,
-      "serverUrl": "https://setver.polit.day/mods/kotlinforforge-5.12.0-all.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/kotlinforforge-5.12.0-all.jar",
       "required": true
     },
     {
@@ -1668,7 +1669,7 @@
       "version": "4.8.11+1.21.1",
       "sha256": "913b0358b1031828f1e060ea0ee361232dc2a1c82464f488a0a920739ce7c763",
       "size": 2023375,
-      "serverUrl": "https://setver.polit.day/mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/lambdynamiclights-4.8.11+1.21.1.jar",
       "required": true
     },
     {
@@ -1676,7 +1677,7 @@
       "filename": "legendarysurvivaloverhaul-1.21.1-2.4.7.2.jar",
       "sha256": "6fca055e218e7d3a482007afe62fae1138463b898357c5d552fc373c77ad9260",
       "size": 3916894,
-      "serverUrl": "https://setver.polit.day/mods/legendarysurvivaloverhaul-1.21.1-2.4.7.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/legendarysurvivaloverhaul-1.21.1-2.4.7.2.jar",
       "required": true
     },
     {
@@ -1684,7 +1685,7 @@
       "filename": "lionfishapi-3.1.jar",
       "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6",
       "size": 91596,
-      "serverUrl": "https://setver.polit.day/mods/lionfishapi-3.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/lionfishapi-3.1.jar",
       "required": true
     },
     {
@@ -1694,7 +1695,7 @@
       "version": "0.5.11",
       "sha256": "4848747d56cb16ec247430152f64d71bcb831fbbb2f530005503d94bc77145df",
       "size": 338451,
-      "serverUrl": "https://setver.polit.day/mods/mezz_config-1.21.1-neoforge-0.5.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/mezz_config-1.21.1-neoforge-0.5.11.jar",
       "required": true
     },
     {
@@ -1702,7 +1703,7 @@
       "filename": "minecolonies-1.1.1392-1.21.1-snapshot.jar",
       "sha256": "e36615e1ae73781ecf50c3852e0161d6bd3962217ef110f14f6f8cbe7cb3ffcf",
       "size": 78283836,
-      "serverUrl": "https://setver.polit.day/mods/minecolonies-1.1.1392-1.21.1-snapshot.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/minecolonies-1.1.1392-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -1710,7 +1711,7 @@
       "filename": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
       "sha256": "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe",
       "size": 604333,
-      "serverUrl": "https://setver.polit.day/mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
       "required": true
     },
     {
@@ -1718,9 +1719,9 @@
       "filename": "modpack-sync-server-1.0.0.jar",
       "modId": "modpacksync",
       "version": "1.0.0",
-      "sha256": "7cbbde9d34f71bee113b62327263bb35fb05b3ac8d2971b19c86b2430b65b438",
-      "size": 12391,
-      "serverUrl": "https://setver.polit.day/mods/modpack-sync-server-1.0.0.jar",
+      "sha256": "0ad7aa17355702f1a91e7ec85fb0049b3212d3f6b51e87e262930490ea309e1c",
+      "size": 12467,
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/modpack-sync-server-1.0.0.jar",
       "required": true
     },
     {
@@ -1730,7 +1731,7 @@
       "version": "1.21.1-3.6.5",
       "sha256": "1c8ea06c244addb7a040ef6d0cef0c27a5b3c619afeff38277767aadd55e5562",
       "size": 2280483,
-      "serverUrl": "https://setver.polit.day/mods/moonlight-1.21.1-3.6.5-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/moonlight-1.21.1-3.6.5-neoforge.jar",
       "required": true
     },
     {
@@ -1738,7 +1739,7 @@
       "filename": "moreculling-neoforge-1.21.1-1.0.10.jar",
       "sha256": "008068af65deec86382b4fdde61e7f495e54861cc28d5a5b000c32b435213ed3",
       "size": 335699,
-      "serverUrl": "https://setver.polit.day/mods/moreculling-neoforge-1.21.1-1.0.10.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/moreculling-neoforge-1.21.1-1.0.10.jar",
       "required": true
     },
     {
@@ -1746,7 +1747,7 @@
       "filename": "morerelics-1.7.7-forRelics-0.12.8-1.0-1.21.1.jar",
       "sha256": "c3d71a841ef483d36e062fed5b17c4724260ce4e78ffe7ab9368264ab64d42d2",
       "size": 830791,
-      "serverUrl": "https://setver.polit.day/mods/morerelics-1.7.7-forRelics-0.12.8-1.0-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/morerelics-1.7.7-forRelics-0.12.8-1.0-1.21.1.jar",
       "required": true
     },
     {
@@ -1754,7 +1755,7 @@
       "filename": "moretidefish-1.1.jar",
       "sha256": "8881c1132701d5fd856d2a44ca1860062e557cbaefa2d86cd9db9d786c75e184",
       "size": 216182,
-      "serverUrl": "https://setver.polit.day/mods/moretidefish-1.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/moretidefish-1.1.jar",
       "required": true
     },
     {
@@ -1762,7 +1763,7 @@
       "filename": "multipiston-1.2.58-1.21.1.jar",
       "sha256": "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7",
       "size": 34139,
-      "serverUrl": "https://setver.polit.day/mods/multipiston-1.2.58-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/multipiston-1.2.58-1.21.1.jar",
       "required": true
     },
     {
@@ -1772,7 +1773,7 @@
       "version": "0.5.0-alpha.12",
       "sha256": "0991b4770bc113891df9b30f293173f4ac52fc2350c6cf3d40a6c392173f0ea9",
       "size": 14215249,
-      "serverUrl": "https://setver.polit.day/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
       "required": true
     },
     {
@@ -1780,7 +1781,7 @@
       "filename": "neoforge-dungeonsdelight-1.21.1-1.5.1.jar",
       "sha256": "fbf4ac63cc7ba6f8d2131294ddebe413ceaae52e62d1ced210ad985ad8c35351",
       "size": 6906486,
-      "serverUrl": "https://setver.polit.day/mods/neoforge-dungeonsdelight-1.21.1-1.5.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/neoforge-dungeonsdelight-1.21.1-1.5.1.jar",
       "required": true
     },
     {
@@ -1788,7 +1789,7 @@
       "filename": "neoforge-runiclib-1.21.1-5.0.7.jar",
       "sha256": "a6ce49f1025b257437ab4ed88551faa78fe22b863dfa18897c712a1ebba2af86",
       "size": 175793,
-      "serverUrl": "https://setver.polit.day/mods/neoforge-runiclib-1.21.1-5.0.7.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/neoforge-runiclib-1.21.1-5.0.7.jar",
       "required": true
     },
     {
@@ -1798,7 +1799,7 @@
       "version": "3.2.0",
       "sha256": "38c3a93426c44195b7cdb0773b2d4554496bcc57f994f19779714e03b0bf0122",
       "size": 3965533,
-      "serverUrl": "https://setver.polit.day/mods/ntgl-1.21.1-3.2.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ntgl-1.21.1-3.2.0.jar",
       "required": true
     },
     {
@@ -1806,7 +1807,7 @@
       "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
       "sha256": "30fec2263f77bcd4002995d9fc127a911c964317dbd0e3c54e348954d1722d38",
       "size": 117108,
-      "serverUrl": "https://setver.polit.day/mods/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/oceansdelight-neoforge-1.0.4-1.21.1.jar",
       "required": true
     },
     {
@@ -1816,7 +1817,7 @@
       "version": "0.12.15.5-beta.1+1.21",
       "sha256": "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
       "size": 1221583,
-      "serverUrl": "https://setver.polit.day/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
       "required": true
     },
     {
@@ -1826,7 +1827,7 @@
       "version": "3.3.1",
       "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
       "size": 46623,
-      "serverUrl": "https://setver.polit.day/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
       "required": true
     },
     {
@@ -1836,7 +1837,7 @@
       "version": "0.7.0+neoforge-1.21.1",
       "sha256": "0989af16436cecdaceeb031d48f29db00da556bf4178edac4538153cb82be385",
       "size": 257735,
-      "serverUrl": "https://setver.polit.day/mods/paucal-0.7.0+neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/paucal-0.7.0+neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1846,7 +1847,7 @@
       "version": "2.0.4+1.21.1",
       "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
       "size": 203149,
-      "serverUrl": "https://setver.polit.day/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "required": true
     },
     {
@@ -1856,7 +1857,7 @@
       "version": "2.0.0",
       "sha256": "39bd87ba2731d2f2416f464120f9019e733558156dbcf85552ef3d5e0703b11b",
       "size": 133486,
-      "serverUrl": "https://setver.polit.day/mods/portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1866,7 +1867,7 @@
       "version": "21.1.11",
       "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
       "size": 84812,
-      "serverUrl": "https://setver.polit.day/mods/prickle-neoforge-1.21.1-21.1.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/prickle-neoforge-1.21.1-21.1.11.jar",
       "required": true
     },
     {
@@ -1876,7 +1877,7 @@
       "version": "0.3.0",
       "sha256": "ffb17d35c82053c3c95bd3f488502350bb0877bf1837f16c5e6f86134daef2d3",
       "size": 885971,
-      "serverUrl": "https://setver.polit.day/mods/ragdoll_corpse-1.21.1-0.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ragdoll_corpse-1.21.1-0.3.0.jar",
       "required": true
     },
     {
@@ -1886,7 +1887,7 @@
       "version": "3.0.0+1.21.1",
       "sha256": "3011f512bdcc231778a225941187a70e4282b0b526d7d93f2b0896cde9b796c5",
       "size": 163099,
-      "serverUrl": "https://setver.polit.day/mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
       "required": true
     },
     {
@@ -1896,7 +1897,7 @@
       "version": "0.12.8",
       "sha256": "db6f436053fe717413389e55390a5f98103ccd91cca5fe469e090bdfaef70717",
       "size": 5007593,
-      "serverUrl": "https://setver.polit.day/mods/relics-1.21.1-0.12.8.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/relics-1.21.1-0.12.8.jar",
       "required": true
     },
     {
@@ -1906,7 +1907,7 @@
       "version": "1.4.0",
       "sha256": "25a4671e5a40ad4e050ce33773c3929b4842b672be3b09a752113e821855c577",
       "size": 2183371,
-      "serverUrl": "https://setver.polit.day/mods/relics-neoforge-1.4.0+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/relics-neoforge-1.4.0+1.21.1.jar",
       "required": true
     },
     {
@@ -1916,7 +1917,7 @@
       "version": "1.0.0",
       "sha256": "7251d3f7ea58453fd893e5ff38a984cbc54654abdb6fdc96397cef0df900ef78",
       "size": 5726324,
-      "serverUrl": "https://setver.polit.day/mods/relics_artifacts-1.0.5-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/relics_artifacts-1.0.5-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1924,7 +1925,7 @@
       "filename": "relics_sable_compat-1.0.0.jar",
       "sha256": "0f69de37a4c878927e01a5c75ca3c330d5201c4a13af27280a742e4aaa2bade6",
       "size": 861219,
-      "serverUrl": "https://setver.polit.day/mods/relics_sable_compat-1.0.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/relics_sable_compat-1.0.0.jar",
       "required": true
     },
     {
@@ -1934,7 +1935,7 @@
       "version": "0.8.1",
       "sha256": "bdcb07f27293260e0d0e4d24df782da0310a6d383aab2d84a02a2d105a078eaf",
       "size": 1183912,
-      "serverUrl": "https://setver.polit.day/mods/reliquified_ars_nouveau-1.21.1-0.8.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/reliquified_ars_nouveau-1.21.1-0.8.1.jar",
       "required": true
     },
     {
@@ -1944,7 +1945,7 @@
       "version": "1.0.8",
       "sha256": "360fd701d575b5421675bfdc50c6ed8a22614410eb92dd782424f9b5fb5c0006",
       "size": 699260,
-      "serverUrl": "https://setver.polit.day/mods/reliquified_artifacts-1.21.1-1.0.8.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/reliquified_artifacts-1.21.1-1.0.8.jar",
       "required": true
     },
     {
@@ -1954,7 +1955,7 @@
       "version": "0.2.7",
       "sha256": "36f938eb757134de24e51d33a745c4bf52088be764688f330b74757316c40ed7",
       "size": 653721,
-      "serverUrl": "https://setver.polit.day/mods/reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar",
       "required": true
     },
     {
@@ -1964,7 +1965,7 @@
       "version": "3.0.11",
       "sha256": "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
       "size": 341009,
-      "serverUrl": "https://setver.polit.day/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
       "required": true
     },
     {
@@ -1974,7 +1975,7 @@
       "version": "3.0.12",
       "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
       "size": 484332,
-      "serverUrl": "https://setver.polit.day/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "required": true
     },
     {
@@ -1984,7 +1985,7 @@
       "version": "2.1.2",
       "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24",
       "size": 76369,
-      "serverUrl": "https://setver.polit.day/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
       "required": true
     },
     {
@@ -1994,7 +1995,7 @@
       "version": "2.0.6",
       "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
       "size": 12986135,
-      "serverUrl": "https://setver.polit.day/mods/sable-neoforge-1.21.1-2.0.6.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sable-neoforge-1.21.1-2.0.6.jar",
       "required": true
     },
     {
@@ -2004,7 +2005,7 @@
       "version": "0.1.13",
       "sha256": "67f1d87010c41b06dc280437b82dc7da85ffba03fa7d602b582565097be2259c",
       "size": 23908,
-      "serverUrl": "https://setver.polit.day/mods/sable_createaddition_compat-0.1.13.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sable_createaddition_compat-0.1.13.jar",
       "required": true
     },
     {
@@ -2014,7 +2015,7 @@
       "version": "0.7.5",
       "sha256": "69611deff1c2b18ae0ae7dbaea24cc14f4b69f0368297653933ae9b33adf2d2b",
       "size": 1466748,
-      "serverUrl": "https://setver.polit.day/mods/sable_player_ragdoll-1.21.1-0.7.5.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sable_player_ragdoll-1.21.1-0.7.5.jar",
       "required": true
     },
     {
@@ -2022,7 +2023,7 @@
       "filename": "sablecollisiondamage-1.0.8.jar",
       "sha256": "a053bc5aba63563918608dd9a53077d7dc832ce32066322fc0f0235c0deda62a",
       "size": 42942,
-      "serverUrl": "https://setver.polit.day/mods/sablecollisiondamage-1.0.8.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sablecollisiondamage-1.0.8.jar",
       "required": true
     },
     {
@@ -2030,7 +2031,7 @@
       "filename": "sableexplosionfix-1.0.0.jar",
       "sha256": "456c257f1e4f176cce07b9bbd0e48c31338414a5ed0d277dc8ac57105c4c63cb",
       "size": 4795,
-      "serverUrl": "https://setver.polit.day/mods/sableexplosionfix-1.0.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sableexplosionfix-1.0.0.jar",
       "required": true
     },
     {
@@ -2040,7 +2041,7 @@
       "version": "1.3.0",
       "sha256": "f26e974115226d83ec363e3d327e739c87ded760d781ca0538181094eb4bb9a2",
       "size": 301532,
-      "serverUrl": "https://setver.polit.day/mods/sablejade-1.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sablejade-1.3.0.jar",
       "required": true
     },
     {
@@ -2048,7 +2049,7 @@
       "filename": "sablephysicscompat-1.3.0.jar",
       "sha256": "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6",
       "size": 25334,
-      "serverUrl": "https://setver.polit.day/mods/sablephysicscompat-1.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sablephysicscompat-1.3.0.jar",
       "required": true
     },
     {
@@ -2056,7 +2057,7 @@
       "filename": "sauce-1.21.1-0.0.62.jar",
       "sha256": "457edc4879e03bb3c97f6bd9dc845d35a0b540fae12dc5e6e8f0b89f7f7de907",
       "size": 247912,
-      "serverUrl": "https://setver.polit.day/mods/sauce-1.21.1-0.0.62.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sauce-1.21.1-0.0.62.jar",
       "required": true
     },
     {
@@ -2064,7 +2065,7 @@
       "filename": "sim_copycats-1.3.2.jar",
       "sha256": "c0f1017f76118a283fcf0ebdd371c2f7bee2ac56b11c7459efdfa6a42fe9c5af",
       "size": 388184,
-      "serverUrl": "https://setver.polit.day/mods/sim_copycats-1.3.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sim_copycats-1.3.2.jar",
       "required": true
     },
     {
@@ -2074,7 +2075,7 @@
       "version": "1.11.3",
       "sha256": "af7dcd6c6a40793adc0f7e57dd8fcc04c9e9bdf9c8ffa4efeb36e22d8b1f79db",
       "size": 1903528,
-      "serverUrl": "https://setver.polit.day/mods/skinlayers3d-neoforge-1.11.3-mc1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/skinlayers3d-neoforge-1.11.3-mc1.21.1.jar",
       "required": true
     },
     {
@@ -2084,7 +2085,7 @@
       "version": "4.3.3",
       "sha256": "f887f70d8a5892c0cffb4fcac59dd189c76aef64e2f2d4771743ca8721d6ee48",
       "size": 1354014,
-      "serverUrl": "https://setver.polit.day/mods/sliceanddice-4.3.3-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sliceanddice-4.3.3-neoforge.jar",
       "required": true
     },
     {
@@ -2094,7 +2095,7 @@
       "version": "3.26.3",
       "sha256": "8656ae953d67d1d21e42ed3f103d2be07cdf23bab445c8fc3af468cfd8852514",
       "size": 1251706,
-      "serverUrl": "https://setver.polit.day/mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
       "required": true
     },
     {
@@ -2104,7 +2105,7 @@
       "version": "1.5.1",
       "sha256": "48d9b3703fedb455fc0aef1f57089f90cc0d2a2400979cef3bc37763fa125c41",
       "size": 1785221,
-      "serverUrl": "https://setver.polit.day/mods/sophisticatedcore-1.21.1-1.5.1.2341.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sophisticatedcore-1.21.1-1.5.1.2341.jar",
       "required": true
     },
     {
@@ -2114,7 +2115,7 @@
       "version": "1.21.1-1.5.1",
       "sha256": "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea",
       "size": 202454,
-      "serverUrl": "https://setver.polit.day/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "required": true
     },
     {
@@ -2123,7 +2124,7 @@
       "modId": "spark",
       "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
       "size": 3642581,
-      "serverUrl": "https://setver.polit.day/mods/spark-1.10.124-neoforge.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/spark-1.10.124-neoforge.jar",
       "required": true
     },
     {
@@ -2133,7 +2134,7 @@
       "version": "1.10.7",
       "sha256": "fb63732cfc9868c684524240ec022fea139326b7f66c66323f8e249e261f2014",
       "size": 4605810,
-      "serverUrl": "https://setver.polit.day/mods/spell_engine-neoforge-1.10.7+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/spell_engine-neoforge-1.10.7+1.21.1.jar",
       "required": true
     },
     {
@@ -2143,7 +2144,7 @@
       "version": "1.6.0+1.21.1",
       "sha256": "a57cd041be1bee86640861588ad9b4a3a032d2dedff8d44abf5305136e2f5854",
       "size": 222955,
-      "serverUrl": "https://setver.polit.day/mods/spell_power-neoforge-1.6.0+1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/spell_power-neoforge-1.6.0+1.21.1.jar",
       "required": true
     },
     {
@@ -2151,7 +2152,7 @@
       "filename": "starbunclemania-1.21.1-1.5.9.jar",
       "sha256": "193b43af8169ff7551504c895e674e39201d026e189cecb16ca2cfaec7903c72",
       "size": 726370,
-      "serverUrl": "https://setver.polit.day/mods/starbunclemania-1.21.1-1.5.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/starbunclemania-1.21.1-1.5.9.jar",
       "required": true
     },
     {
@@ -2161,7 +2162,7 @@
       "version": "\"1.0.833-1.21.1-snapshot\" #mandatory",
       "sha256": "08818309e064013e3b2c825eff2d94e790eabb7c07d7cfbf347a4647ff113473",
       "size": 1064029,
-      "serverUrl": "https://setver.polit.day/mods/structurize-1.0.833-1.21.1-snapshot.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/structurize-1.0.833-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -2169,7 +2170,7 @@
       "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b",
       "size": 207514,
-      "serverUrl": "https://setver.polit.day/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "required": true
     },
     {
@@ -2177,7 +2178,7 @@
       "filename": "supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
       "sha256": "22884e7c6b7c4847e7bb97fbfa61b5f836b7909bb468e7637f6788be56e59f00",
       "size": 560783,
-      "serverUrl": "https://setver.polit.day/mods/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
       "required": true
     },
     {
@@ -2187,7 +2188,7 @@
       "version": "1.13.11",
       "sha256": "270fc0d1c99e54bc15f43d64bdaac60a90cb896efc357af624988e677136440f",
       "size": 3553006,
-      "serverUrl": "https://setver.polit.day/mods/t_and_t-fabric-neoforge-1.13.11.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/t_and_t-fabric-neoforge-1.13.11.jar",
       "required": true
     },
     {
@@ -2197,7 +2198,7 @@
       "version": "1.5.0",
       "sha256": "d23c6613842d558e70adbc8c71b43bda18a0294baf56820b321aa74759c8aba2",
       "size": 1470612,
-      "serverUrl": "https://setver.polit.day/mods/terrano-neoforge-1.5.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/terrano-neoforge-1.5.0.jar",
       "required": true
     },
     {
@@ -2205,7 +2206,7 @@
       "filename": "thick_air-1.21.1-NeoForge-1.1.2.jar",
       "sha256": "e30fbc577a5ea001cc0857c36af8fabd2ab96227196be750649ea9b27201740d",
       "size": 123053,
-      "serverUrl": "https://setver.polit.day/mods/thick_air-1.21.1-NeoForge-1.1.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/thick_air-1.21.1-NeoForge-1.1.2.jar",
       "required": true
     },
     {
@@ -2213,7 +2214,7 @@
       "filename": "tide-extra-compatibility-2.3.0.jar",
       "sha256": "c297322b41aac6c5fc5d3d65dba8aa624c32aa25de60c30538cae4e654c613e9",
       "size": 368997,
-      "serverUrl": "https://setver.polit.day/mods/tide-extra-compatibility-2.3.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/tide-extra-compatibility-2.3.0.jar",
       "required": true
     },
     {
@@ -2221,7 +2222,7 @@
       "filename": "tide-neoforge-1.21.1-2.1.1.jar",
       "sha256": "f7c4592c593901cf14de8fc24e9252fd1a959e6559964ce128bc8e2c8660c8ca",
       "size": 2155309,
-      "serverUrl": "https://setver.polit.day/mods/tide-neoforge-1.21.1-2.1.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/tide-neoforge-1.21.1-2.1.1.jar",
       "required": true
     },
     {
@@ -2229,7 +2230,7 @@
       "filename": "towntalk-1.2.0.jar",
       "sha256": "98139f54cc0f6f4be6d7fa8927cd170df8b14545ae04643436dbd48517589eb4",
       "size": 52301863,
-      "serverUrl": "https://setver.polit.day/mods/towntalk-1.2.0.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/towntalk-1.2.0.jar",
       "required": true
     },
     {
@@ -2239,7 +2240,7 @@
       "version": "1.0.6b6",
       "sha256": "92f79e3a2d2fa6c0bf00776225f2273a27deba624b8321e3455f46db071aa4e5",
       "size": 612417,
-      "serverUrl": "https://setver.polit.day/mods/tracks_plus-1.0.6b6.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/tracks_plus-1.0.6b6.jar",
       "required": true
     },
     {
@@ -2249,7 +2250,7 @@
       "version": "3.0-beta.1",
       "sha256": "3ab2a8c474aa306cc139ea03e343b20c0267b4887dedc05eed43968a8aed9232",
       "size": 221525,
-      "serverUrl": "https://setver.polit.day/mods/uranus-3.0-beta.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/uranus-3.0-beta.1.jar",
       "required": true
     },
     {
@@ -2259,7 +2260,7 @@
       "version": "1.21.1-0.0.9",
       "sha256": "8997f71035f29e4d2fe9e37dd76ca5f4b574906d1aed0914df6c119111570fed",
       "size": 97181,
-      "serverUrl": "https://setver.polit.day/mods/vampire_spells_addon-neoforge-1.21.1-0.0.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/vampire_spells_addon-neoforge-1.21.1-0.0.9.jar",
       "required": true
     },
     {
@@ -2269,7 +2270,7 @@
       "version": "1.10.2",
       "sha256": "a0694186c5c0bb56084e90452adc16f18a8f735029a76510a91d8f5967848706",
       "size": 305825,
-      "serverUrl": "https://setver.polit.day/mods/vampirism_integrations-1.21.1-1.10.2.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/vampirism_integrations-1.21.1-1.10.2.jar",
       "required": true
     },
     {
@@ -2279,7 +2280,7 @@
       "version": "1.21.1-2.6.23",
       "sha256": "3a70dc640992efabae224708bce2521e6029607ddb7abcfdee499d5ea3d1d81c",
       "size": 4921425,
-      "serverUrl": "https://setver.polit.day/mods/voicechat-neoforge-1.21.1-2.6.23.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/voicechat-neoforge-1.21.1-2.6.23.jar",
       "required": true
     },
     {
@@ -2289,7 +2290,7 @@
       "version": "1.0.12-1.21.1",
       "sha256": "eb1d311b67c3a5a7c56aafd243441a5a8afb9f808f262a070f0447f452c61feb",
       "size": 111115,
-      "serverUrl": "https://setver.polit.day/mods/voicemessages-neoforge-1.0.12-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/voicemessages-neoforge-1.0.12-1.21.1.jar",
       "required": true
     },
     {
@@ -2299,7 +2300,7 @@
       "version": "0.3.2-neoforge-1.21.1",
       "sha256": "e733f14b458c43c3404efc09abe5314505e771bf8defc7850c58c6103b7112f7",
       "size": 5175257,
-      "serverUrl": "https://setver.polit.day/mods/vss-0.3.2-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/vss-0.3.2-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -2309,7 +2310,7 @@
       "version": "7.3.8+6939-7d32b45",
       "sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
       "size": 6222854,
-      "serverUrl": "https://setver.polit.day/mods/worldedit-mod-7.3.8.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/worldedit-mod-7.3.8.jar",
       "required": true
     }
   ],
@@ -3913,7 +3914,7 @@
     {
       "path": "betterdays-common.toml",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/config/betterdays-common.toml",
-      "sha256": "29456998b664d24c1200475b8f9ac2fed304ff2b30523efa39b4f8c6bad1a137",
+      "sha256": "e35ac0307883a8b7fa7cfe21c96ade4969a62323df3388b7c705bbd0903c7621",
       "size": 11512,
       "required": true
     },
@@ -5439,7 +5440,7 @@
     {
       "path": "packetfixer.properties",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/config/packetfixer.properties",
-      "sha256": "65db9331871d72196b77647979a22e5cc24d54e10d735559ebba4fe57a7c3f9c",
+      "sha256": "b35559396ede42a19f88092e5bdf50ccb28c2250458145ac1969d49ef7f76c21",
       "size": 473,
       "required": true
     },
@@ -5703,17 +5704,17 @@
       "required": true
     },
     {
-      "path": "spark/tmp-client/spark-13159bd2f54907-libasyncProfiler.so.tmp",
-      "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/config/spark/tmp-client/spark-13159bd2f54907-libasyncProfiler.so.tmp",
+      "path": "spark/tmp-client/spark-133867120b1bff-libasyncProfiler.so.tmp",
+      "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/config/spark/tmp-client/spark-133867120b1bff-libasyncProfiler.so.tmp",
       "sha256": "63311a249bcd85288de44a98274525058f1215f812c02d1adef07e5eee96ad7a",
       "size": 485208,
       "required": true
     },
     {
-      "path": "spark/tmp-client/spark-13159bda100751-profile-data.jfr.tmp",
-      "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/config/spark/tmp-client/spark-13159bda100751-profile-data.jfr.tmp",
-      "sha256": "1ca295778751d873a55bed88c62ec77c6ffcecc0f40d1a3eb41deefcbc5e836c",
-      "size": 25117,
+      "path": "spark/tmp-client/spark-13387511bb77fa-profile-data.jfr.tmp",
+      "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/config/spark/tmp-client/spark-13387511bb77fa-profile-data.jfr.tmp",
+      "sha256": "ed5076d3a301a20b6970e0b0e7ab3e9ed2d6dd5edc5f7ffaccda5df883e2fa66",
+      "size": 25206,
       "required": true
     },
     {
@@ -6986,7 +6987,7 @@
     {
       "path": "worldedit/worldedit.properties",
       "url": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/config/worldedit/worldedit.properties",
-      "sha256": "603c75e488441b6e64765b848d6139357bd791028226ae641e6f0faa445a979e",
+      "sha256": "c3051728cc6195b0c05f5f2158f668baaa0c5dd3ea754a1d3de93646ccf089be",
       "size": 2500,
       "required": true
     },
