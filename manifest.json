@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-08T08:21:17.175901283Z",
+  "lastUpdated": "2026-11-08T08:51:28.223713284Z",
   "mods": [
     {
       "name": "AeroEngine-1.3.0",
@@ -69,7 +69,7 @@
       "version": "1.4.0",
       "sha256": "2366af18445481d4acfb76cde82b6fad6fdee0eeab67ffa50bd05a4e59c08fe8",
       "size": 2630839,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/CBCmoreshells-1.4.0.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/CBCmoreshells-1.4.0.jar",
       "required": true
     },
     {
@@ -650,7 +650,7 @@
       "version": "1.3.0",
       "sha256": "121d1e10fdce23695d9b9c4baebdde3b0feaf42e4847447f5fd78cbb3bf6fa2d",
       "size": 940554,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/aerowarptics-1.3.0.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/aerowarptics-1.3.0.jar",
       "required": true
     },
     {
@@ -788,7 +788,7 @@
       "filename": "ars_technica-1.21.1-2.7.6.jar",
       "sha256": "64b70f39f8c8ca38262c69e2b84a6494a8a11c8ef7e570d8136b1818d5d3159d",
       "size": 3691171,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ars_technica-1.21.1-2.7.6.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/ars_technica-1.21.1-2.7.6.jar",
       "required": true
     },
     {
@@ -798,7 +798,7 @@
       "version": "2.0.0",
       "sha256": "616a07c0510ca7222698d90e365ae0c70b7a7c3d1f296acada8f5354a7be4166",
       "size": 67372,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ars_two_way_portals-2.0.0.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/ars_two_way_portals-2.0.0.jar",
       "required": true
     },
     {
@@ -870,7 +870,7 @@
       "version": "1.0.212-1.21.1-snapshot",
       "sha256": "35f44cb349edb1d55d2a530e07705fe088b1695d1854355cbb12236b26f4311e",
       "size": 468142,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/blockui-1.0.212-1.21.1-snapshot.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/blockui-1.0.212-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -920,7 +920,7 @@
       "version": "1.11.2",
       "sha256": "b3c958772c61354fccf04b52264f2e398c8bf9a28d192d675bf82359b647ef43",
       "size": 302750,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/catalogue-neoforge-1.21.1-1.11.2.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/catalogue-neoforge-1.21.1-1.11.2.jar",
       "required": true
     },
     {
@@ -948,7 +948,7 @@
       "version": "0.4.0",
       "sha256": "01658c8e451046fe64b1fdd896e58ef37c670b951fb78409f96e2ab94b3bad79",
       "size": 293965,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cbc_terminal_ballistics-2.3.0.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/cbc_terminal_ballistics-2.3.0.jar",
       "required": true
     },
     {
@@ -1020,7 +1020,7 @@
       "version": "0.2.0",
       "sha256": "7ba1d14c6d45a8534ef555dd95e24958545d3d97f0e0e1972117c13b00215949",
       "size": 470183,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/colonies_at_war-0.2.0.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/colonies_at_war-0.2.0.jar",
       "required": true
     },
     {
@@ -1389,7 +1389,7 @@
       "filename": "cupboard-1.21.1-4.2.jar",
       "sha256": "5162922647fe07c7b9f446870915b57ddd0ae9dcf56b243611130fea30f2f77a",
       "size": 30517,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/cupboard-1.21.1-4.2.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/cupboard-1.21.1-4.2.jar",
       "required": true
     },
     {
@@ -1419,7 +1419,7 @@
       "filename": "domum-ornamentum-1.0.236-snapshot-main.jar",
       "sha256": "fcf875b183f9096b868b527837dfb677e397a11510cec79bdb01c7268b918f27",
       "size": 1151579,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/domum-ornamentum-1.0.236-snapshot-main.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/domum-ornamentum-1.0.236-snapshot-main.jar",
       "required": true
     },
     {
@@ -1472,7 +1472,7 @@
       "filename": "ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
       "sha256": "c7e3ff9d2627e08a1b3926117be276a33a4ff8db5e53d647a246e45f28bce73e",
       "size": 52328,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
       "required": true
     },
     {
@@ -1601,7 +1601,7 @@
       "version": "0.13.11",
       "sha256": "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5",
       "size": 387334,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/framework-neoforge-1.21.1-0.13.11.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/framework-neoforge-1.21.1-0.13.11.jar",
       "required": true
     },
     {
@@ -1631,7 +1631,7 @@
       "version": "1.9",
       "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
       "size": 31997,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/gaboulibs-neoforge-1.9.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/gaboulibs-neoforge-1.9.jar",
       "required": true
     },
     {
@@ -1681,7 +1681,7 @@
       "version": "1.17.10",
       "sha256": "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864",
       "size": 331333,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/hw_patches_archive-1.17.10.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/hw_patches_archive-1.17.10.jar",
       "required": true
     },
     {
@@ -1689,7 +1689,7 @@
       "filename": "iceandfire-2.1.2.jar",
       "sha256": "3ce264a17bc06e5372077f64e80870d6c84ffbd5383aef59faeaa81d297769a6",
       "size": 20773661,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/iceandfire-2.1.2.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/iceandfire-2.1.2.jar",
       "required": true
     },
     {
@@ -1699,7 +1699,7 @@
       "version": "6.0.10",
       "sha256": "67bb8031de30ae7aa2dd42394e5610da96d09bc3f820085f642cb3b997790e75",
       "size": 4762842,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/immersive_portals-6.0.10.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/immersive_portals-6.0.10.jar",
       "required": true
     },
     {
@@ -1868,7 +1868,7 @@
       "filename": "minecolonies-1.1.1392-1.21.1-snapshot.jar",
       "sha256": "e36615e1ae73781ecf50c3852e0161d6bd3962217ef110f14f6f8cbe7cb3ffcf",
       "size": 78283836,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/minecolonies-1.1.1392-1.21.1-snapshot.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/minecolonies-1.1.1392-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -1885,9 +1885,9 @@
       "filename": "modpack-sync-server-1.0.0.jar",
       "modId": "modpacksync",
       "version": "1.0.0",
-      "sha256": "46182ac956b4b4979e5106e432fd20f072924b16600e7a31c9bd70502d44a8ae",
-      "size": 29926,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/modpack-sync-server-1.0.0.jar",
+      "sha256": "536bd198fd3e5d54fef01d1a42f5e939fbee717e0ee12d232fc5077b1a12064b",
+      "size": 29919,
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/modpack-sync-server-1.0.0.jar",
       "required": true
     },
     {
@@ -1933,7 +1933,7 @@
       "filename": "multipiston-1.2.58-1.21.1.jar",
       "sha256": "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7",
       "size": 34139,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/multipiston-1.2.58-1.21.1.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/multipiston-1.2.58-1.21.1.jar",
       "required": true
     },
     {
@@ -1943,7 +1943,7 @@
       "version": "0.5.0-alpha.12",
       "sha256": "0991b4770bc113891df9b30f293173f4ac52fc2350c6cf3d40a6c392173f0ea9",
       "size": 14215249,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
       "required": true
     },
     {
@@ -2298,7 +2298,7 @@
       "version": "3.26.3",
       "sha256": "8656ae953d67d1d21e42ed3f103d2be07cdf23bab445c8fc3af468cfd8852514",
       "size": 1251706,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
       "required": true
     },
     {
@@ -2308,7 +2308,7 @@
       "version": "1.5.1",
       "sha256": "48d9b3703fedb455fc0aef1f57089f90cc0d2a2400979cef3bc37763fa125c41",
       "size": 1785221,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/sophisticatedcore-1.21.1-1.5.1.2341.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/sophisticatedcore-1.21.1-1.5.1.2341.jar",
       "required": true
     },
     {
@@ -2359,7 +2359,7 @@
       "filename": "starbunclemania-1.21.1-1.5.9.jar",
       "sha256": "193b43af8169ff7551504c895e674e39201d026e189cecb16ca2cfaec7903c72",
       "size": 726370,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/starbunclemania-1.21.1-1.5.9.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/starbunclemania-1.21.1-1.5.9.jar",
       "required": true
     },
     {
@@ -2369,7 +2369,7 @@
       "version": "\"1.0.833-1.21.1-snapshot\" #mandatory",
       "sha256": "08818309e064013e3b2c825eff2d94e790eabb7c07d7cfbf347a4647ff113473",
       "size": 1064029,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/structurize-1.0.833-1.21.1-snapshot.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/structurize-1.0.833-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -2444,7 +2444,7 @@
       "filename": "towntalk-1.2.0.jar",
       "sha256": "98139f54cc0f6f4be6d7fa8927cd170df8b14545ae04643436dbd48517589eb4",
       "size": 52301863,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/towntalk-1.2.0.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/towntalk-1.2.0.jar",
       "required": true
     },
     {
@@ -2465,7 +2465,7 @@
       "version": "3.0-beta.1",
       "sha256": "3ab2a8c474aa306cc139ea03e343b20c0267b4887dedc05eed43968a8aed9232",
       "size": 221525,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/uranus-3.0-beta.1.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/uranus-3.0-beta.1.jar",
       "required": true
     },
     {
@@ -2519,7 +2519,7 @@
       "version": "0.3.2-neoforge-1.21.1",
       "sha256": "e733f14b458c43c3404efc09abe5314505e771bf8defc7850c58c6103b7112f7",
       "size": 5175257,
-      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/vss-0.3.2-neoforge-1.21.1.jar",
+      "serverUrl": "http://setver.polit.day:8080/modpack/mods/vss-0.3.2-neoforge-1.21.1.jar",
       "required": true
     },
     {
