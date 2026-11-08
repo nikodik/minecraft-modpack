@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "ip-213-152-43-5.joinserver.xyz",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-08T15:01:35.181032833Z",
+  "lastUpdated": "2026-11-08T16:02:09.789818432Z",
   "mods": [
     {
       "name": "AeroEngine-1.3.0",
@@ -64,13 +64,13 @@
     },
     {
       "name": "CBC Enhanced Shells",
-      "filename": "CBCmoreshells-1.4.0.jar",
+      "filename": "CBCmoreshells-1.5.1.jar",
       "modId": "cbc_enhanced_shells",
-      "version": "1.4.0",
-      "sha256": "2366af18445481d4acfb76cde82b6fad6fdee0eeab67ffa50bd05a4e59c08fe8",
-      "size": 2630839,
-      "downloadUrl": "https://edge.forgecdn.net/files/9336/668/CBCmoreshells-1.5.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9336/668/CBCmoreshells-1.5.1.jar",
+      "version": "1.5.1",
+      "sha256": "31da3b14a4436ea2fd218c626fa1faa29b05ce6e9ee0793029c95037a967851f",
+      "size": 2936170,
+      "downloadUrl": "https://cdn.modrinth.com/data/Gwl4VXlb/versions/2gH1rhIf/CBCmoreshells-1.5.1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/Gwl4VXlb/versions/2gH1rhIf/CBCmoreshells-1.5.1.jar",
       "required": true
     },
     {
@@ -129,7 +129,7 @@
       "required": true
     },
     {
-      "name": "Design n\u0027 Decor",
+      "name": "Design n' Decor",
       "filename": "Design-n-Decor-1.21.1-2.2b.jar",
       "modId": "dndecor",
       "version": "2.2b",
@@ -140,7 +140,7 @@
       "required": true
     },
     {
-      "name": "Create: Dreams n\u0027 Desires",
+      "name": "Create: Dreams n' Desires",
       "filename": "DnDesires-1.21.1-2.3a-BETA.jar",
       "modId": "dndesires",
       "version": "2.3a-BETA",
@@ -202,7 +202,7 @@
       "required": true
     },
     {
-      "name": "Farmer\u0027s Delight",
+      "name": "Farmer's Delight",
       "filename": "FarmersDelight-1.21.1-1.3.4.jar",
       "modId": "farmersdelight",
       "version": "1.3.4",
@@ -246,6 +246,14 @@
       "required": true
     },
     {
+      "name": "IceAndFireCE-2.2-1.21.1-neoforge",
+      "filename": "IceAndFireCE-2.2-1.21.1-neoforge.jar",
+      "sha256": "1e888caaf18771b9aa591d832ee7fe20eb0013b66c6d85096676f2843e4d6833",
+      "size": 20952409,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/IceAndFireCE-2.2-1.21.1-neoforge.jar",
+      "required": true
+    },
+    {
       "name": "Jade",
       "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
       "modId": "jade",
@@ -266,7 +274,7 @@
       "required": true
     },
     {
-      "name": "My Nether\u0027s Delight",
+      "name": "My Nether's Delight",
       "filename": "MyNethersDelight-1.21.1-1.10.4.1.jar",
       "modId": "mynethersdelight",
       "version": "1.10.4.1",
@@ -277,7 +285,7 @@
       "required": true
     },
     {
-      "name": "Nature\u0027s Compass",
+      "name": "Nature's Compass",
       "filename": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
       "modId": "naturescompass",
       "version": "1.21.1-3.4.0-neoforge",
@@ -400,7 +408,7 @@
       "required": true
     },
     {
-      "name": "Vampire\u0027s Delight",
+      "name": "Vampire's Delight",
       "filename": "VampiresDelight-1.21.1-0.1.12b.jar",
       "modId": "vampiresdelight",
       "version": "0.1.12b",
@@ -466,7 +474,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s API",
+      "name": "YUNG's API",
       "filename": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "modId": "yungsapi",
       "version": "1.21.1-NeoForge-5.1.9",
@@ -477,7 +485,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Desert Temples",
+      "name": "YUNG's Better Desert Temples",
       "filename": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
       "modId": "betterdeserttemples",
       "version": "1.21.1-NeoForge-4.1.5",
@@ -488,7 +496,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Dungeons",
+      "name": "YUNG's Better Dungeons",
       "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "modId": "betterdungeons",
       "version": "1.21.1-NeoForge-5.1.4",
@@ -499,7 +507,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better End Island",
+      "name": "YUNG's Better End Island",
       "filename": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
       "modId": "betterendisland",
       "version": "1.21.1-NeoForge-3.1.2",
@@ -510,7 +518,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Jungle Temples",
+      "name": "YUNG's Better Jungle Temples",
       "filename": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
       "modId": "betterjungletemples",
       "version": "1.21.1-NeoForge-3.1.2",
@@ -521,7 +529,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Mineshafts",
+      "name": "YUNG's Better Mineshafts",
       "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
       "modId": "bettermineshafts",
       "version": "1.21.1-NeoForge-5.1.1",
@@ -532,7 +540,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Nether Fortresses",
+      "name": "YUNG's Better Nether Fortresses",
       "filename": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
       "modId": "betterfortresses",
       "version": "1.21.1-NeoForge-3.1.5",
@@ -543,7 +551,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Ocean Monuments",
+      "name": "YUNG's Better Ocean Monuments",
       "filename": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
       "modId": "betteroceanmonuments",
       "version": "1.21.1-NeoForge-4.1.2",
@@ -554,7 +562,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Strongholds",
+      "name": "YUNG's Better Strongholds",
       "filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
       "modId": "betterstrongholds",
       "version": "1.21.1-NeoForge-5.1.3",
@@ -565,7 +573,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Better Witch Huts",
+      "name": "YUNG's Better Witch Huts",
       "filename": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
       "modId": "betterwitchhuts",
       "version": "1.21.1-NeoForge-4.1.1",
@@ -576,7 +584,7 @@
       "required": true
     },
     {
-      "name": "YUNG\u0027s Extras",
+      "name": "YUNG's Extras",
       "filename": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
       "modId": "yungsextras",
       "version": "1.21.1-NeoForge-5.1.1",
@@ -700,7 +708,7 @@
       "required": true
     },
     {
-      "name": "Alex\u0027s Caves",
+      "name": "Alex's Caves",
       "filename": "alexscaves-2.0.10.jar",
       "modId": "alexscaves",
       "version": "2.0.10",
@@ -711,7 +719,7 @@
       "required": true
     },
     {
-      "name": "Alex\u0027s Mobs",
+      "name": "Alex's Mobs",
       "filename": "alexsmobs-1.22.17.jar",
       "modId": "alexsmobs",
       "version": "1.22.17",
@@ -872,8 +880,8 @@
       "filename": "blockui-1.0.212-1.21.1-snapshot.jar",
       "modId": "blockui",
       "version": "1.0.212-1.21.1-snapshot",
-      "sha256": "35f44cb349edb1d55d2a530e07705fe088b1695d1854355cbb12236b26f4311e",
-      "size": 468142,
+      "sha256": "b7bab58b5f3d8eb722609005d628a0094d9220eb3b7edf4e0acd4ee9d592dca4",
+      "size": 468141,
       "downloadUrl": "https://edge.forgecdn.net/files/9477/647/sophisticatedcore-1.21.1-1.5.31.2460.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9477/647/sophisticatedcore-1.21.1-1.5.31.2460.jar",
       "required": true
@@ -949,13 +957,13 @@
     },
     {
       "name": "CBC Terminal Ballistics",
-      "filename": "cbc_terminal_ballistics-2.3.0.jar",
+      "filename": "cbc_terminal_ballistics-0.3.5-neoforge.jar",
       "modId": "cbc_terminal_ballistics",
-      "version": "0.4.0",
-      "sha256": "01658c8e451046fe64b1fdd896e58ef37c670b951fb78409f96e2ab94b3bad79",
-      "size": 293965,
-      "downloadUrl": "https://edge.forgecdn.net/files/8622/184/cbc_terminal_ballistics-0.3.5-neoforge.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8622/184/cbc_terminal_ballistics-0.3.5-neoforge.jar",
+      "version": "0.3.5-neoforge",
+      "sha256": "2ba1fbde49c5b4470a563ab4a486276ceacc96dd7c5e87a651895df2fe1fc9c6",
+      "size": 303903,
+      "downloadUrl": "https://cdn.modrinth.com/data/HNMiyfaF/versions/MbnrrY23/cbc_terminal_ballistics-0.3.5-neoforge.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/HNMiyfaF/versions/MbnrrY23/cbc_terminal_ballistics-0.3.5-neoforge.jar",
       "required": true
     },
     {
@@ -1022,11 +1030,11 @@
     },
     {
       "name": "Colonies at War",
-      "filename": "colonies_at_war-0.2.0.jar",
+      "filename": "colonies_at_war-0.2.2.jar",
       "modId": "colonies_at_war",
-      "version": "0.2.0",
-      "sha256": "7ba1d14c6d45a8534ef555dd95e24958545d3d97f0e0e1972117c13b00215949",
-      "size": 470183,
+      "version": "0.2.2",
+      "sha256": "d9d52041732fad665b5449740cae97757993adf5f10639c446d12f26f776a289",
+      "size": 470876,
       "downloadUrl": "https://edge.forgecdn.net/files/9484/313/WarNTaxes-NeoForge-5.1.0.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9484/313/WarNTaxes-NeoForge-5.1.0.jar",
       "required": true
@@ -1145,7 +1153,7 @@
       "required": true
     },
     {
-      "name": "Create Stuff \u0027N Additions",
+      "name": "Create Stuff 'N Additions",
       "filename": "create-stuff-additions1.21.1_v2.1.4b.jar",
       "modId": "create_sa",
       "version": "2.1.4.",
@@ -1167,7 +1175,7 @@
       "required": true
     },
     {
-      "name": "Create Aeronautics: Transmission \u0026 Linkage",
+      "name": "Create Aeronautics: Transmission & Linkage",
       "filename": "create_aeronautics_transmission_linkage-0.2.8.jar",
       "modId": "aeronautics_utility_objects",
       "version": "0.2.8",
@@ -1220,7 +1228,7 @@
       "required": true
     },
     {
-      "name": "Create Stuff \u0026 Netherite Additions",
+      "name": "Create Stuff & Netherite Additions",
       "filename": "create_sna-1.2-neoforge-1.21.1.jar",
       "modId": "create_nj",
       "version": "1.2",
@@ -1424,10 +1432,10 @@
       "required": true
     },
     {
-      "name": "domum-ornamentum-1.0.236-snapshot-main",
-      "filename": "domum-ornamentum-1.0.236-snapshot-main.jar",
-      "sha256": "fcf875b183f9096b868b527837dfb677e397a11510cec79bdb01c7268b918f27",
-      "size": 1151579,
+      "name": "domum-ornamentum-1.0.237-snapshot-main",
+      "filename": "domum-ornamentum-1.0.237-snapshot-main.jar",
+      "sha256": "1c420344edbf2c78837dfa3137a29bb65cffe24c01b5c57df9546c33ae24bb77",
+      "size": 1151617,
       "downloadUrl": "https://edge.forgecdn.net/files/9394/376/domum-ornamentum-1.0.237-snapshot-main.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9394/376/domum-ornamentum-1.0.237-snapshot-main.jar",
       "required": true
@@ -1509,7 +1517,7 @@
       "required": true
     },
     {
-      "name": "End\u0027s Delight",
+      "name": "End's Delight",
       "filename": "ends_delight-2.6.1+neoforge.1.21.1.jar",
       "modId": "ends_delight",
       "version": "2.6.1+neoforge.1.21.1",
@@ -1643,7 +1651,7 @@
       "version": "1.9",
       "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
       "size": 31997,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gaboulibs-neoforge-1.9.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/gaboulibs-neoforge-1.9.jar",
       "required": true
     },
     {
@@ -1698,22 +1706,13 @@
       "required": true
     },
     {
-      "name": "iceandfire-2.1.2",
-      "filename": "iceandfire-2.1.2.jar",
-      "sha256": "3ce264a17bc06e5372077f64e80870d6c84ffbd5383aef59faeaa81d297769a6",
-      "size": 20773661,
-      "downloadUrl": "https://edge.forgecdn.net/files/9455/119/IceAndFireCE-2.2-1.21.1-neoforge.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9455/119/IceAndFireCE-2.2-1.21.1-neoforge.jar",
-      "required": true
-    },
-    {
       "name": "Immersive Portals - CE",
       "filename": "immersive_portals-6.0.10.jar",
       "modId": "q_misc_util",
       "version": "6.0.10",
       "sha256": "67bb8031de30ae7aa2dd42394e5610da96d09bc3f820085f642cb3b997790e75",
       "size": 4762842,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/immersive_portals-6.0.10.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/immersive_portals-6.0.10.jar",
       "required": true
     },
     {
@@ -1779,7 +1778,7 @@
       "required": true
     },
     {
-      "name": "\"Iron\u0027s Lib\" #mandatory",
+      "name": "\"Iron's Lib\" #mandatory",
       "filename": "irons_lib-1.21.1-2.1.0.jar",
       "modId": "\"irons_lib\" #mandatory",
       "version": "\"1.21.1-2.1.0\" #mandatory",
@@ -1878,10 +1877,10 @@
       "required": true
     },
     {
-      "name": "minecolonies-1.1.1392-1.21.1-snapshot",
-      "filename": "minecolonies-1.1.1392-1.21.1-snapshot.jar",
-      "sha256": "e36615e1ae73781ecf50c3852e0161d6bd3962217ef110f14f6f8cbe7cb3ffcf",
-      "size": 78283836,
+      "name": "minecolonies-1.1.1418-1.21.1-snapshot",
+      "filename": "minecolonies-1.1.1418-1.21.1-snapshot.jar",
+      "sha256": "4f918a0a4a9ce2541ee4c02ae3991c76630e09738a922cf4b0a4b0bdddaca782",
+      "size": 78360634,
       "downloadUrl": "https://edge.forgecdn.net/files/9509/623/minecolonies-1.1.1418-1.21.1-snapshot.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9509/623/minecolonies-1.1.1418-1.21.1-snapshot.jar",
       "required": true
@@ -1938,18 +1937,7 @@
       "filename": "multipiston-1.2.58-1.21.1.jar",
       "sha256": "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7",
       "size": 34139,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/multipiston-1.2.58-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Neo-Voxy",
-      "filename": "neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
-      "modId": "voxy",
-      "version": "0.5.0-alpha.12",
-      "sha256": "0991b4770bc113891df9b30f293173f4ac52fc2350c6cf3d40a6c392173f0ea9",
-      "size": 14215249,
-      "downloadUrl": "https://edge.forgecdn.net/files/9080/471/vss-0.3.5-neoforge-1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9080/471/vss-0.3.5-neoforge-1.21.1.jar",
+      "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/multipiston-1.2.58-1.21.1.jar",
       "required": true
     },
     {
@@ -1971,7 +1959,7 @@
       "required": true
     },
     {
-      "name": "NukaTeam\u0027s Gun Lib",
+      "name": "NukaTeam's Gun Lib",
       "filename": "ntgl-1.21.1-3.2.0.jar",
       "modId": "ntgl",
       "version": "3.2.0",
@@ -2101,7 +2089,7 @@
       "required": true
     },
     {
-      "name": "Relics \u0026 Artifacts",
+      "name": "Relics & Artifacts",
       "filename": "relics_artifacts-1.0.5-neoforge-1.21.1.jar",
       "modId": "relics_artifacts",
       "version": "1.0.0",
@@ -2143,7 +2131,7 @@
       "required": true
     },
     {
-      "name": "Reliquified Iron\u0027s Spells \u0027n Spellbooks",
+      "name": "Reliquified Iron's Spells 'n Spellbooks",
       "filename": "reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar",
       "modId": "reliquified_irons_spells_and_spellbooks",
       "version": "0.2.7",
@@ -2176,7 +2164,7 @@
       "required": true
     },
     {
-      "name": "Ritchie\u0027s Projectile Library",
+      "name": "Ritchie's Projectile Library",
       "filename": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
       "modId": "ritchiesprojectilelib",
       "version": "2.1.2",
@@ -2287,7 +2275,7 @@
       "required": true
     },
     {
-      "name": "Create Slice \u0026 Dice",
+      "name": "Create Slice & Dice",
       "filename": "sliceanddice-4.3.3-neoforge.jar",
       "modId": "sliceanddice",
       "version": "4.3.3",
@@ -2299,22 +2287,22 @@
     },
     {
       "name": "Sophisticated Backpacks",
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.20.2244.jar",
       "modId": "sophisticatedbackpacks",
-      "version": "3.26.3",
-      "sha256": "8656ae953d67d1d21e42ed3f103d2be07cdf23bab445c8fc3af468cfd8852514",
-      "size": 1251706,
+      "version": "3.26.20",
+      "sha256": "ba29bf715533b4efbadcbfedbc6327e445fd052ea8d494eb0cd192b194ed267e",
+      "size": 1264515,
       "downloadUrl": "https://edge.forgecdn.net/files/9431/839/sophisticatedbackpacks-1.21.1-3.26.20.2244.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9431/839/sophisticatedbackpacks-1.21.1-3.26.20.2244.jar",
       "required": true
     },
     {
       "name": "Sophisticated Core",
-      "filename": "sophisticatedcore-1.21.1-1.5.1.2341.jar",
+      "filename": "sophisticatedcore-1.21.1-1.5.31.2460.jar",
       "modId": "sophisticatedcore",
-      "version": "1.5.1",
-      "sha256": "48d9b3703fedb455fc0aef1f57089f90cc0d2a2400979cef3bc37763fa125c41",
-      "size": 1785221,
+      "version": "1.5.31",
+      "sha256": "d5814c8be957c6a460e44cf6569618527e05ddec65aae1c21f3b00ba0ccd0d0c",
+      "size": 1845839,
       "downloadUrl": "https://edge.forgecdn.net/files/9477/647/sophisticatedcore-1.21.1-1.5.31.2460.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9477/647/sophisticatedcore-1.21.1-1.5.31.2460.jar",
       "required": true
@@ -2373,11 +2361,11 @@
     },
     {
       "name": "Structurize",
-      "filename": "structurize-1.0.833-1.21.1-snapshot.jar",
+      "filename": "structurize-1.0.839-1.21.1-snapshot.jar",
       "modId": "structurize",
-      "version": "\"1.0.833-1.21.1-snapshot\" #mandatory",
-      "sha256": "08818309e064013e3b2c825eff2d94e790eabb7c07d7cfbf347a4647ff113473",
-      "size": 1064029,
+      "version": "\"1.0.839-1.21.1-snapshot\" #mandatory",
+      "sha256": "13ad36402d1c73de486a00215a264d68959ca9dbaa308a13235d8c4a909f2c39",
+      "size": 1064220,
       "downloadUrl": "https://edge.forgecdn.net/files/9509/522/structurize-1.0.839-1.21.1-snapshot.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9509/522/structurize-1.0.839-1.21.1-snapshot.jar",
       "required": true
@@ -2526,11 +2514,11 @@
     },
     {
       "name": "Voxy Server Side",
-      "filename": "vss-0.3.2-neoforge-1.21.1.jar",
+      "filename": "vss-0.3.5-neoforge-1.21.1.jar",
       "modId": "vss",
-      "version": "0.3.2-neoforge-1.21.1",
-      "sha256": "e733f14b458c43c3404efc09abe5314505e771bf8defc7850c58c6103b7112f7",
-      "size": 5175257,
+      "version": "0.3.5-neoforge-1.21.1",
+      "sha256": "6abc84e84cc40030d49f974f3e40055020b5121bcc1a72193cef7a69677a7559",
+      "size": 5743743,
       "downloadUrl": "https://edge.forgecdn.net/files/9080/471/vss-0.3.5-neoforge-1.21.1.jar",
       "serverUrl": "https://edge.forgecdn.net/files/9080/471/vss-0.3.5-neoforge-1.21.1.jar",
       "required": true
