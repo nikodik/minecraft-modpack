@@ -1652,7 +1652,8 @@
       "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
       "size": 31997,
       "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/gaboulibs-neoforge-1.9.jar",
-      "required": true
+      "required": true,
+      "downloadUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/gaboulibs-neoforge-1.9.jar"
     },
     {
       "name": "GeckoLib 4",
@@ -1713,7 +1714,8 @@
       "sha256": "67bb8031de30ae7aa2dd42394e5610da96d09bc3f820085f642cb3b997790e75",
       "size": 4762842,
       "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/immersive_portals-6.0.10.jar",
-      "required": true
+      "required": true,
+      "downloadUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/immersive_portals-6.0.10.jar"
     },
     {
       "name": "immortuoscalyx-neoforge-1.21.1-2.2.0",
@@ -1938,7 +1940,8 @@
       "sha256": "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7",
       "size": 34139,
       "serverUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/multipiston-1.2.58-1.21.1.jar",
-      "required": true
+      "required": true,
+      "downloadUrl": "https://raw.githubusercontent.com/nikodik/minecraft-modpack/main/mods/multipiston-1.2.58-1.21.1.jar"
     },
     {
       "name": "neoforge-dungeonsdelight-1.21.1-1.5.1",
