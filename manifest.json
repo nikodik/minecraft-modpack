@@ -4,8 +4,99 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-09T18:19:44.257218127Z",
+  "lastUpdated": "2026-11-09T18:33:59.106494397Z",
   "mods": [
+    {
+      "name": "Chronomancy",
+      "filename": "Chronomancy-neo-1.21.1-1.5.jar",
+      "modId": "irons_chronomancy",
+      "version": "1.5",
+      "sha256": "0b39dc760ecddb69fc6afe4c5dfe156d419e3bec703f7ff85000b630394f6943",
+      "size": 922408,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Chronomancy-neo-1.21.1-1.5.jar",
+      "required": true
+    },
+    {
+      "name": "Essential_1-5-2_neoforge_1-21-1",
+      "filename": "Essential_1-5-2_neoforge_1-21-1.jar",
+      "sha256": "726bc47dcb521ce950880a998c202f3061966e6787071945e942327e5b0cbc52",
+      "size": 51488563,
+      "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
+      "required": true
+    },
+    {
+      "name": "UI Library Mod",
+      "filename": "blockui-1.0.212-1.21.1-snapshot.jar",
+      "modId": "blockui",
+      "version": "1.0.212-1.21.1-snapshot",
+      "sha256": "b7bab58b5f3d8eb722609005d628a0094d9220eb3b7edf4e0acd4ee9d592dca4",
+      "size": 468141,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/blockui-1.0.212-1.21.1-snapshot.jar",
+      "required": true
+    },
+    {
+      "name": "Color Magic",
+      "filename": "colormagic-1.0.4.jar",
+      "modId": "colormagic",
+      "version": "1.1.0",
+      "sha256": "af914408375e0462f6a450f199c5f6f8fa4e5a896d173add00f66b54e31a451b",
+      "size": 1286194,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/colormagic-1.0.4.jar",
+      "required": true
+    },
+    {
+      "name": "Create TNT",
+      "filename": "createtnt-1.21.1-neoforge-2.1.0.jar",
+      "modId": "createtnt",
+      "version": "2.1.0",
+      "sha256": "5ebea4b887c7d2267b68bc35f1ceef6b39190b291156b39b44b0f1852a536673",
+      "size": 302327,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createtnt-1.21.1-neoforge-2.1.0.jar",
+      "required": true
+    },
+    {
+      "name": "Diorama Addons: Claims",
+      "filename": "diorama-addons-claims-1.21.1-0.3.0.jar",
+      "modId": "dioaddons_claims",
+      "version": "0.3.0",
+      "sha256": "1c340d892dcefc8ca0a364a6c3d80486d31cfb9aae9f33c3dcd419523e61dfe7",
+      "size": 218645,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-claims-1.21.1-0.3.0.jar",
+      "required": true
+    },
+    {
+      "name": "Reese\u0027s Sodium Options",
+      "filename": "reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+      "modId": "reeses_sodium_options",
+      "version": "2.2.4+mc1.21.1",
+      "sha256": "e4c86cad7c86c3601261441c0282571dc6b1ebeb41b694c11eb58b2becb90b51",
+      "size": 258894,
+      "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "Sodium",
+      "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "modId": "sodium",
+      "version": "0.8.13+mc1.21.1",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
+      "size": 1292934,
+      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "TFMG FE Patch",
+      "filename": "tfmg_fe_patch-1.0.0.jar",
+      "modId": "tfmg_fe_patch",
+      "version": "1.0.0",
+      "sha256": "31404d0791bc8294288c14e6c35d35faabf1b39ca54ddeb15910669c09868a5c",
+      "size": 6887,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/tfmg_fe_patch-1.0.0.jar",
+      "required": true
+    },
     {
       "name": "Thunder Relics",
       "filename": "1.21.1-neoforge-Thunder Relics-1.4.jar",
@@ -92,16 +183,6 @@
       "size": 1273384,
       "downloadUrl": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Mce3ulUV/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Mce3ulUV/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
-      "required": true
-    },
-    {
-      "name": "Chronomancy",
-      "filename": "Chronomancy-neo-1.21.1-1.5.jar",
-      "modId": "irons_chronomancy",
-      "version": "1.5",
-      "sha256": "0b39dc760ecddb69fc6afe4c5dfe156d419e3bec703f7ff85000b630394f6943",
-      "size": 922408,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Chronomancy-neo-1.21.1-1.5.jar",
       "required": true
     },
     {
@@ -1081,16 +1162,6 @@
       "required": true
     },
     {
-      "name": "UI Library Mod",
-      "filename": "blockui-1.0.212-1.21.1-snapshot.jar",
-      "modId": "blockui",
-      "version": "1.0.212-1.21.1-snapshot",
-      "sha256": "b7bab58b5f3d8eb722609005d628a0094d9220eb3b7edf4e0acd4ee9d592dca4",
-      "size": 468141,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/blockui-1.0.212-1.21.1-snapshot.jar",
-      "required": true
-    },
-    {
       "name": "Bookshelf",
       "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
       "modId": "bookshelf",
@@ -1267,16 +1338,6 @@
       "size": 1620271,
       "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/3UYXTEpg/collective-1.21.1-8.84.jar",
       "serverUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/3UYXTEpg/collective-1.21.1-8.84.jar",
-      "required": true
-    },
-    {
-      "name": "Color Magic",
-      "filename": "colormagic-1.0.4.jar",
-      "modId": "colormagic",
-      "version": "1.1.0",
-      "sha256": "af914408375e0462f6a450f199c5f6f8fa4e5a896d173add00f66b54e31a451b",
-      "size": 1286194,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/colormagic-1.0.4.jar",
       "required": true
     },
     {
@@ -1709,16 +1770,6 @@
       "required": true
     },
     {
-      "name": "Create TNT",
-      "filename": "createtnt-1.21.1-neoforge-2.1.0.jar",
-      "modId": "createtnt",
-      "version": "2.1.0",
-      "sha256": "5ebea4b887c7d2267b68bc35f1ceef6b39190b291156b39b44b0f1852a536673",
-      "size": 302327,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createtnt-1.21.1-neoforge-2.1.0.jar",
-      "required": true
-    },
-    {
       "name": "cristellib-neoforge-1.21.1-3.1.7",
       "filename": "cristellib-neoforge-1.21.1-3.1.7.jar",
       "sha256": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
@@ -1765,16 +1816,6 @@
       "size": 1131177,
       "downloadUrl": "https://cdn.modrinth.com/data/kwpTgbCk/versions/LUifI5BG/diorama-0.8.1%2Bneoforge-1.21.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/kwpTgbCk/versions/LUifI5BG/diorama-0.8.1%2Bneoforge-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Diorama Addons: Claims",
-      "filename": "diorama-addons-claims-1.21.1-0.3.0.jar",
-      "modId": "dioaddons_claims",
-      "version": "0.3.0",
-      "sha256": "1c340d892dcefc8ca0a364a6c3d80486d31cfb9aae9f33c3dcd419523e61dfe7",
-      "size": 218645,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-claims-1.21.1-0.3.0.jar",
       "required": true
     },
     {
@@ -3087,16 +3128,6 @@
       "size": 5631220,
       "downloadUrl": "https://cdn.modrinth.com/data/hC1xYvnS/versions/o8aSx7yp/tfmg-1.21.1-1.3.3a-community.jar",
       "serverUrl": "https://cdn.modrinth.com/data/hC1xYvnS/versions/o8aSx7yp/tfmg-1.21.1-1.3.3a-community.jar",
-      "required": true
-    },
-    {
-      "name": "TFMG FE Patch",
-      "filename": "tfmg_fe_patch-1.0.0.jar",
-      "modId": "tfmg_fe_patch",
-      "version": "1.0.0",
-      "sha256": "31404d0791bc8294288c14e6c35d35faabf1b39ca54ddeb15910669c09868a5c",
-      "size": 6887,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/tfmg_fe_patch-1.0.0.jar",
       "required": true
     },
     {
