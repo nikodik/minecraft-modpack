@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "minecraftVersion": "1.21.1",
   "forgeVersion": "21.1.265",
-  "serverAddress": "ip-213-152-43-5.joinserver.xyz",
+  "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-09T15:32:29.590164261Z",
+  "lastUpdated": "2026-11-09T17:48:18.789041988Z",
   "mods": [
     {
       "name": "Thunder Relics",
@@ -13,8 +13,7 @@
       "version": "1.4",
       "sha256": "8da75bb4a3cad9b5e6c3c7285e3af742de500a04446dc60d82afe121a486a484",
       "size": 1948116,
-      "downloadUrl": "https://edge.forgecdn.net/files/9340/419/1.21.1-neoforge-Thunder%20Relics-1.4.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9340/419/1.21.1-neoforge-Thunder%20Relics-1.4.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/1.21.1-neoforge-Thunder Relics-1.4.jar",
       "required": true
     },
     {
@@ -102,8 +101,7 @@
       "version": "1.5",
       "sha256": "0b39dc760ecddb69fc6afe4c5dfe156d419e3bec703f7ff85000b630394f6943",
       "size": 922408,
-      "downloadUrl": "https://edge.forgecdn.net/files/9235/293/chronomancy-1.0.5.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9235/293/chronomancy-1.0.5.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Chronomancy-neo-1.21.1-1.5.jar",
       "required": true
     },
     {
@@ -179,8 +177,7 @@
       "version": "1.0.4",
       "sha256": "c9eecaa165b42d07bf2320d066e84ef1a4579e1dac27c2e4e290b409e1b156a3",
       "size": 24528,
-      "downloadUrl": "https://edge.forgecdn.net/files/8248/334/DnDesires-IE-Compat-1.21.1-1.0.4.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8248/334/DnDesires-IE-Compat-1.21.1-1.0.4.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/DnDesires-IE-Compat-1.21.1-1.0.4.jar",
       "required": true
     },
     {
@@ -219,8 +216,7 @@
       "filename": "Ecliptic-Seasons-MultiMod-Patch-1.21.1-neoforge-0.32.1.jar",
       "sha256": "45f7b189544562bf4bce0a65f30b8172630313f4b9d180b93189b53c9eb7ac87",
       "size": 340358,
-      "downloadUrl": "https://edge.forgecdn.net/files/8813/347/Ecliptic-Seasons-MultiMod-Patch-1.21.1-neoforge-0.32.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8813/347/Ecliptic-Seasons-MultiMod-Patch-1.21.1-neoforge-0.32.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Ecliptic-Seasons-MultiMod-Patch-1.21.1-neoforge-0.32.1.jar",
       "required": true
     },
     {
@@ -287,8 +283,7 @@
       "version": "2.1.0.2",
       "sha256": "d9ea421e7449a35cf3adc41c9f740156342b7b17a08b1be843660608af7b60f9",
       "size": 90717,
-      "downloadUrl": "https://edge.forgecdn.net/files/8109/792/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8109/792/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
       "required": true
     },
     {
@@ -539,8 +534,7 @@
       "version": "10.1.0.3",
       "sha256": "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d",
       "size": 159205,
-      "downloadUrl": "https://edge.forgecdn.net/files/6182/596/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/6182/596/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
       "required": true
     },
     {
@@ -550,8 +544,7 @@
       "version": "13.11.4",
       "sha256": "8bdbc98f32f4166061439e8dda346345012788ddebaeb743a3b585d8a0a0fbbc",
       "size": 1131419,
-      "downloadUrl": "https://edge.forgecdn.net/files/6995/432/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/6995/432/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
       "required": true
     },
     {
@@ -559,8 +552,7 @@
       "filename": "TFMW-CE-2.1.2.jar",
       "sha256": "d2cce8b93379fd8d5fc3eabd948a0ed36e61d274ee27cfa149462f1d3e28ffaa",
       "size": 245453,
-      "downloadUrl": "https://edge.forgecdn.net/files/9063/422/TFMW-CE-2.1.2.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9063/422/TFMW-CE-2.1.2.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/TFMW-CE-2.1.2.jar",
       "required": true
     },
     {
@@ -602,8 +594,7 @@
       "version": "1.10.13",
       "sha256": "e12dafe76bf5df1ab3ed2c94d67bc121eedd8399a88460248edf530180382f97",
       "size": 12478474,
-      "downloadUrl": "https://edge.forgecdn.net/files/8814/121/Vampirism-1.21-1.10.13.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8814/121/Vampirism-1.21-1.10.13.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Vampirism-1.21-1.10.13.jar",
       "required": true
     },
     {
@@ -613,8 +604,7 @@
       "version": "2.0.1",
       "sha256": "7e837446debc95e14f39fa6d021aae6f244b819d29a7f0955dab78c6de749564",
       "size": 136021,
-      "downloadUrl": "https://edge.forgecdn.net/files/8054/244/Voiceless%20Survival-1.21.1-neoforge-2.0.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8054/244/Voiceless%20Survival-1.21.1-neoforge-2.0.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Voiceless Survival-1.21.1-neoforge-2.0.1.jar",
       "required": true
     },
     {
@@ -796,8 +786,7 @@
       "version": "1.3.1",
       "sha256": "495a0bfcfbb1ad78b8f05bf41a58e0823b7c6c3b2c6849f339025300b05df8e4",
       "size": 54501,
-      "downloadUrl": "https://edge.forgecdn.net/files/8902/288/abyss_sonata-1.3.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8902/288/abyss_sonata-1.3.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/abyss_sonata-1.3.1.jar",
       "required": true
     },
     {
@@ -843,8 +832,7 @@
       "version": "1.3.0",
       "sha256": "121d1e10fdce23695d9b9c4baebdde3b0feaf42e4847447f5fd78cbb3bf6fa2d",
       "size": 940554,
-      "downloadUrl": "https://edge.forgecdn.net/files/8787/426/aerowarptics-1.3.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8787/426/aerowarptics-1.3.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aerowarptics-1.3.0.jar",
       "required": true
     },
     {
@@ -854,8 +842,7 @@
       "version": "1.5.0",
       "sha256": "30bad4bf907ee5ae2849de163634cf9a5bc8507bb4b12d7d291c59f3265d7bad",
       "size": 790152,
-      "downloadUrl": "https://edge.forgecdn.net/files/8743/51/aeroworks-1.5.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8743/51/aeroworks-1.5.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aeroworks-1.5.0.jar",
       "required": true
     },
     {
@@ -865,8 +852,7 @@
       "version": "1.5.10",
       "sha256": "b19386301560a017a458e9790a7b59999e270f93010def0b61e7cbe4c8630dbf",
       "size": 40223909,
-      "downloadUrl": "https://edge.forgecdn.net/files/7043/502/aether-1.21.1-1.5.10-neoforge.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/7043/502/aether-1.21.1-1.5.10-neoforge.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aether-1.21.1-1.5.10-neoforge.jar",
       "required": true
     },
     {
@@ -949,8 +935,7 @@
       "version": "1.21.1-1.4.4",
       "sha256": "15431063b27f43aa5321100bc29acc9b49ab0c97e24e16627a759a0312ea0f11",
       "size": 7255820,
-      "downloadUrl": "https://edge.forgecdn.net/files/8983/496/archaion-1.21.1-1.4.4.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8983/496/archaion-1.21.1-1.4.4.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/archaion-1.21.1-1.4.4.jar",
       "required": true
     },
     {
@@ -1002,8 +987,7 @@
       "filename": "ars_technica-1.21.1-2.7.6.jar",
       "sha256": "64b70f39f8c8ca38262c69e2b84a6494a8a11c8ef7e570d8136b1818d5d3159d",
       "size": 3691171,
-      "downloadUrl": "https://edge.forgecdn.net/files/7642/730/ars_technica-1.21.1-2.7.6.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/7642/730/ars_technica-1.21.1-2.7.6.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ars_technica-1.21.1-2.7.6.jar",
       "required": true
     },
     {
@@ -1013,8 +997,7 @@
       "version": "2.0.0",
       "sha256": "616a07c0510ca7222698d90e365ae0c70b7a7c3d1f296acada8f5354a7be4166",
       "size": 67372,
-      "downloadUrl": "https://edge.forgecdn.net/files/8515/817/ars_two_way_portals-2.0.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8515/817/ars_two_way_portals-2.0.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ars_two_way_portals-2.0.0.jar",
       "required": true
     },
     {
@@ -1104,8 +1087,7 @@
       "version": "1.0.212-1.21.1-snapshot",
       "sha256": "b7bab58b5f3d8eb722609005d628a0094d9220eb3b7edf4e0acd4ee9d592dca4",
       "size": 468141,
-      "downloadUrl": "https://edge.forgecdn.net/files/9524/669/sophisticatedcore-1.21.1-1.5.32.2464.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9524/669/sophisticatedcore-1.21.1-1.5.32.2464.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/blockui-1.0.212-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -1194,8 +1176,7 @@
       "version": "1.3.5.10",
       "sha256": "842eb8eebeb7088f543fb3ae379419a2de6997211216a796c6b24dd97f11bc0d",
       "size": 355824,
-      "downloadUrl": "https://edge.forgecdn.net/files/9075/984/cbc_ballistic_computer-1.3.5.10.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9075/984/cbc_ballistic_computer-1.3.5.10.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cbc_ballistic_computer-1.3.5.10.jar",
       "required": true
     },
     {
@@ -1245,8 +1226,7 @@
       "filename": "chronomancy-1.0.5.jar",
       "sha256": "1ecad74a60ea43781ca5e5f94541899f762991afaccba77832db02f2b3212e21",
       "size": 5879199,
-      "downloadUrl": "https://edge.forgecdn.net/files/9235/293/chronomancy-1.0.5.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9235/293/chronomancy-1.0.5.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/chronomancy-1.0.5.jar",
       "required": true
     },
     {
@@ -1296,8 +1276,7 @@
       "version": "1.1.0",
       "sha256": "af914408375e0462f6a450f199c5f6f8fa4e5a896d173add00f66b54e31a451b",
       "size": 1286194,
-      "downloadUrl": "https://edge.forgecdn.net/files/7591/337/Pastel-1.1.5.5.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/7591/337/Pastel-1.1.5.5.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/colormagic-1.0.4.jar",
       "required": true
     },
     {
@@ -1307,8 +1286,7 @@
       "version": "${file.jarVersion}",
       "sha256": "df39b3747e7571a6b4782fb8c618bb1fc5544662aba515ae4f67b56361448ec8",
       "size": 26016,
-      "downloadUrl": "https://edge.forgecdn.net/files/7087/488/common-networking-neoforge-1.0.21-1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/7087/488/common-networking-neoforge-1.0.21-1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/common-networking-neoforge-1.0.21-1.21.1.jar",
       "required": true
     },
     {
@@ -1318,8 +1296,7 @@
       "version": "2.6.3",
       "sha256": "421ffd2604b5487cbdb284d1eb5d1cb8a7d28f3ff84d5b4bda25e0a579282a15",
       "size": 428793,
-      "downloadUrl": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/configured-neoforge-1.21.1-2.6.3.jar",
       "required": true
     },
     {
@@ -1327,8 +1304,7 @@
       "filename": "connector-2.0.0-beta.17+1.21.1-full.jar",
       "sha256": "5a4ad10e57b8b1690832d9b77fc488fbe5e7cf41ac5a90d9f569bd78fbea25be",
       "size": 4573244,
-      "downloadUrl": "https://edge.forgecdn.net/files/8654/89/connector-2.0.0-beta.17%2b1.21.1-full.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8654/89/connector-2.0.0-beta.17%2b1.21.1-full.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/connector-2.0.0-beta.17+1.21.1-full.jar",
       "required": true
     },
     {
@@ -1410,8 +1386,7 @@
       "version": "1.21.1-1.0.0",
       "sha256": "65334cb8011b747c0072c579ac7377722126d834a70c654dca12cc62262225b5",
       "size": 116993,
-      "downloadUrl": "https://edge.forgecdn.net/files/9384/321/create-gunsmithing-aero-compat-1.21.1-1.0.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9384/321/create-gunsmithing-aero-compat-1.21.1-1.0.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/create-gunsmithing-aero-compat-1.21.1-1.0.0.jar",
       "required": true
     },
     {
@@ -1496,8 +1471,7 @@
       "version": "1.3.3-mc1.21.1",
       "sha256": "89d2404d2d5bc696b1813e39b9d1616a41888f74a648771152b0b0323a490265",
       "size": 6786784,
-      "downloadUrl": "https://edge.forgecdn.net/files/8777/573/create_connected-1.3.3-mc1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8777/573/create_connected-1.3.3-mc1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/create_connected-1.3.3-mc1.21.1.jar",
       "required": true
     },
     {
@@ -1609,8 +1583,7 @@
       "version": "2.0.1",
       "sha256": "b8d047266577d040591745df83aaa9f956a7f1f29fcab500f9d21c14cfa19952",
       "size": 106814,
-      "downloadUrl": "https://edge.forgecdn.net/files/6967/638/createaddition_plus-2.0.1-neoforge-1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/6967/638/createaddition_plus-2.0.1-neoforge-1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createaddition_plus-2.0.1-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -1620,8 +1593,7 @@
       "version": "2.0",
       "sha256": "a9dd62a20597b075b304c235d76b32fa77ab8c34ea0b6ea859857ba2b7ff575e",
       "size": 45263,
-      "downloadUrl": "https://edge.forgecdn.net/files/9076/258/createaeronauticscurios-neoforge-1.21.1-2.3.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9076/258/createaeronauticscurios-neoforge-1.21.1-2.3.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createaeronauticscurios-neoforge-1.21.1-2.3.jar",
       "required": true
     },
     {
@@ -1682,8 +1654,7 @@
       "version": "3.0.0-1.21.1",
       "sha256": "e1851b34916270a7b400b6a123df34f90f5b525f3c7d7b1a50d4f6dd870bc103",
       "size": 21815,
-      "downloadUrl": "https://edge.forgecdn.net/files/8812/977/createliquidfuel-3.0.0-1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8812/977/createliquidfuel-3.0.0-1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createliquidfuel-3.0.0-1.21.1.jar",
       "required": true
     },
     {
@@ -1744,8 +1715,7 @@
       "version": "2.1.0",
       "sha256": "5ebea4b887c7d2267b68bc35f1ceef6b39190b291156b39b44b0f1852a536673",
       "size": 302327,
-      "downloadUrl": "https://edge.forgecdn.net/files/9522/380/createtnt-1.21.1-neoforge-2.2.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9522/380/createtnt-1.21.1-neoforge-2.2.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createtnt-1.21.1-neoforge-2.1.0.jar",
       "required": true
     },
     {
@@ -1762,8 +1732,7 @@
       "filename": "cupboard-1.21.1-4.2.jar",
       "sha256": "5162922647fe07c7b9f446870915b57ddd0ae9dcf56b243611130fea30f2f77a",
       "size": 30517,
-      "downloadUrl": "https://edge.forgecdn.net/files/8889/50/cupboard-1.21.1-4.2.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8889/50/cupboard-1.21.1-4.2.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cupboard-1.21.1-4.2.jar",
       "required": true
     },
     {
@@ -1805,8 +1774,7 @@
       "version": "0.3.0",
       "sha256": "1c340d892dcefc8ca0a364a6c3d80486d31cfb9aae9f33c3dcd419523e61dfe7",
       "size": 218645,
-      "downloadUrl": "https://edge.forgecdn.net/files/9426/487/diorama-addons-clientmap-1.21.1-0.3.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9426/487/diorama-addons-clientmap-1.21.1-0.3.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-claims-1.21.1-0.3.0.jar",
       "required": true
     },
     {
@@ -1816,8 +1784,7 @@
       "version": "0.3.0",
       "sha256": "61723036d09e7a20fc1a01de2a230867eb2a6f27b91b5b84cfb05d906a49d96c",
       "size": 147090,
-      "downloadUrl": "https://edge.forgecdn.net/files/9426/487/diorama-addons-clientmap-1.21.1-0.3.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9426/487/diorama-addons-clientmap-1.21.1-0.3.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-clientmap-1.21.1-0.3.0.jar",
       "required": true
     },
     {
@@ -1825,8 +1792,7 @@
       "filename": "domum-ornamentum-1.0.237-snapshot-main.jar",
       "sha256": "1c420344edbf2c78837dfa3137a29bb65cffe24c01b5c57df9546c33ae24bb77",
       "size": 1151617,
-      "downloadUrl": "https://edge.forgecdn.net/files/9394/376/domum-ornamentum-1.0.237-snapshot-main.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9394/376/domum-ornamentum-1.0.237-snapshot-main.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/domum-ornamentum-1.0.237-snapshot-main.jar",
       "required": true
     },
     {
@@ -1888,8 +1854,7 @@
       "filename": "echoing_magic-1.0.2.jar",
       "sha256": "117337bcb661388d4baa07128209b1b27b7d4264de0220bf8326e86f28cd8d2c",
       "size": 183392,
-      "downloadUrl": "https://edge.forgecdn.net/files/8937/174/echoing_magic-1.0.2.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8937/174/echoing_magic-1.0.2.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/echoing_magic-1.0.2.jar",
       "required": true
     },
     {
@@ -1897,8 +1862,7 @@
       "filename": "ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
       "sha256": "c7e3ff9d2627e08a1b3926117be276a33a4ff8db5e53d647a246e45f28bce73e",
       "size": 52328,
-      "downloadUrl": "https://edge.forgecdn.net/files/8828/410/ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8828/410/ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ecliptic-seasons-serene-api-bridge-1.21.1-neoforge-10.1.0.3-patch11-1.jar",
       "required": true
     },
     {
@@ -1985,8 +1949,7 @@
       "version": "1.3.55",
       "sha256": "7128d658855e7f078df18f2a553510f4c09ef9dc0c858c90f3dd9d4035836b12",
       "size": 6722952,
-      "downloadUrl": "https://edge.forgecdn.net/files/9382/100/esoteric_spell-1.3.55.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9382/100/esoteric_spell-1.3.55.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/esoteric_spell-1.3.55.jar",
       "required": true
     },
     {
@@ -2007,8 +1970,7 @@
       "version": "12.0.0",
       "sha256": "6e9e21d60d6f48052482dddf0f3a24662687ac2ad3c868d7c9a88fe851d293c5",
       "size": 44765,
-      "downloadUrl": "https://edge.forgecdn.net/files/5428/824/expandability-12.0.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/5428/824/expandability-12.0.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/expandability-12.0.0.jar",
       "required": true
     },
     {
@@ -2060,8 +2022,7 @@
       "version": "${file.jarVersion}",
       "sha256": "8504d7ceedb7b537ab4b028c17a673e6d428298cc7fc6c330ba843b128361a8c",
       "size": 5613208,
-      "downloadUrl": "https://edge.forgecdn.net/files/9195/559/forgified-fabric-api-0.116.15%2b2.3.6%2b1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9195/559/forgified-fabric-api-0.116.15%2b2.3.6%2b1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
       "required": true
     },
     {
@@ -2081,8 +2042,7 @@
       "version": "0.13.11",
       "sha256": "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5",
       "size": 387334,
-      "downloadUrl": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/framework-neoforge-1.21.1-0.13.11.jar",
       "required": true
     },
     {
@@ -2171,8 +2131,7 @@
       "version": "1.5.2",
       "sha256": "ea061fc8fa534d321f5495a414b911aa9b500abbc35aa7c20d4133f062b0f181",
       "size": 3319337,
-      "downloadUrl": "https://edge.forgecdn.net/files/9414/605/grandsigil-1.21.1-neoforge-1.5.2.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9414/605/grandsigil-1.21.1-neoforge-1.5.2.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/grandsigil-1.21.1-neoforge-1.5.2.jar",
       "required": true
     },
     {
@@ -2189,8 +2148,7 @@
       "filename": "hazentouvelib-1.0.12.jar",
       "sha256": "1f09a6b226f246f89375011fbbbc9325484fd863ceb3e5347cb4527e7bc4840f",
       "size": 584637,
-      "downloadUrl": "https://edge.forgecdn.net/files/9506/484/hazentouvelib-1.0.12.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9506/484/hazentouvelib-1.0.12.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hazentouvelib-1.0.12.jar",
       "required": true
     },
     {
@@ -2211,8 +2169,7 @@
       "version": "1.2.0",
       "sha256": "366449e8b40ba720a61264d5b5cd5b1ae33247f00cdc9ba97ddc34de47f31966",
       "size": 28177,
-      "downloadUrl": "https://edge.forgecdn.net/files/8984/53/highspeedexplosionfix-1.2.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8984/53/highspeedexplosionfix-1.2.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/highspeedexplosionfix-1.2.0.jar",
       "required": true
     },
     {
@@ -2222,8 +2179,7 @@
       "version": "1.17.10",
       "sha256": "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864",
       "size": 331333,
-      "downloadUrl": "https://edge.forgecdn.net/files/9290/406/hw_patches_archive-1.17.10.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9290/406/hw_patches_archive-1.17.10.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.17.10.jar",
       "required": true
     },
     {
@@ -2233,8 +2189,7 @@
       "version": "1.0.1",
       "sha256": "02355559cb44152d1c6b6a2546803e419a98b70912fca8941ab4590da7752962",
       "size": 20137950,
-      "downloadUrl": "https://edge.forgecdn.net/files/9201/866/hyper_n_hieis_shenanigans-neoforge-1.21.1-1.0.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9201/866/hyper_n_hieis_shenanigans-neoforge-1.21.1-1.0.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hyper_n_hieis_shenanigans-neoforge-1.21.1-1.0.1.jar",
       "required": true
     },
     {
@@ -2285,8 +2240,7 @@
       "version": "0.6.1",
       "sha256": "d230a2960dcb0c3d5753bc1d4adb71c8c18c9491b8e3cfd4a6b56533dae7a2c6",
       "size": 471085,
-      "downloadUrl": "https://edge.forgecdn.net/files/8974/633/interiors-0.6.1%20v3.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8974/633/interiors-0.6.1%20v3.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/interiors-0.6.1 v3.jar",
       "required": true
     },
     {
@@ -2336,8 +2290,7 @@
       "filename": "irons_spellbooks-1.21.1-3.16.3.jar",
       "sha256": "13d644474ddba4f8478b4ce68294687fd509c994b3f344a224142b102dbe6f73",
       "size": 13890046,
-      "downloadUrl": "https://edge.forgecdn.net/files/8680/204/irons_spellbooks-1.21.1-3.16.3.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8680/204/irons_spellbooks-1.21.1-3.16.3.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/irons_spellbooks-1.21.1-3.16.3.jar",
       "required": true
     },
     {
@@ -2413,8 +2366,7 @@
       "modId": "legendary_spellbooks",
       "sha256": "c1e5421a621e87f82158ad1fc179277b7053e924fa71c1a8c36ee1e0249872a0",
       "size": 510127,
-      "downloadUrl": "https://edge.forgecdn.net/files/8255/715/legendary_spellbooks-1.21.1%2bneo-0.3.2.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8255/715/legendary_spellbooks-1.21.1%2bneo-0.3.2.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/legendary_spellbooks-1.21.1+neo-0.3.2.jar",
       "required": true
     },
     {
@@ -2433,8 +2385,7 @@
       "version": "0.1.4",
       "sha256": "23e68743799d7239c90773450ff0fb00f16e6d483c446f71b1e716ef36ee5b2e",
       "size": 725535,
-      "downloadUrl": "https://edge.forgecdn.net/files/9493/262/let_it_walk-0.1.4.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9493/262/let_it_walk-0.1.4.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/let_it_walk-0.1.4.jar",
       "required": true
     },
     {
@@ -2462,8 +2413,7 @@
       "filename": "mana_sub_zero-1.0.0.jar",
       "sha256": "14f1fd6f20aca89e6af26a00790bbcce3dad9f5f926e6e20d4fbd34b860d5168",
       "size": 339394,
-      "downloadUrl": "https://edge.forgecdn.net/files/9217/512/mana_sub_zero-1.0.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9217/512/mana_sub_zero-1.0.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/mana_sub_zero-1.0.0.jar",
       "required": true
     },
     {
@@ -2520,8 +2470,7 @@
       "version": "1.0.2",
       "sha256": "a0abe076fd04801cc79db83a931566146b0f6c741aecc4e3a19ac6e1ae508138",
       "size": 55371,
-      "downloadUrl": "https://edge.forgecdn.net/files/8814/933/morerelics-new-relics-fix-1.0.2.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8814/933/morerelics-new-relics-fix-1.0.2.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/morerelics-new-relics-fix-1.0.2.jar",
       "required": true
     },
     {
@@ -2568,8 +2517,7 @@
       "version": "0.1.0-beta",
       "sha256": "c19858902f9b23a013bf0a54f46605b3e575615926b0fe53c26eb1312086b8be",
       "size": 193011,
-      "downloadUrl": "https://edge.forgecdn.net/files/9227/386/nodalith-neoforge-0.1.0-beta.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9227/386/nodalith-neoforge-0.1.0-beta.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/nodalith-neoforge-0.1.0-beta.jar",
       "required": true
     },
     {
@@ -2739,8 +2687,7 @@
       "version": "1.0.5",
       "sha256": "a601a8f0ffa547fda3b644b79e4fa313de0639900837125f36ae6374a0c78354",
       "size": 80378,
-      "downloadUrl": "https://edge.forgecdn.net/files/9155/828/reliquified-twilight-forest-new-relics-fix-1.0.5.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9155/828/reliquified-twilight-forest-new-relics-fix-1.0.5.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reliquified-twilight-forest-new-relics-fix-1.0.5.jar",
       "required": true
     },
     {
@@ -2896,8 +2843,7 @@
       "version": "0.3.0",
       "sha256": "104e3d4f0fc0455b174da8501ef3b526f035544afafeb6f0f8380f25d983bee5",
       "size": 4755409,
-      "downloadUrl": "https://edge.forgecdn.net/files/9268/756/sacred_relics-0.3.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9268/756/sacred_relics-0.3.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/sacred_relics-0.3.0.jar",
       "required": true
     },
     {
@@ -2914,8 +2860,7 @@
       "filename": "scrollshelf-1.21.1-1.0.5.jar",
       "sha256": "fa825d18dfae928e7eb80f03459b800cc2eb250a97123629b882d08891c9c54b",
       "size": 371378,
-      "downloadUrl": "https://edge.forgecdn.net/files/8978/652/scrollshelf-1.21.1-1.0.5.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8978/652/scrollshelf-1.21.1-1.0.5.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/scrollshelf-1.21.1-1.0.5.jar",
       "required": true
     },
     {
@@ -2944,8 +2889,7 @@
       "version": "1.0.1",
       "sha256": "76c6702b13ae3fb2eea77d796c2c97fbdf06abe56652b5717fb00787e0ff7108",
       "size": 660909,
-      "downloadUrl": "https://edge.forgecdn.net/files/9204/551/simple_radio_station-1.0.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9204/551/simple_radio_station-1.0.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/simple_radio_station-1.0.1.jar",
       "required": true
     },
     {
@@ -2977,8 +2921,7 @@
       "version": "3.26.20",
       "sha256": "ba29bf715533b4efbadcbfedbc6327e445fd052ea8d494eb0cd192b194ed267e",
       "size": 1264515,
-      "downloadUrl": "https://edge.forgecdn.net/files/9524/812/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9524/812/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/sophisticatedbackpacks-1.21.1-3.26.20.2244.jar",
       "required": true
     },
     {
@@ -2988,8 +2931,7 @@
       "version": "1.5.31",
       "sha256": "d5814c8be957c6a460e44cf6569618527e05ddec65aae1c21f3b00ba0ccd0d0c",
       "size": 1845839,
-      "downloadUrl": "https://edge.forgecdn.net/files/9524/669/sophisticatedcore-1.21.1-1.5.32.2464.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9524/669/sophisticatedcore-1.21.1-1.5.32.2464.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/sophisticatedcore-1.21.1-1.5.31.2460.jar",
       "required": true
     },
     {
@@ -3026,8 +2968,7 @@
       "filename": "spell_actionbar-1.1.7-neoforge-1.21.1.jar",
       "sha256": "85d0d73877c39d6a12eb5c41c65af49091eef1b836bbe345ec026144718b96cf",
       "size": 139791,
-      "downloadUrl": "https://edge.forgecdn.net/files/8976/536/spell_actionbar-1.1.7-neoforge-1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8976/536/spell_actionbar-1.1.7-neoforge-1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spell_actionbar-1.1.7-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -3047,8 +2988,7 @@
       "version": "1.10.9",
       "sha256": "2832d91663fcefb925de6db7bc1eb4d33c40db70ae5d68bc1fc509b3940a806b",
       "size": 4629624,
-      "downloadUrl": "https://edge.forgecdn.net/files/9011/566/spell_engine-neoforge-1.10.9%2b1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9011/566/spell_engine-neoforge-1.10.9%2b1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spell_engine-neoforge-1.10.9+1.21.1.jar",
       "required": true
     },
     {
@@ -3075,8 +3015,7 @@
       "filename": "starbunclemania-1.21.1-1.5.9.jar",
       "sha256": "193b43af8169ff7551504c895e674e39201d026e189cecb16ca2cfaec7903c72",
       "size": 726370,
-      "downloadUrl": "https://edge.forgecdn.net/files/8964/554/starbunclemania-1.21.1-1.5.9.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8964/554/starbunclemania-1.21.1-1.5.9.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/starbunclemania-1.21.1-1.5.9.jar",
       "required": true
     },
     {
@@ -3086,8 +3025,7 @@
       "version": "\"1.0.839-1.21.1-snapshot\" #mandatory",
       "sha256": "13ad36402d1c73de486a00215a264d68959ca9dbaa308a13235d8c4a909f2c39",
       "size": 1064220,
-      "downloadUrl": "https://edge.forgecdn.net/files/9509/522/structurize-1.0.839-1.21.1-snapshot.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9509/522/structurize-1.0.839-1.21.1-snapshot.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/structurize-1.0.839-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -3137,8 +3075,7 @@
       "version": "1.6.0",
       "sha256": "dda2d4bf499cffa1450915ec54242e3554809dc4a89fb2b652d7eeb7c57e3240",
       "size": 1736333,
-      "downloadUrl": "https://edge.forgecdn.net/files/9407/207/terrano-neoforge-1.6.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9407/207/terrano-neoforge-1.6.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/terrano-neoforge-1.6.0.jar",
       "required": true
     },
     {
@@ -3159,8 +3096,7 @@
       "version": "1.0.0",
       "sha256": "31404d0791bc8294288c14e6c35d35faabf1b39ca54ddeb15910669c09868a5c",
       "size": 6887,
-      "downloadUrl": "https://edge.forgecdn.net/files/8961/126/tfmgelectricalfix-2.0.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8961/126/tfmgelectricalfix-2.0.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/tfmg_fe_patch-1.0.0.jar",
       "required": true
     },
     {
@@ -3195,8 +3131,7 @@
       "filename": "towntalk-1.2.0.jar",
       "sha256": "98139f54cc0f6f4be6d7fa8927cd170df8b14545ae04643436dbd48517589eb4",
       "size": 52301863,
-      "downloadUrl": "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/towntalk-1.2.0.jar",
       "required": true
     },
     {
@@ -3215,8 +3150,7 @@
       "filename": "tunes_n_tomes-1.1.0-HOTFIX.jar",
       "sha256": "7b0c6770437ddc7aa8f07bed4fb2b8df267cae5bd0517c767180608afcffe065",
       "size": 21903598,
-      "downloadUrl": "https://edge.forgecdn.net/files/8370/271/tunes_n_tomes-1.1.0-HOTFIX.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8370/271/tunes_n_tomes-1.1.0-HOTFIX.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/tunes_n_tomes-1.1.0-HOTFIX.jar",
       "required": true
     },
     {
@@ -3224,8 +3158,7 @@
       "filename": "twilight_spellbooks-1.2.0.jar",
       "sha256": "e863d32ce39575e99c68c895ea5e7ea45b6fcbe533071a66213aa2c746ef1db6",
       "size": 135303,
-      "downloadUrl": "https://edge.forgecdn.net/files/8597/44/twilight_spellbooks-1.2.0.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8597/44/twilight_spellbooks-1.2.0.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/twilight_spellbooks-1.2.0.jar",
       "required": true
     },
     {
@@ -3235,8 +3168,7 @@
       "version": "4.8.3345",
       "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35",
       "size": 27154121,
-      "downloadUrl": "https://edge.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.3345-universal.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.3345-universal.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/twilightforest-1.21.1-4.8.3345-universal.jar",
       "required": true
     },
     {
@@ -3257,8 +3189,7 @@
       "version": "3.0-beta.1",
       "sha256": "3ab2a8c474aa306cc139ea03e343b20c0267b4887dedc05eed43968a8aed9232",
       "size": 221525,
-      "downloadUrl": "https://edge.forgecdn.net/files/8682/870/uranus-3.0-beta.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8682/870/uranus-3.0-beta.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/uranus-3.0-beta.1.jar",
       "required": true
     },
     {
@@ -3306,8 +3237,7 @@
       "version": "0.6.1.1",
       "sha256": "a944c0ffc1984d8abfe122f2e30e6b4d2e65faa05f9164c55d03700156633b51",
       "size": 590348,
-      "downloadUrl": "https://edge.forgecdn.net/files/9496/239/vp-release-0.6.1.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9496/239/vp-release-0.6.1.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vp-release-0.6.1.1.jar",
       "required": true
     },
     {
@@ -3317,8 +3247,7 @@
       "version": "0.3.5-neoforge-1.21.1",
       "sha256": "6abc84e84cc40030d49f974f3e40055020b5121bcc1a72193cef7a69677a7559",
       "size": 5743743,
-      "downloadUrl": "https://edge.forgecdn.net/files/9080/471/vss-0.3.5-neoforge-1.21.1.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/9080/471/vss-0.3.5-neoforge-1.21.1.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vss-0.3.5-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -3336,8 +3265,7 @@
       "filename": "wind_spellbooks-1.0.5.jar",
       "sha256": "2b3507abfa36df18bd49b289778ce59d1c3e3d9dc10b4e7aae4cbe0756815d40",
       "size": 459532,
-      "downloadUrl": "https://edge.forgecdn.net/files/8485/822/wind_spellbooks-1.0.5.jar",
-      "serverUrl": "https://edge.forgecdn.net/files/8485/822/wind_spellbooks-1.0.5.jar",
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/wind_spellbooks-1.0.5.jar",
       "required": true
     },
     {
