@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "ip-213-152-43-5.joinserver.xyz",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-09T13:34:19.158414138Z",
+  "lastUpdated": "2026-11-09T15:32:29.590164261Z",
   "mods": [
     {
       "name": "Thunder Relics",
@@ -2797,16 +2797,6 @@
     },
     {
       "name": "Resonant Arcana",
-      "filename": "resonant-arcana-0.8.0-neoforge-1.21.1 (1).jar",
-      "modId": "resonant_arcana",
-      "version": "0.8.0",
-      "sha256": "d06f83c244e132af6e30ff5ef7ff3643051a88820251d4696513c1e8b2249322",
-      "size": 2320076,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/resonant-arcana-0.8.0-neoforge-1.21.1 (1).jar",
-      "required": true
-    },
-    {
-      "name": "Resonant Arcana",
       "filename": "resonant-arcana-0.8.0-neoforge-1.21.1.jar",
       "modId": "resonant_arcana",
       "version": "0.8.0",
@@ -3218,6 +3208,15 @@
       "size": 613537,
       "downloadUrl": "https://cdn.modrinth.com/data/E8eHF2Yl/versions/qUDRhHla/tracks_plus-1.0.6b7.jar",
       "serverUrl": "https://cdn.modrinth.com/data/E8eHF2Yl/versions/qUDRhHla/tracks_plus-1.0.6b7.jar",
+      "required": true
+    },
+    {
+      "name": "tunes_n_tomes-1.1.0-HOTFIX",
+      "filename": "tunes_n_tomes-1.1.0-HOTFIX.jar",
+      "sha256": "7b0c6770437ddc7aa8f07bed4fb2b8df267cae5bd0517c767180608afcffe065",
+      "size": 21903598,
+      "downloadUrl": "https://edge.forgecdn.net/files/8370/271/tunes_n_tomes-1.1.0-HOTFIX.jar",
+      "serverUrl": "https://edge.forgecdn.net/files/8370/271/tunes_n_tomes-1.1.0-HOTFIX.jar",
       "required": true
     },
     {
