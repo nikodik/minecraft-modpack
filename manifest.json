@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-09T19:08:49.530812132Z",
+  "lastUpdated": "2026-11-09T21:24:59.809618625Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -368,6 +368,17 @@
       "sha256": "13cb79b327007a22f36d7bf99bc9a5eb8eaebe7610d6aec49db154cc4bdb894e",
       "size": 1893703,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vynxs_expansion-0.9.0.jar",
+      "required": true
+    },
+    {
+      "name": "ZakoOpt",
+      "filename": "zakoopt-2.0.4-1.21.1-neoforge.jar",
+      "modId": "zakoopt",
+      "version": "2.0.4",
+      "sha256": "b675e6dc449b46bdab20305467a89733dbe76a42ca56ba98eb5a37759bbcda18",
+      "size": 581446,
+      "downloadUrl": "https://cdn.modrinth.com/data/kis3AnZl/versions/SLGsGW3O/zakoopt-2.0.4%2B1.21.1-neoforge.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/kis3AnZl/versions/SLGsGW3O/zakoopt-2.0.4%2B1.21.1-neoforge.jar",
       "required": true
     },
     {
