@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-09T18:33:59.106494397Z",
+  "lastUpdated": "2026-11-09T19:08:49.530812132Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -17,12 +17,56 @@
       "required": true
     },
     {
+      "name": "EclipticSeasons-Bundles-0.18.1",
+      "filename": "EclipticSeasons-Bundles-0.18.1.jar",
+      "sha256": "2aa474f78321fe6c89dc71e4fbf76cbe58705c6c0a5299b41338d6f2aabe2d17",
+      "size": 828311,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/EclipticSeasons-Bundles-0.18.1.jar",
+      "required": true
+    },
+    {
       "name": "Essential_1-5-2_neoforge_1-21-1",
       "filename": "Essential_1-5-2_neoforge_1-21-1.jar",
       "sha256": "726bc47dcb521ce950880a998c202f3061966e6787071945e942327e5b0cbc52",
       "size": 51488563,
       "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
+      "required": true
+    },
+    {
+      "name": "FarmersRespite-1.21.1-3.0.1",
+      "filename": "FarmersRespite-1.21.1-3.0.1.jar",
+      "sha256": "66e7561c94d772d551687a1c4da44057f27aabe4a6ae8dbe5109920765bf03c2",
+      "size": 673363,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/FarmersRespite-1.21.1-3.0.1.jar",
+      "required": true
+    },
+    {
+      "name": "Iron\u0027s Spellbooks: Frozen Dominion",
+      "filename": "Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
+      "modId": "frozen_dominion_spells",
+      "version": "1.0.5",
+      "sha256": "e03162367b936e23975280329ed2fd5aa66a9cbd15cfe53ce9237378c97f4fc7",
+      "size": 825102,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
+      "required": true
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "modId": "terrablender",
+      "version": "${file.jarVersion}",
+      "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+      "size": 120364,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "required": true
+    },
+    {
+      "name": "aaa_particles-neoforge-1.21.1-2.3.4",
+      "filename": "aaa_particles-neoforge-1.21.1-2.3.4.jar",
+      "sha256": "bc07466a3265b534a9fdd5319d95f87003db0916c592eab81de6c3e357224c1a",
+      "size": 5637159,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aaa_particles-neoforge-1.21.1-2.3.4.jar",
       "required": true
     },
     {
@@ -36,6 +80,27 @@
       "required": true
     },
     {
+      "name": "Cataclysm x YUNG\u0027s Better Nether Fortresses Compat",
+      "filename": "cataclysmfortresses-1.21.1-NeoForge.jar",
+      "modId": "cataclysmfortresses",
+      "version": "1.21.1",
+      "sha256": "a6f4812a9735a55cb1bc2e669a1fa6dc016a162434ada347514aea9a4e39d840",
+      "size": 19893,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cataclysmfortresses-1.21.1-NeoForge.jar",
+      "required": true
+    },
+    {
+      "name": "Cloth Config v15 API",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "modId": "cloth_config",
+      "version": "15.0.140",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890,
+      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "required": true
+    },
+    {
       "name": "Color Magic",
       "filename": "colormagic-1.0.4.jar",
       "modId": "colormagic",
@@ -43,6 +108,14 @@
       "sha256": "af914408375e0462f6a450f199c5f6f8fa4e5a896d173add00f66b54e31a451b",
       "size": 1286194,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/colormagic-1.0.4.jar",
+      "required": true
+    },
+    {
+      "name": "coroutil-neoforge-1.21.0-1.3.9",
+      "filename": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "sha256": "097434e256a428335cc4e9b718ad7bb9c6804c2c775aa3dd7149a6904adca2bc",
+      "size": 65716,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/coroutil-neoforge-1.21.0-1.3.9.jar",
       "required": true
     },
     {
@@ -56,6 +129,16 @@
       "required": true
     },
     {
+      "name": "Cursed School - Iron\u0027s Spells Addon",
+      "filename": "cursed_school-1.21.1-1.0.17.jar",
+      "modId": "cursed_school",
+      "version": "1.21.1-1.0.17",
+      "sha256": "b5cafe637d49018ae84b9ae5b1946a07632de674ec67585af521db86b495a018",
+      "size": 679474,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cursed_school-1.21.1-1.0.17.jar",
+      "required": true
+    },
+    {
       "name": "Diorama Addons: Claims",
       "filename": "diorama-addons-claims-1.21.1-0.3.0.jar",
       "modId": "dioaddons_claims",
@@ -63,6 +146,106 @@
       "sha256": "1c340d892dcefc8ca0a364a6c3d80486d31cfb9aae9f33c3dcd419523e61dfe7",
       "size": 218645,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-claims-1.21.1-0.3.0.jar",
+      "required": true
+    },
+    {
+      "name": "Frieren Spells - Iron\u0027s Spells Addon",
+      "filename": "frierenvoid-1.21.1-neoforge-1.11.7.jar",
+      "modId": "frierenvoid",
+      "version": "1.11.7",
+      "sha256": "c450c62a8631e6838d03d98ea52fc6ebe637fd23c9af1603eb3f979dbc8f111b",
+      "size": 1699754,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/frierenvoid-1.21.1-neoforge-1.11.7.jar",
+      "required": true
+    },
+    {
+      "name": "gaboulibs",
+      "filename": "gaboulibs-neoforge-1.9.jar",
+      "modId": "gaboulibs",
+      "version": "1.9",
+      "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
+      "size": 31997,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gaboulibs-neoforge-1.9.jar",
+      "required": true
+    },
+    {
+      "name": "gpumemleakfix-1.21-1.8",
+      "filename": "gpumemleakfix-1.21-1.8.jar",
+      "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+      "size": 6574,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gpumemleakfix-1.21-1.8.jar",
+      "required": true
+    },
+    {
+      "name": "[HW] Patches Archive",
+      "filename": "hw_patches_archive-1.17.10.jar",
+      "modId": "hw_patches_archive",
+      "version": "1.17.10",
+      "sha256": "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864",
+      "size": 331333,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.17.10.jar",
+      "required": true
+    },
+    {
+      "name": "Immersive Portals - CE",
+      "filename": "immersive_portals-6.1.3.1.jar",
+      "modId": "q_misc_util",
+      "version": "6.1.3.1",
+      "sha256": "da2fa1d90eae031e34690a64c9cd75ed3b74d47325825f8f38c0419e1220bca2",
+      "size": 4900808,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/immersive_portals-6.1.3.1.jar",
+      "required": true
+    },
+    {
+      "name": "Iron\u0027s Spells x Sable Compat",
+      "filename": "ironssablecompat-1.0.4.jar",
+      "modId": "ironssablecompat",
+      "version": "1.0.4",
+      "sha256": "8bfae20bdd87c457ff6b0922cf97f690205f1828c4f942b1cd615bf762171edf",
+      "size": 65043,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ironssablecompat-1.0.4.jar",
+      "required": true
+    },
+    {
+      "name": "iss_elden_ring-1.1.4",
+      "filename": "iss_elden_ring-1.1.4.jar",
+      "sha256": "ee7b0082f164bc619a97129f490cf991a10c42f735ba1349552f8ba3048e6d34",
+      "size": 1736180,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/iss_elden_ring-1.1.4.jar",
+      "required": true
+    },
+    {
+      "name": "kotlinforforge-5.12.0-all",
+      "filename": "kotlinforforge-5.12.0-all.jar",
+      "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
+      "size": 7279276,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/kotlinforforge-5.12.0-all.jar",
+      "required": true
+    },
+    {
+      "name": "moretidefish-1.15",
+      "filename": "moretidefish-1.15.jar",
+      "sha256": "df86bbf9e5acd961e196ea67984de312d3a7669095b4501ab6fc1abad1a32288",
+      "size": 229074,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/moretidefish-1.15.jar",
+      "required": true
+    },
+    {
+      "name": "multipiston-1.2.58-1.21.1",
+      "filename": "multipiston-1.2.58-1.21.1.jar",
+      "sha256": "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7",
+      "size": 34139,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/multipiston-1.2.58-1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "Neo-Voxy",
+      "filename": "neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
+      "modId": "voxy",
+      "version": "0.5.0-alpha.12",
+      "sha256": "0991b4770bc113891df9b30f293173f4ac52fc2350c6cf3d40a6c392173f0ea9",
+      "size": 14215249,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
       "required": true
     },
     {
@@ -77,6 +260,44 @@
       "required": true
     },
     {
+      "name": "Reliquified L_Ender \u0027s Cataclysm new relics fix",
+      "filename": "reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
+      "modId": "reliquified_lenders_cataclysm_new_relics_fix",
+      "version": "1.0.3",
+      "sha256": "7f439bb0ed0f7f3a4dd2a1bad63bc4d2a9e8c479c288996d9c0f6dca46171273",
+      "size": 70753,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
+      "required": true
+    },
+    {
+      "name": "reskillable-4.1.2-1.21.1",
+      "filename": "reskillable-4.1.2-1.21.1.jar",
+      "sha256": "e46ee70c28e176e36a1d8ff11e5abe1179f55b7a66c19a6b70838f16d3610ba3",
+      "size": 272227,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reskillable-4.1.2-1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "Resonant Arcana",
+      "filename": "resonant-arcana-0.8.0-neoforge-1.21.1.jar",
+      "modId": "resonant_arcana",
+      "version": "0.8.0",
+      "sha256": "d06f83c244e132af6e30ff5ef7ff3643051a88820251d4696513c1e8b2249322",
+      "size": 2320076,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/resonant-arcana-0.8.0-neoforge-1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "[Setver] Balance Skills",
+      "filename": "setver-balance-skills-1.0.0.jar",
+      "modId": "balanceskills",
+      "version": "1.0.0",
+      "sha256": "420b5127e7312f6532300442acfbc76a4725eb3c862557cba91e9edd24f4f3fb",
+      "size": 15035,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.0.0.jar",
+      "required": true
+    },
+    {
       "name": "Sodium",
       "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
       "modId": "sodium",
@@ -88,6 +309,32 @@
       "required": true
     },
     {
+      "name": "specs_irons_spellbooks-1.6.13-neoforge-1.21.1",
+      "filename": "specs_irons_spellbooks-1.6.13-neoforge-1.21.1.jar",
+      "sha256": "9832ff338621abc53663b86da46bc8aea2d885c733f1110dfa4076ac27431358",
+      "size": 705789,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/specs_irons_spellbooks-1.6.13-neoforge-1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "Spell Descriptions",
+      "filename": "spell_descriptions-1.21.1-1.0.0.jar",
+      "modId": "spell_descriptions",
+      "version": "1.0.0",
+      "sha256": "6d4eefed556eea0621751c76f3938758d3a62f6fe20b120f1dce67c035dddeb7",
+      "size": 5961,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spell_descriptions-1.21.1-1.0.0.jar",
+      "required": true
+    },
+    {
+      "name": "spellsofsins-1.0.2",
+      "filename": "spellsofsins-1.0.2.jar",
+      "sha256": "65a5e12c3032d6ac84925acd8624c9179a2ec708a2f71b9293e8412a662700ac",
+      "size": 93376,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spellsofsins-1.0.2.jar",
+      "required": true
+    },
+    {
       "name": "TFMG FE Patch",
       "filename": "tfmg_fe_patch-1.0.0.jar",
       "modId": "tfmg_fe_patch",
@@ -95,6 +342,32 @@
       "sha256": "31404d0791bc8294288c14e6c35d35faabf1b39ca54ddeb15910669c09868a5c",
       "size": 6887,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/tfmg_fe_patch-1.0.0.jar",
+      "required": true
+    },
+    {
+      "name": "valiant-0.0.1",
+      "filename": "valiant-0.0.1.jar",
+      "sha256": "3f28fb5793e24babf0cde8175a06216b46a281039aea0c7b9a47029892de383c",
+      "size": 53682,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/valiant-0.0.1.jar",
+      "required": true
+    },
+    {
+      "name": "vampiricageing-1.21-1.4.21",
+      "filename": "vampiricageing-1.21-1.4.21.jar",
+      "sha256": "1c44732a52f42b135864a15eb5dad3ca497826b7efa4274d3beab7c92b71b996",
+      "size": 229919,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vampiricageing-1.21-1.4.21.jar",
+      "required": true
+    },
+    {
+      "name": "Vynx\u0027s Expansion",
+      "filename": "vynxs_expansion-0.9.0.jar",
+      "modId": "vynxs_expansion",
+      "version": "0.8.1",
+      "sha256": "13cb79b327007a22f36d7bf99bc9a5eb8eaebe7610d6aec49db154cc4bdb894e",
+      "size": 1893703,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vynxs_expansion-0.9.0.jar",
       "required": true
     },
     {
@@ -310,14 +583,6 @@
       "required": true
     },
     {
-      "name": "EclipticSeasons-Bundles-0.18.1",
-      "filename": "EclipticSeasons-Bundles-0.18.1.jar",
-      "sha256": "2aa474f78321fe6c89dc71e4fbf76cbe58705c6c0a5299b41338d6f2aabe2d17",
-      "size": 828311,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/EclipticSeasons-Bundles-0.18.1.jar",
-      "required": true
-    },
-    {
       "name": "Explorify",
       "filename": "Explorify-v1.6.6.mod.jar",
       "modId": "explorify",
@@ -337,24 +602,6 @@
       "size": 3160490,
       "downloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
       "serverUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
-      "required": true
-    },
-    {
-      "name": "FarmersRespite-1.21.1-3.0.1",
-      "filename": "FarmersRespite-1.21.1-3.0.1.jar",
-      "sha256": "66e7561c94d772d551687a1c4da44057f27aabe4a6ae8dbe5109920765bf03c2",
-      "size": 673363,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/FarmersRespite-1.21.1-3.0.1.jar",
-      "required": true
-    },
-    {
-      "name": "Iron\u0027s Spellbooks: Frozen Dominion",
-      "filename": "Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
-      "modId": "frozen_dominion_spells",
-      "version": "1.0.5",
-      "sha256": "e03162367b936e23975280329ed2fd5aa66a9cbd15cfe53ce9237378c97f4fc7",
-      "size": 825102,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
       "required": true
     },
     {
@@ -637,16 +884,6 @@
       "required": true
     },
     {
-      "name": "TerraBlender",
-      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "modId": "terrablender",
-      "version": "${file.jarVersion}",
-      "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
-      "size": 120364,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "required": true
-    },
-    {
       "name": "Vampire\u0027s Delight",
       "filename": "VampiresDelight-1.21.1-0.1.12b.jar",
       "modId": "vampiresdelight",
@@ -850,14 +1087,6 @@
       "size": 5193371,
       "downloadUrl": "https://cdn.modrinth.com/data/v8jzRtAt/versions/X9nq0PvS/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/v8jzRtAt/versions/X9nq0PvS/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar",
-      "required": true
-    },
-    {
-      "name": "aaa_particles-neoforge-1.21.1-2.3.4",
-      "filename": "aaa_particles-neoforge-1.21.1-2.3.4.jar",
-      "sha256": "bc07466a3265b534a9fdd5319d95f87003db0916c592eab81de6c3e357224c1a",
-      "size": 5637159,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aaa_particles-neoforge-1.21.1-2.3.4.jar",
       "required": true
     },
     {
@@ -1222,16 +1451,6 @@
       "required": true
     },
     {
-      "name": "Cataclysm x YUNG\u0027s Better Nether Fortresses Compat",
-      "filename": "cataclysmfortresses-1.21.1-NeoForge.jar",
-      "modId": "cataclysmfortresses",
-      "version": "1.21.1",
-      "sha256": "a6f4812a9735a55cb1bc2e669a1fa6dc016a162434ada347514aea9a4e39d840",
-      "size": 19893,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cataclysmfortresses-1.21.1-NeoForge.jar",
-      "required": true
-    },
-    {
       "name": "cbc_at_Neoforge_1.21.1_0.1.4c",
       "filename": "cbc_at_Neoforge_1.21.1_0.1.4c.jar",
       "sha256": "88fb40b3353308c90d68f4512b78b63fd7278d05915d9d8628cecab9508ee58f",
@@ -1319,17 +1538,6 @@
       "required": true
     },
     {
-      "name": "Cloth Config v15 API",
-      "filename": "cloth-config-15.0.140-neoforge.jar",
-      "modId": "cloth_config",
-      "version": "15.0.140",
-      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
-      "size": 1163890,
-      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
-      "required": true
-    },
-    {
       "name": "Collective",
       "filename": "collective-1.21.1-8.84.jar",
       "modId": "collective",
@@ -1388,14 +1596,6 @@
       "size": 1805121,
       "downloadUrl": "https://cdn.modrinth.com/data/UT2M39wf/versions/zLlVJXf0/copycats-3.0.11%2Bmc.1.21.1-neoforge.jar",
       "serverUrl": "https://cdn.modrinth.com/data/UT2M39wf/versions/zLlVJXf0/copycats-3.0.11%2Bmc.1.21.1-neoforge.jar",
-      "required": true
-    },
-    {
-      "name": "coroutil-neoforge-1.21.0-1.3.9",
-      "filename": "coroutil-neoforge-1.21.0-1.3.9.jar",
-      "sha256": "097434e256a428335cc4e9b718ad7bb9c6804c2c775aa3dd7149a6904adca2bc",
-      "size": 65716,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/coroutil-neoforge-1.21.0-1.3.9.jar",
       "required": true
     },
     {
@@ -1798,16 +1998,6 @@
       "required": true
     },
     {
-      "name": "Cursed School - Iron\u0027s Spells Addon",
-      "filename": "cursed_school-1.21.1-1.0.17.jar",
-      "modId": "cursed_school",
-      "version": "1.21.1-1.0.17",
-      "sha256": "b5cafe637d49018ae84b9ae5b1946a07632de674ec67585af521db86b495a018",
-      "size": 679474,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cursed_school-1.21.1-1.0.17.jar",
-      "required": true
-    },
-    {
       "name": "Diorama",
       "filename": "diorama-0.8.1-neoforge-1.21.1.jar",
       "modId": "diorama",
@@ -2087,16 +2277,6 @@
       "required": true
     },
     {
-      "name": "Frieren Spells - Iron\u0027s Spells Addon",
-      "filename": "frierenvoid-1.21.1-neoforge-1.11.7.jar",
-      "modId": "frierenvoid",
-      "version": "1.11.7",
-      "sha256": "c450c62a8631e6838d03d98ea52fc6ebe637fd23c9af1603eb3f979dbc8f111b",
-      "size": 1699754,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/frierenvoid-1.21.1-neoforge-1.11.7.jar",
-      "required": true
-    },
-    {
       "name": "fusion-1.3.16-neoforge-mc1.21.1",
       "filename": "fusion-1.3.16-neoforge-mc1.21.1.jar",
       "sha256": "29920a6838f4f942947d208349480d7f5737f9fac6411c6eac5f3e824a438048",
@@ -2114,16 +2294,6 @@
       "size": 2392720,
       "downloadUrl": "https://cdn.modrinth.com/data/hYykXjDp/versions/jRuOkBAG/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar",
       "serverUrl": "https://cdn.modrinth.com/data/hYykXjDp/versions/jRuOkBAG/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar",
-      "required": true
-    },
-    {
-      "name": "gaboulibs",
-      "filename": "gaboulibs-neoforge-1.9.jar",
-      "modId": "gaboulibs",
-      "version": "1.9",
-      "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
-      "size": 31997,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gaboulibs-neoforge-1.9.jar",
       "required": true
     },
     {
@@ -2155,14 +2325,6 @@
       "size": 7693,
       "downloadUrl": "https://cdn.modrinth.com/data/pg5DWzmH/versions/iEJR1CsA/godly_vampirism-1.21.1-1.10.0.jar",
       "serverUrl": "https://cdn.modrinth.com/data/pg5DWzmH/versions/iEJR1CsA/godly_vampirism-1.21.1-1.10.0.jar",
-      "required": true
-    },
-    {
-      "name": "gpumemleakfix-1.21-1.8",
-      "filename": "gpumemleakfix-1.21-1.8.jar",
-      "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
-      "size": 6574,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gpumemleakfix-1.21-1.8.jar",
       "required": true
     },
     {
@@ -2214,16 +2376,6 @@
       "required": true
     },
     {
-      "name": "[HW] Patches Archive",
-      "filename": "hw_patches_archive-1.17.10.jar",
-      "modId": "hw_patches_archive",
-      "version": "1.17.10",
-      "sha256": "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864",
-      "size": 331333,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.17.10.jar",
-      "required": true
-    },
-    {
       "name": "Hyper \u0027N Hiei\u0027s Shenanigans",
       "filename": "hyper_n_hieis_shenanigans-neoforge-1.21.1-1.0.1.jar",
       "modId": "hyper_n_hieis_shenanigans",
@@ -2231,16 +2383,6 @@
       "sha256": "02355559cb44152d1c6b6a2546803e419a98b70912fca8941ab4590da7752962",
       "size": 20137950,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hyper_n_hieis_shenanigans-neoforge-1.21.1-1.0.1.jar",
-      "required": true
-    },
-    {
-      "name": "Immersive Portals - CE",
-      "filename": "immersive_portals-6.1.3.1.jar",
-      "modId": "q_misc_util",
-      "version": "6.1.3.1",
-      "sha256": "da2fa1d90eae031e34690a64c9cd75ed3b74d47325825f8f38c0419e1220bca2",
-      "size": 4900808,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/immersive_portals-6.1.3.1.jar",
       "required": true
     },
     {
@@ -2335,24 +2477,6 @@
       "required": true
     },
     {
-      "name": "Iron\u0027s Spells x Sable Compat",
-      "filename": "ironssablecompat-1.0.4.jar",
-      "modId": "ironssablecompat",
-      "version": "1.0.4",
-      "sha256": "8bfae20bdd87c457ff6b0922cf97f690205f1828c4f942b1cd615bf762171edf",
-      "size": 65043,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ironssablecompat-1.0.4.jar",
-      "required": true
-    },
-    {
-      "name": "iss_elden_ring-1.1.4",
-      "filename": "iss_elden_ring-1.1.4.jar",
-      "sha256": "ee7b0082f164bc619a97129f490cf991a10c42f735ba1349552f8ba3048e6d34",
-      "size": 1736180,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/iss_elden_ring-1.1.4.jar",
-      "required": true
-    },
-    {
       "name": "jei-1.21.1-neoforge-19.70.0.469",
       "filename": "jei-1.21.1-neoforge-19.70.0.469.jar",
       "sha256": "9ab82d9bdbc8d9a08b80bc2023e1d886f6335b92f937d3afac878c9ea995dc33",
@@ -2369,14 +2493,6 @@
       "size": 278988,
       "downloadUrl": "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar",
       "serverUrl": "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar",
-      "required": true
-    },
-    {
-      "name": "kotlinforforge-5.12.0-all",
-      "filename": "kotlinforforge-5.12.0-all.jar",
-      "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
-      "size": 7279276,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/kotlinforforge-5.12.0-all.jar",
       "required": true
     },
     {
@@ -2512,14 +2628,6 @@
       "sha256": "a0abe076fd04801cc79db83a931566146b0f6c741aecc4e3a19ac6e1ae508138",
       "size": 55371,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/morerelics-new-relics-fix-1.0.2.jar",
-      "required": true
-    },
-    {
-      "name": "moretidefish-1.15",
-      "filename": "moretidefish-1.15.jar",
-      "sha256": "df86bbf9e5acd961e196ea67984de312d3a7669095b4501ab6fc1abad1a32288",
-      "size": 229074,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/moretidefish-1.15.jar",
       "required": true
     },
     {
@@ -2712,16 +2820,6 @@
       "required": true
     },
     {
-      "name": "Reliquified L_Ender \u0027s Cataclysm new relics fix",
-      "filename": "reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
-      "modId": "reliquified_lenders_cataclysm_new_relics_fix",
-      "version": "1.0.3",
-      "sha256": "7f439bb0ed0f7f3a4dd2a1bad63bc4d2a9e8c479c288996d9c0f6dca46171273",
-      "size": 70753,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
-      "required": true
-    },
-    {
       "name": "Reliquified Twilight Forest new relics fix",
       "filename": "reliquified-twilight-forest-new-relics-fix-1.0.5.jar",
       "modId": "reliquified_twilight_forest_new_relics_fix",
@@ -2773,24 +2871,6 @@
       "size": 769787,
       "downloadUrl": "https://cdn.modrinth.com/data/zpFCv1jC/versions/9UsckWGL/reliquified_twilight_forest-1.21.1-0.5.3.jar",
       "serverUrl": "https://cdn.modrinth.com/data/zpFCv1jC/versions/9UsckWGL/reliquified_twilight_forest-1.21.1-0.5.3.jar",
-      "required": true
-    },
-    {
-      "name": "reskillable-4.1.2-1.21.1",
-      "filename": "reskillable-4.1.2-1.21.1.jar",
-      "sha256": "e46ee70c28e176e36a1d8ff11e5abe1179f55b7a66c19a6b70838f16d3610ba3",
-      "size": 272227,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reskillable-4.1.2-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Resonant Arcana",
-      "filename": "resonant-arcana-0.8.0-neoforge-1.21.1.jar",
-      "modId": "resonant_arcana",
-      "version": "0.8.0",
-      "sha256": "d06f83c244e132af6e30ff5ef7ff3643051a88820251d4696513c1e8b2249322",
-      "size": 2320076,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/resonant-arcana-0.8.0-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -2905,16 +2985,6 @@
       "required": true
     },
     {
-      "name": "[Setver] Balance Skills",
-      "filename": "setver-balance-skills-1.0.0.jar",
-      "modId": "balanceskills",
-      "version": "1.0.0",
-      "sha256": "420b5127e7312f6532300442acfbc76a4725eb3c862557cba91e9edd24f4f3fb",
-      "size": 15035,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.0.0.jar",
-      "required": true
-    },
-    {
       "name": "sim_copycats-1.3.2",
       "filename": "sim_copycats-1.3.2.jar",
       "sha256": "c0f1017f76118a283fcf0ebdd371c2f7bee2ac56b11c7459efdfa6a42fe9c5af",
@@ -2997,29 +3067,11 @@
       "required": true
     },
     {
-      "name": "specs_irons_spellbooks-1.6.13-neoforge-1.21.1",
-      "filename": "specs_irons_spellbooks-1.6.13-neoforge-1.21.1.jar",
-      "sha256": "9832ff338621abc53663b86da46bc8aea2d885c733f1110dfa4076ac27431358",
-      "size": 705789,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/specs_irons_spellbooks-1.6.13-neoforge-1.21.1.jar",
-      "required": true
-    },
-    {
       "name": "spell_actionbar-1.1.7-neoforge-1.21.1",
       "filename": "spell_actionbar-1.1.7-neoforge-1.21.1.jar",
       "sha256": "85d0d73877c39d6a12eb5c41c65af49091eef1b836bbe345ec026144718b96cf",
       "size": 139791,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spell_actionbar-1.1.7-neoforge-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Spell Descriptions",
-      "filename": "spell_descriptions-1.21.1-1.0.0.jar",
-      "modId": "spell_descriptions",
-      "version": "1.0.0",
-      "sha256": "6d4eefed556eea0621751c76f3938758d3a62f6fe20b120f1dce67c035dddeb7",
-      "size": 5961,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spell_descriptions-1.21.1-1.0.0.jar",
       "required": true
     },
     {
@@ -3041,14 +3093,6 @@
       "size": 222955,
       "downloadUrl": "https://cdn.modrinth.com/data/8ooWzSQP/versions/RFCD8Aio/spell_power-neoforge-1.6.0%2B1.21.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/8ooWzSQP/versions/RFCD8Aio/spell_power-neoforge-1.6.0%2B1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "spellsofsins-1.0.2",
-      "filename": "spellsofsins-1.0.2.jar",
-      "sha256": "65a5e12c3032d6ac84925acd8624c9179a2ec708a2f71b9293e8412a662700ac",
-      "size": 93376,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spellsofsins-1.0.2.jar",
       "required": true
     },
     {
@@ -3224,22 +3268,6 @@
       "required": true
     },
     {
-      "name": "valiant-0.0.1",
-      "filename": "valiant-0.0.1.jar",
-      "sha256": "3f28fb5793e24babf0cde8175a06216b46a281039aea0c7b9a47029892de383c",
-      "size": 53682,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/valiant-0.0.1.jar",
-      "required": true
-    },
-    {
-      "name": "vampiricageing-1.21-1.4.21",
-      "filename": "vampiricageing-1.21-1.4.21.jar",
-      "sha256": "1c44732a52f42b135864a15eb5dad3ca497826b7efa4274d3beab7c92b71b996",
-      "size": 229919,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vampiricageing-1.21-1.4.21.jar",
-      "required": true
-    },
-    {
       "name": "Vampirism Integrations",
       "filename": "vampirism_integrations-1.21.1-1.10.2.jar",
       "modId": "vampirism_integrations",
@@ -3279,16 +3307,6 @@
       "sha256": "6abc84e84cc40030d49f974f3e40055020b5121bcc1a72193cef7a69677a7559",
       "size": 5743743,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vss-0.3.5-neoforge-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Vynx\u0027s Expansion",
-      "filename": "vynxs_expansion-0.9.0.jar",
-      "modId": "vynxs_expansion",
-      "version": "0.8.1",
-      "sha256": "13cb79b327007a22f36d7bf99bc9a5eb8eaebe7610d6aec49db154cc4bdb894e",
-      "size": 1893703,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vynxs_expansion-0.9.0.jar",
       "required": true
     },
     {
