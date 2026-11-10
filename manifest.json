@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-09T21:24:59.809618625Z",
+  "lastUpdated": "2026-11-10T21:58:15.655189697Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -246,6 +246,16 @@
       "sha256": "0991b4770bc113891df9b30f293173f4ac52fc2350c6cf3d40a6c392173f0ea9",
       "size": 14215249,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
+      "required": true
+    },
+    {
+      "name": "Nodalith",
+      "filename": "nodalith-neoforge-0.1.0-beta.jar",
+      "modId": "nodalith",
+      "version": "0.1.0-beta",
+      "sha256": "c19858902f9b23a013bf0a54f46605b3e575615926b0fe53c26eb1312086b8be",
+      "size": 193011,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/nodalith-neoforge-0.1.0-beta.jar",
       "required": true
     },
     {
@@ -1256,7 +1266,8 @@
       "version": "1.21.1-1.4.4",
       "sha256": "15431063b27f43aa5321100bc29acc9b49ab0c97e24e16627a759a0312ea0f11",
       "size": 7255820,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/archaion-1.21.1-1.4.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/W9McR7cY/versions/o9GnunEp/archaion-1.21.1-1.4.4.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/W9McR7cY/versions/o9GnunEp/archaion-1.21.1-1.4.4.jar",
       "required": true
     },
     {
@@ -2423,8 +2434,8 @@
       "version": "2.5.3.0",
       "sha256": "b8bffcc1f0025a902f607345e872c978885f24c7f62650838a80079a24af33d2",
       "size": 1270409,
-      "downloadUrl": "https://cdn.modrinth.com/data/USZyvOJq/versions/AtEnLz5c/insanelib-2.5.3.0.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/USZyvOJq/versions/AtEnLz5c/insanelib-2.5.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/USZyvOJq/versions/ufw0Tq5H/insanelib-2.5.3.0.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/USZyvOJq/versions/ufw0Tq5H/insanelib-2.5.3.0.jar",
       "required": true
     },
     {
@@ -2668,16 +2679,6 @@
       "size": 2996683,
       "downloadUrl": "https://cdn.modrinth.com/data/3e4LaIlU/versions/rwh5rHiy/netherexotics-1.21.1-1.3.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/3e4LaIlU/versions/rwh5rHiy/netherexotics-1.21.1-1.3.1.jar",
-      "required": true
-    },
-    {
-      "name": "Nodalith",
-      "filename": "nodalith-neoforge-0.1.0-beta.jar",
-      "modId": "nodalith",
-      "version": "0.1.0-beta",
-      "sha256": "c19858902f9b23a013bf0a54f46605b3e575615926b0fe53c26eb1312086b8be",
-      "size": 193011,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/nodalith-neoforge-0.1.0-beta.jar",
       "required": true
     },
     {
@@ -3166,12 +3167,13 @@
     },
     {
       "name": "Terrano",
-      "filename": "terrano-neoforge-1.6.0.jar",
+      "filename": "terrano-neoforge-1.5.1.jar",
       "modId": "terrano",
-      "version": "1.6.0",
-      "sha256": "dda2d4bf499cffa1450915ec54242e3554809dc4a89fb2b652d7eeb7c57e3240",
-      "size": 1736333,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/terrano-neoforge-1.6.0.jar",
+      "version": "1.5.1",
+      "sha256": "f70e5cae4f615065ebb0bb3cbbfab07f4ddc19ce0a483de386fbecd2c7ba3088",
+      "size": 1473605,
+      "downloadUrl": "https://cdn.modrinth.com/data/IvWre9DO/versions/2ZA23SV4/terrano-neoforge-1.5.1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/IvWre9DO/versions/2ZA23SV4/terrano-neoforge-1.5.1.jar",
       "required": true
     },
     {
