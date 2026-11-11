@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-10T21:58:15.655189697Z",
+  "lastUpdated": "2026-11-11T16:48:31.933831433Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -165,7 +165,8 @@
       "version": "1.9",
       "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
       "size": 31997,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gaboulibs-neoforge-1.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/N8aGZtvj/versions/wnGOTFh4/gaboulibs-neoforge-1.9.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/N8aGZtvj/versions/wnGOTFh4/gaboulibs-neoforge-1.9.jar",
       "required": true
     },
     {
@@ -255,7 +256,8 @@
       "version": "0.1.0-beta",
       "sha256": "c19858902f9b23a013bf0a54f46605b3e575615926b0fe53c26eb1312086b8be",
       "size": 193011,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/nodalith-neoforge-0.1.0-beta.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/YaZ9ccC8/versions/aDZmFt1a/nodalith-neoforge-0.1.0-beta.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/YaZ9ccC8/versions/aDZmFt1a/nodalith-neoforge-0.1.0-beta.jar",
       "required": true
     },
     {
@@ -2967,16 +2969,6 @@
       "size": 301532,
       "downloadUrl": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/cxUohR7A/sablejade-1.3.0.jar",
       "serverUrl": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/cxUohR7A/sablejade-1.3.0.jar",
-      "required": true
-    },
-    {
-      "name": "Sacred Relics",
-      "filename": "sacred_relics-0.3.0.jar",
-      "modId": "sacred_relics",
-      "version": "0.3.0",
-      "sha256": "104e3d4f0fc0455b174da8501ef3b526f035544afafeb6f0f8380f25d983bee5",
-      "size": 4755409,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/sacred_relics-0.3.0.jar",
       "required": true
     },
     {
