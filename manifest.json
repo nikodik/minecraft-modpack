@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25583,
-  "lastUpdated": "2026-11-11T16:48:31.933831433Z",
+  "lastUpdated": "2026-11-12T05:57:59.828384723Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -67,6 +67,15 @@
       "sha256": "bc07466a3265b534a9fdd5319d95f87003db0916c592eab81de6c3e357224c1a",
       "size": 5637159,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aaa_particles-neoforge-1.21.1-2.3.4.jar",
+      "required": true
+    },
+    {
+      "name": "aeronautics-craftable-levitite-1.0",
+      "filename": "aeronautics-craftable-levitite-1.0.jar",
+      "sha256": "9b55d964fcbf7d17c8c214e5fc331c9a17faa2bfcd9a3b24d7c8cf6d817f0405",
+      "size": 722653,
+      "downloadUrl": "https://cdn.modrinth.com/data/pHv8F8pB/versions/272laaTj/aeronautics-craftable-levitite-1.0.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/pHv8F8pB/versions/272laaTj/aeronautics-craftable-levitite-1.0.jar",
       "required": true
     },
     {
