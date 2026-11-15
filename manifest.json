@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25565,
-  "lastUpdated": "2026-11-14T00:42:50.572757799Z",
+  "lastUpdated": "2026-11-15T20:14:29.857559165Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -49,6 +49,17 @@
       "sha256": "e03162367b936e23975280329ed2fd5aa66a9cbd15cfe53ce9237378c97f4fc7",
       "size": 825102,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
+      "required": true
+    },
+    {
+      "name": "LuckPerms",
+      "filename": "LuckPerms-NeoForge-5.4.140.jar",
+      "modId": "luckperms",
+      "version": "5.4.140",
+      "sha256": "6b8097a7e1a27d870d3d472d00079fa958271db16b9433369dce6c7f62530b19",
+      "size": 1434674,
+      "downloadUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/rnvg05YO/LuckPerms-NeoForge-5.4.140.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/rnvg05YO/LuckPerms-NeoForge-5.4.140.jar",
       "required": true
     },
     {
@@ -316,6 +327,16 @@
       "sha256": "481f27f3a253d8d80c7401a4cc7a0b7adfcefc46a8eaa87dd9521a91c9283af0",
       "size": 25929,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.1.0.jar",
+      "required": true
+    },
+    {
+      "name": "[Setver] Balance Skills",
+      "filename": "setver-balance-skills-1.2.1.jar",
+      "modId": "balanceskills",
+      "version": "1.2.1",
+      "sha256": "880da726872dc488aeea0f0458e735d06417a8b3436ee6a9fc0c027684919067",
+      "size": 35329,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.2.1.jar",
       "required": true
     },
     {
