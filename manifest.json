@@ -1,9 +1,9 @@
 {
-  "version": "5.0.1",
+  "version": "2.0.0",
   "minecraftVersion": "1.21.1",
   "forgeVersion": "21.1.265",
-  "serverAddress": "setver.millida.host",
-  "serverPort": 12114,
+  "serverAddress": "setver.polit.day",
+  "serverPort": 25565,
   "lastUpdated": "2026-11-15T20:52:26.930045736Z",
   "mods": [
     {
