@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25565,
-  "lastUpdated": "2026-11-15T20:52:26.930045736Z",
+  "lastUpdated": "2026-11-15T21:42:50.352536605Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -53,13 +53,13 @@
     },
     {
       "name": "LuckPerms",
-      "filename": "LuckPerms-NeoForge-5.4.140.jar",
+      "filename": "LuckPerms-NeoForge-5.4.150.jar",
       "modId": "luckperms",
-      "version": "5.4.140",
-      "sha256": "6b8097a7e1a27d870d3d472d00079fa958271db16b9433369dce6c7f62530b19",
-      "size": 1434674,
-      "downloadUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/rnvg05YO/LuckPerms-NeoForge-5.4.140.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/rnvg05YO/LuckPerms-NeoForge-5.4.140.jar",
+      "version": "5.4.150",
+      "sha256": "f161a939c7320e8a30569c37aae2c0f5bbb3cfbd77bebb233bd0f0787a2d0ef9",
+      "size": 1433955,
+      "downloadUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar",
       "required": true
     },
     {
@@ -199,12 +199,12 @@
     },
     {
       "name": "[HW] Patches Archive",
-      "filename": "hw_patches_archive-1.17.10.jar",
+      "filename": "hw_patches_archive-1.18.11.jar",
       "modId": "hw_patches_archive",
-      "version": "1.17.10",
-      "sha256": "83f4eda1c4ee8dc4c499e830da4496b36283f18b051a24e14f01c59c81c76864",
-      "size": 331333,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.17.10.jar",
+      "version": "1.18.11",
+      "sha256": "067d2fe3f00ad33cf3e9bac1f664c99d88f841e70a8c1511bf18a396a55d2814",
+      "size": 341717,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.18.11.jar",
       "required": true
     },
     {
