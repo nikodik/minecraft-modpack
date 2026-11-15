@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25565,
-  "lastUpdated": "2026-11-15T20:14:29.857559165Z",
+  "lastUpdated": "2026-11-15T20:52:26.930045736Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -317,16 +317,6 @@
       "sha256": "d06f83c244e132af6e30ff5ef7ff3643051a88820251d4696513c1e8b2249322",
       "size": 2320076,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/resonant-arcana-0.8.0-neoforge-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "[Setver] Balance Skills",
-      "filename": "setver-balance-skills-1.1.0.jar",
-      "modId": "balanceskills",
-      "version": "1.1.0",
-      "sha256": "481f27f3a253d8d80c7401a4cc7a0b7adfcefc46a8eaa87dd9521a91c9283af0",
-      "size": 25929,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.1.0.jar",
       "required": true
     },
     {
