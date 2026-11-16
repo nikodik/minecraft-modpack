@@ -4,7 +4,7 @@
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25565,
-  "lastUpdated": "2026-11-15T21:42:50.352536605Z",
+  "lastUpdated": "2026-11-16T11:11:27.887039485Z",
   "mods": [
     {
       "name": "Chronomancy",
@@ -199,12 +199,12 @@
     },
     {
       "name": "[HW] Patches Archive",
-      "filename": "hw_patches_archive-1.18.11.jar",
+      "filename": "hw_patches_archive-1.17.10.jar",
       "modId": "hw_patches_archive",
-      "version": "1.18.11",
-      "sha256": "067d2fe3f00ad33cf3e9bac1f664c99d88f841e70a8c1511bf18a396a55d2814",
-      "size": 341717,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.18.11.jar",
+      "version": "1.17.10",
+      "sha256": "b3e5e469a973fc3b537f8b8fc50b5cc7a68a0e96cffeebdc307b51ed3d946337",
+      "size": 331382,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.17.10.jar",
       "required": true
     },
     {
