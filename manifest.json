@@ -1,418 +1,11 @@
 {
-  "version": "5.0.1",
+  "version": "2.0.0",
   "minecraftVersion": "1.21.1",
   "forgeVersion": "21.1.265",
   "serverAddress": "setver.polit.day",
   "serverPort": 25565,
-  "lastUpdated": "2026-11-16T11:11:27.887039485Z",
+  "lastUpdated": "2026-11-24T16:28:46.870040169Z",
   "mods": [
-    {
-      "name": "Chronomancy",
-      "filename": "Chronomancy-neo-1.21.1-1.5.jar",
-      "modId": "irons_chronomancy",
-      "version": "1.5",
-      "sha256": "0b39dc760ecddb69fc6afe4c5dfe156d419e3bec703f7ff85000b630394f6943",
-      "size": 922408,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Chronomancy-neo-1.21.1-1.5.jar",
-      "required": true
-    },
-    {
-      "name": "EclipticSeasons-Bundles-0.18.1",
-      "filename": "EclipticSeasons-Bundles-0.18.1.jar",
-      "sha256": "2aa474f78321fe6c89dc71e4fbf76cbe58705c6c0a5299b41338d6f2aabe2d17",
-      "size": 828311,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/EclipticSeasons-Bundles-0.18.1.jar",
-      "required": true
-    },
-    {
-      "name": "Essential_1-5-2_neoforge_1-21-1",
-      "filename": "Essential_1-5-2_neoforge_1-21-1.jar",
-      "sha256": "726bc47dcb521ce950880a998c202f3061966e6787071945e942327e5b0cbc52",
-      "size": 51488563,
-      "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
-      "required": true
-    },
-    {
-      "name": "FarmersRespite-1.21.1-3.0.1",
-      "filename": "FarmersRespite-1.21.1-3.0.1.jar",
-      "sha256": "66e7561c94d772d551687a1c4da44057f27aabe4a6ae8dbe5109920765bf03c2",
-      "size": 673363,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/FarmersRespite-1.21.1-3.0.1.jar",
-      "required": true
-    },
-    {
-      "name": "Iron\u0027s Spellbooks: Frozen Dominion",
-      "filename": "Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
-      "modId": "frozen_dominion_spells",
-      "version": "1.0.5",
-      "sha256": "e03162367b936e23975280329ed2fd5aa66a9cbd15cfe53ce9237378c97f4fc7",
-      "size": 825102,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
-      "required": true
-    },
-    {
-      "name": "LuckPerms",
-      "filename": "LuckPerms-NeoForge-5.4.150.jar",
-      "modId": "luckperms",
-      "version": "5.4.150",
-      "sha256": "f161a939c7320e8a30569c37aae2c0f5bbb3cfbd77bebb233bd0f0787a2d0ef9",
-      "size": 1433955,
-      "downloadUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar",
-      "required": true
-    },
-    {
-      "name": "TerraBlender",
-      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "modId": "terrablender",
-      "version": "${file.jarVersion}",
-      "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
-      "size": 120364,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "required": true
-    },
-    {
-      "name": "aaa_particles-neoforge-1.21.1-2.3.4",
-      "filename": "aaa_particles-neoforge-1.21.1-2.3.4.jar",
-      "sha256": "bc07466a3265b534a9fdd5319d95f87003db0916c592eab81de6c3e357224c1a",
-      "size": 5637159,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aaa_particles-neoforge-1.21.1-2.3.4.jar",
-      "required": true
-    },
-    {
-      "name": "aeronautics-craftable-levitite-1.0",
-      "filename": "aeronautics-craftable-levitite-1.0.jar",
-      "sha256": "9b55d964fcbf7d17c8c214e5fc331c9a17faa2bfcd9a3b24d7c8cf6d817f0405",
-      "size": 722653,
-      "downloadUrl": "https://cdn.modrinth.com/data/pHv8F8pB/versions/272laaTj/aeronautics-craftable-levitite-1.0.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/pHv8F8pB/versions/272laaTj/aeronautics-craftable-levitite-1.0.jar",
-      "required": true
-    },
-    {
-      "name": "UI Library Mod",
-      "filename": "blockui-1.0.212-1.21.1-snapshot.jar",
-      "modId": "blockui",
-      "version": "1.0.212-1.21.1-snapshot",
-      "sha256": "b7bab58b5f3d8eb722609005d628a0094d9220eb3b7edf4e0acd4ee9d592dca4",
-      "size": 468141,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/blockui-1.0.212-1.21.1-snapshot.jar",
-      "required": true
-    },
-    {
-      "name": "Cataclysm x YUNG\u0027s Better Nether Fortresses Compat",
-      "filename": "cataclysmfortresses-1.21.1-NeoForge.jar",
-      "modId": "cataclysmfortresses",
-      "version": "1.21.1",
-      "sha256": "a6f4812a9735a55cb1bc2e669a1fa6dc016a162434ada347514aea9a4e39d840",
-      "size": 19893,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cataclysmfortresses-1.21.1-NeoForge.jar",
-      "required": true
-    },
-    {
-      "name": "Cloth Config v15 API",
-      "filename": "cloth-config-15.0.140-neoforge.jar",
-      "modId": "cloth_config",
-      "version": "15.0.140",
-      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
-      "size": 1163890,
-      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
-      "required": true
-    },
-    {
-      "name": "Color Magic",
-      "filename": "colormagic-1.0.4.jar",
-      "modId": "colormagic",
-      "version": "1.1.0",
-      "sha256": "af914408375e0462f6a450f199c5f6f8fa4e5a896d173add00f66b54e31a451b",
-      "size": 1286194,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/colormagic-1.0.4.jar",
-      "required": true
-    },
-    {
-      "name": "coroutil-neoforge-1.21.0-1.3.9",
-      "filename": "coroutil-neoforge-1.21.0-1.3.9.jar",
-      "sha256": "097434e256a428335cc4e9b718ad7bb9c6804c2c775aa3dd7149a6904adca2bc",
-      "size": 65716,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/coroutil-neoforge-1.21.0-1.3.9.jar",
-      "required": true
-    },
-    {
-      "name": "Create TNT",
-      "filename": "createtnt-1.21.1-neoforge-2.1.0.jar",
-      "modId": "createtnt",
-      "version": "2.1.0",
-      "sha256": "5ebea4b887c7d2267b68bc35f1ceef6b39190b291156b39b44b0f1852a536673",
-      "size": 302327,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createtnt-1.21.1-neoforge-2.1.0.jar",
-      "required": true
-    },
-    {
-      "name": "Cursed School - Iron\u0027s Spells Addon",
-      "filename": "cursed_school-1.21.1-1.0.17.jar",
-      "modId": "cursed_school",
-      "version": "1.21.1-1.0.17",
-      "sha256": "b5cafe637d49018ae84b9ae5b1946a07632de674ec67585af521db86b495a018",
-      "size": 679474,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cursed_school-1.21.1-1.0.17.jar",
-      "required": true
-    },
-    {
-      "name": "Diorama Addons: Claims",
-      "filename": "diorama-addons-claims-1.21.1-0.3.0.jar",
-      "modId": "dioaddons_claims",
-      "version": "0.3.0",
-      "sha256": "1c340d892dcefc8ca0a364a6c3d80486d31cfb9aae9f33c3dcd419523e61dfe7",
-      "size": 218645,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-claims-1.21.1-0.3.0.jar",
-      "required": true
-    },
-    {
-      "name": "Frieren Spells - Iron\u0027s Spells Addon",
-      "filename": "frierenvoid-1.21.1-neoforge-1.11.7.jar",
-      "modId": "frierenvoid",
-      "version": "1.11.7",
-      "sha256": "c450c62a8631e6838d03d98ea52fc6ebe637fd23c9af1603eb3f979dbc8f111b",
-      "size": 1699754,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/frierenvoid-1.21.1-neoforge-1.11.7.jar",
-      "required": true
-    },
-    {
-      "name": "gaboulibs",
-      "filename": "gaboulibs-neoforge-1.9.jar",
-      "modId": "gaboulibs",
-      "version": "1.9",
-      "sha256": "d8612146ba3789495cdbef705c9bc2b807a5c00d9b4eb3da53e75809068e0327",
-      "size": 31997,
-      "downloadUrl": "https://cdn.modrinth.com/data/N8aGZtvj/versions/wnGOTFh4/gaboulibs-neoforge-1.9.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/N8aGZtvj/versions/wnGOTFh4/gaboulibs-neoforge-1.9.jar",
-      "required": true
-    },
-    {
-      "name": "gpumemleakfix-1.21-1.8",
-      "filename": "gpumemleakfix-1.21-1.8.jar",
-      "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
-      "size": 6574,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gpumemleakfix-1.21-1.8.jar",
-      "required": true
-    },
-    {
-      "name": "[HW] Patches Archive",
-      "filename": "hw_patches_archive-1.17.10.jar",
-      "modId": "hw_patches_archive",
-      "version": "1.17.10",
-      "sha256": "b3e5e469a973fc3b537f8b8fc50b5cc7a68a0e96cffeebdc307b51ed3d946337",
-      "size": 331382,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.17.10.jar",
-      "required": true
-    },
-    {
-      "name": "Immersive Portals - CE",
-      "filename": "immersive_portals-6.1.3.1.jar",
-      "modId": "q_misc_util",
-      "version": "6.1.3.1",
-      "sha256": "da2fa1d90eae031e34690a64c9cd75ed3b74d47325825f8f38c0419e1220bca2",
-      "size": 4900808,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/immersive_portals-6.1.3.1.jar",
-      "required": true
-    },
-    {
-      "name": "Iron\u0027s Spells x Sable Compat",
-      "filename": "ironssablecompat-1.0.4.jar",
-      "modId": "ironssablecompat",
-      "version": "1.0.4",
-      "sha256": "8bfae20bdd87c457ff6b0922cf97f690205f1828c4f942b1cd615bf762171edf",
-      "size": 65043,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ironssablecompat-1.0.4.jar",
-      "required": true
-    },
-    {
-      "name": "iss_elden_ring-1.1.4",
-      "filename": "iss_elden_ring-1.1.4.jar",
-      "sha256": "ee7b0082f164bc619a97129f490cf991a10c42f735ba1349552f8ba3048e6d34",
-      "size": 1736180,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/iss_elden_ring-1.1.4.jar",
-      "required": true
-    },
-    {
-      "name": "kotlinforforge-5.12.0-all",
-      "filename": "kotlinforforge-5.12.0-all.jar",
-      "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
-      "size": 7279276,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/kotlinforforge-5.12.0-all.jar",
-      "required": true
-    },
-    {
-      "name": "moretidefish-1.15",
-      "filename": "moretidefish-1.15.jar",
-      "sha256": "df86bbf9e5acd961e196ea67984de312d3a7669095b4501ab6fc1abad1a32288",
-      "size": 229074,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/moretidefish-1.15.jar",
-      "required": true
-    },
-    {
-      "name": "multipiston-1.2.58-1.21.1",
-      "filename": "multipiston-1.2.58-1.21.1.jar",
-      "sha256": "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7",
-      "size": 34139,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/multipiston-1.2.58-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Neo-Voxy",
-      "filename": "neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
-      "modId": "voxy",
-      "version": "0.5.0-alpha.12",
-      "sha256": "0991b4770bc113891df9b30f293173f4ac52fc2350c6cf3d40a6c392173f0ea9",
-      "size": 14215249,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
-      "required": true
-    },
-    {
-      "name": "Nodalith",
-      "filename": "nodalith-neoforge-0.1.0-beta.jar",
-      "modId": "nodalith",
-      "version": "0.1.0-beta",
-      "sha256": "c19858902f9b23a013bf0a54f46605b3e575615926b0fe53c26eb1312086b8be",
-      "size": 193011,
-      "downloadUrl": "https://cdn.modrinth.com/data/YaZ9ccC8/versions/aDZmFt1a/nodalith-neoforge-0.1.0-beta.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/YaZ9ccC8/versions/aDZmFt1a/nodalith-neoforge-0.1.0-beta.jar",
-      "required": true
-    },
-    {
-      "name": "Reese\u0027s Sodium Options",
-      "filename": "reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
-      "modId": "reeses_sodium_options",
-      "version": "2.2.4+mc1.21.1",
-      "sha256": "e4c86cad7c86c3601261441c0282571dc6b1ebeb41b694c11eb58b2becb90b51",
-      "size": 258894,
-      "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Reliquified L_Ender \u0027s Cataclysm new relics fix",
-      "filename": "reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
-      "modId": "reliquified_lenders_cataclysm_new_relics_fix",
-      "version": "1.0.3",
-      "sha256": "7f439bb0ed0f7f3a4dd2a1bad63bc4d2a9e8c479c288996d9c0f6dca46171273",
-      "size": 70753,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
-      "required": true
-    },
-    {
-      "name": "reskillable-4.1.2-1.21.1",
-      "filename": "reskillable-4.1.2-1.21.1.jar",
-      "sha256": "e46ee70c28e176e36a1d8ff11e5abe1179f55b7a66c19a6b70838f16d3610ba3",
-      "size": 272227,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reskillable-4.1.2-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Resonant Arcana",
-      "filename": "resonant-arcana-0.8.0-neoforge-1.21.1.jar",
-      "modId": "resonant_arcana",
-      "version": "0.8.0",
-      "sha256": "d06f83c244e132af6e30ff5ef7ff3643051a88820251d4696513c1e8b2249322",
-      "size": 2320076,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/resonant-arcana-0.8.0-neoforge-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "[Setver] Balance Skills",
-      "filename": "setver-balance-skills-1.2.1.jar",
-      "modId": "balanceskills",
-      "version": "1.2.1",
-      "sha256": "880da726872dc488aeea0f0458e735d06417a8b3436ee6a9fc0c027684919067",
-      "size": 35329,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.2.1.jar",
-      "required": true
-    },
-    {
-      "name": "Sodium",
-      "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
-      "modId": "sodium",
-      "version": "0.8.13+mc1.21.1",
-      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
-      "size": 1292934,
-      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "specs_irons_spellbooks-1.6.13-neoforge-1.21.1",
-      "filename": "specs_irons_spellbooks-1.6.13-neoforge-1.21.1.jar",
-      "sha256": "9832ff338621abc53663b86da46bc8aea2d885c733f1110dfa4076ac27431358",
-      "size": 705789,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/specs_irons_spellbooks-1.6.13-neoforge-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Spell Descriptions",
-      "filename": "spell_descriptions-1.21.1-1.0.0.jar",
-      "modId": "spell_descriptions",
-      "version": "1.0.0",
-      "sha256": "6d4eefed556eea0621751c76f3938758d3a62f6fe20b120f1dce67c035dddeb7",
-      "size": 5961,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spell_descriptions-1.21.1-1.0.0.jar",
-      "required": true
-    },
-    {
-      "name": "spellsofsins-1.0.2",
-      "filename": "spellsofsins-1.0.2.jar",
-      "sha256": "65a5e12c3032d6ac84925acd8624c9179a2ec708a2f71b9293e8412a662700ac",
-      "size": 93376,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spellsofsins-1.0.2.jar",
-      "required": true
-    },
-    {
-      "name": "TFMG FE Patch",
-      "filename": "tfmg_fe_patch-1.0.0.jar",
-      "modId": "tfmg_fe_patch",
-      "version": "1.0.0",
-      "sha256": "31404d0791bc8294288c14e6c35d35faabf1b39ca54ddeb15910669c09868a5c",
-      "size": 6887,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/tfmg_fe_patch-1.0.0.jar",
-      "required": true
-    },
-    {
-      "name": "valiant-0.0.1",
-      "filename": "valiant-0.0.1.jar",
-      "sha256": "3f28fb5793e24babf0cde8175a06216b46a281039aea0c7b9a47029892de383c",
-      "size": 53682,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/valiant-0.0.1.jar",
-      "required": true
-    },
-    {
-      "name": "vampiricageing-1.21-1.4.21",
-      "filename": "vampiricageing-1.21-1.4.21.jar",
-      "sha256": "1c44732a52f42b135864a15eb5dad3ca497826b7efa4274d3beab7c92b71b996",
-      "size": 229919,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vampiricageing-1.21-1.4.21.jar",
-      "required": true
-    },
-    {
-      "name": "Vynx\u0027s Expansion",
-      "filename": "vynxs_expansion-0.9.0.jar",
-      "modId": "vynxs_expansion",
-      "version": "0.8.1",
-      "sha256": "13cb79b327007a22f36d7bf99bc9a5eb8eaebe7610d6aec49db154cc4bdb894e",
-      "size": 1893703,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vynxs_expansion-0.9.0.jar",
-      "required": true
-    },
-    {
-      "name": "ZakoOpt",
-      "filename": "zakoopt-2.1.3+1.21.1-neoforge.jar",
-      "modId": "zakoopt",
-      "version": "2.1.3",
-      "sha256": "0ad7f08b25d29503023a29f6449a6d5f4ab39ecc02bdb9ab46955d00270dac03",
-      "size": 635953,
-      "downloadUrl": "https://cdn.modrinth.com/data/kis3AnZl/versions/Dq5rbBWl/zakoopt-2.1.3%2B1.21.1-neoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/kis3AnZl/versions/Dq5rbBWl/zakoopt-2.1.3%2B1.21.1-neoforge.jar",
-      "required": true
-    },
     {
       "name": "Thunder Relics",
       "filename": "1.21.1-neoforge-Thunder Relics-1.4.jar",
@@ -491,14 +84,13 @@
       "required": true
     },
     {
-      "name": "Carbon Config Library",
-      "filename": "CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
-      "modId": "carbonconfig",
-      "version": "${file.jarVersion}",
-      "sha256": "78990104c08a2f14f1ec18e0ddab47a682398401894954331b5f91213b4ca767",
-      "size": 1273384,
-      "downloadUrl": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Mce3ulUV/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/1jDdpgcc/versions/Mce3ulUV/CarbonConfig-Neoforge-1.21.1-2.0.2.1.jar",
+      "name": "Chronomancy",
+      "filename": "Chronomancy-neo-1.21.1-1.5.jar",
+      "modId": "irons_chronomancy",
+      "version": "1.5",
+      "sha256": "0b39dc760ecddb69fc6afe4c5dfe156d419e3bec703f7ff85000b630394f6943",
+      "size": 922408,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Chronomancy-neo-1.21.1-1.5.jar",
       "required": true
     },
     {
@@ -543,38 +135,6 @@
       "size": 1085674,
       "downloadUrl": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
       "serverUrl": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
-      "required": true
-    },
-    {
-      "name": "CreativeCore",
-      "filename": "CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar",
-      "modId": "creativecore",
-      "version": "2.13.53",
-      "sha256": "18d647e26ff23299b2bde805ad69ec8717d77ae8b06e1f36ca9cf17d13247b79",
-      "size": 1236971,
-      "downloadUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/M3URMOz9/CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/OsZiaDHq/versions/M3URMOz9/CreativeCore_NEOFORGE_v2.13.53_mc1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Design n\u0027 Decor",
-      "filename": "Design-n-Decor-1.21.1-2.2b.jar",
-      "modId": "dndecor",
-      "version": "2.2b",
-      "sha256": "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f",
-      "size": 6329899,
-      "downloadUrl": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
-      "required": true
-    },
-    {
-      "name": "Create Dreams \u0026 Desires - IE Compat",
-      "filename": "DnDesires-IE-Compat-1.21.1-1.0.4.jar",
-      "modId": "dndesires_ie_compat",
-      "version": "1.0.4",
-      "sha256": "c9eecaa165b42d07bf2320d066e84ef1a4579e1dac27c2e4e290b409e1b156a3",
-      "size": 24528,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/DnDesires-IE-Compat-1.21.1-1.0.4.jar",
       "required": true
     },
     {
@@ -626,14 +186,20 @@
       "required": true
     },
     {
-      "name": "Explorify",
-      "filename": "Explorify-v1.6.6.mod.jar",
-      "modId": "explorify",
-      "version": "1.6.6",
-      "sha256": "76aa6b3392b316c8bbc9f8a5005818bb882ceb8a2762a5971fb2d96414521a77",
-      "size": 775401,
-      "downloadUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/oyrAnNG8/Explorify%20v1.6.6.mod.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/oyrAnNG8/Explorify%20v1.6.6.mod.jar",
+      "name": "EclipticSeasons-Bundles-0.18.1",
+      "filename": "EclipticSeasons-Bundles-0.18.1.jar",
+      "sha256": "2aa474f78321fe6c89dc71e4fbf76cbe58705c6c0a5299b41338d6f2aabe2d17",
+      "size": 828311,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/EclipticSeasons-Bundles-0.18.1.jar",
+      "required": true
+    },
+    {
+      "name": "Essential_1-5-2_neoforge_1-21-1",
+      "filename": "Essential_1-5-2_neoforge_1-21-1.jar",
+      "sha256": "726bc47dcb521ce950880a998c202f3061966e6787071945e942327e5b0cbc52",
+      "size": 51488563,
+      "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/wWG9Ml7D/Essential_1-5-2_neoforge_1-21-1.jar",
       "required": true
     },
     {
@@ -645,6 +211,24 @@
       "size": 3160490,
       "downloadUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
       "serverUrl": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
+      "required": true
+    },
+    {
+      "name": "FarmersRespite-1.21.1-3.0.1",
+      "filename": "FarmersRespite-1.21.1-3.0.1.jar",
+      "sha256": "66e7561c94d772d551687a1c4da44057f27aabe4a6ae8dbe5109920765bf03c2",
+      "size": 673363,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/FarmersRespite-1.21.1-3.0.1.jar",
+      "required": true
+    },
+    {
+      "name": "Iron\u0027s Spellbooks: Frozen Dominion",
+      "filename": "Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
+      "modId": "frozen_dominion_spells",
+      "version": "1.0.5",
+      "sha256": "e03162367b936e23975280329ed2fd5aa66a9cbd15cfe53ce9237378c97f4fc7",
+      "size": 825102,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/Frozen_Dominion_Spells-neoforge-1.21.1-1.0.5.jar",
       "required": true
     },
     {
@@ -677,17 +261,6 @@
       "size": 2427649,
       "downloadUrl": "https://cdn.modrinth.com/data/PlkSuVtM/versions/xUFPUf7h/HammerLib-1.21-21.0.17.jar",
       "serverUrl": "https://cdn.modrinth.com/data/PlkSuVtM/versions/xUFPUf7h/HammerLib-1.21-21.0.17.jar",
-      "required": true
-    },
-    {
-      "name": "Iceberg",
-      "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "modId": "iceberg",
-      "version": "1.3.2",
-      "sha256": "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c",
-      "size": 213853,
-      "downloadUrl": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar",
       "required": true
     },
     {
@@ -735,23 +308,23 @@
       "required": true
     },
     {
-      "name": "KryptonFoxified",
-      "filename": "KryptonFoxified-0.1.0+mc1.21.jar",
-      "modId": "krypton",
-      "version": "0.1.0+mc1.21",
-      "sha256": "0685ac93155dd1bbbffec077ab57cc7cbdb1d08c50e707fb0eb2c14633e85687",
-      "size": 189002,
-      "downloadUrl": "https://cdn.modrinth.com/data/rmFH8I1v/versions/TFGMCLED/KryptonFoxified-0.1.0%2Bmc1.21.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/rmFH8I1v/versions/TFGMCLED/KryptonFoxified-0.1.0%2Bmc1.21.jar",
-      "required": true
-    },
-    {
       "name": "L_Ender\u0027s Cataclysm 1.21.1-3.33",
       "filename": "L_Ender\u0027s Cataclysm 1.21.1-3.33.jar",
       "sha256": "371956d0c2e3b56729ee93b955e936875d210e372fe734cdb74326d89ef79875",
       "size": 73375667,
       "downloadUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/PsPYpoCC/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar",
       "serverUrl": "https://cdn.modrinth.com/data/46KJle7n/versions/PsPYpoCC/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar",
+      "required": true
+    },
+    {
+      "name": "LuckPerms",
+      "filename": "LuckPerms-NeoForge-5.4.150.jar",
+      "modId": "luckperms",
+      "version": "5.4.150",
+      "sha256": "f161a939c7320e8a30569c37aae2c0f5bbb3cfbd77bebb233bd0f0787a2d0ef9",
+      "size": 1433955,
+      "downloadUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/Vebnzrzj/versions/dKAPoPGd/LuckPerms-NeoForge-5.4.150.jar",
       "required": true
     },
     {
@@ -763,15 +336,6 @@
       "size": 73938,
       "downloadUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-      "required": true
-    },
-    {
-      "name": "MutantsZombies-1.3.1-NeoForge-mc1.21",
-      "filename": "MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
-      "sha256": "e0631256277d4e7f595ed0d6bb1e46d3d6e7a1a830cc87c87d59d87f99fd5246",
-      "size": 450248,
-      "downloadUrl": "https://cdn.modrinth.com/data/W0C544GP/versions/h1OOHldk/MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/W0C544GP/versions/h1OOHldk/MutantsZombies-1.3.1-NeoForge-mc1.21.jar",
       "required": true
     },
     {
@@ -797,24 +361,6 @@
       "required": true
     },
     {
-      "name": "NeoForge-Version-Serene-Seasons-Plus-1.21.1-2.2.4.0",
-      "filename": "NeoForge-Version-Serene-Seasons-Plus-1.21.1-2.2.4.0.jar",
-      "sha256": "669d087afb1100dd2bf27ef6eb0453433b90061f7ce9551b7992aaf6c119e7cc",
-      "size": 429343,
-      "downloadUrl": "https://cdn.modrinth.com/data/4Al4H3t9/versions/EnpkCbTc/NeoForge-Version-Serene%20Seasons%20Plus-1.21.1-2.2.4.0.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/4Al4H3t9/versions/EnpkCbTc/NeoForge-Version-Serene%20Seasons%20Plus-1.21.1-2.2.4.0.jar",
-      "required": true
-    },
-    {
-      "name": "Nirvana Lib",
-      "filename": "Nirvana Lib-neoforge-1.21.1-2.2.0.jar",
-      "sha256": "077df852c512f4a3ba9562d6745dd28835f8827bafef2b6f80c56d7f27549701",
-      "size": 1266810,
-      "downloadUrl": "https://cdn.modrinth.com/data/6gKEW2ql/versions/T4VXxkNe/Nirvana%20Lib-neoforge-1.21.1-2.2.0.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/6gKEW2ql/versions/T4VXxkNe/Nirvana%20Lib-neoforge-1.21.1-2.2.0.jar",
-      "required": true
-    },
-    {
       "name": "OctoLib",
       "filename": "OctoLib-NEOFORGE-0.6.3+1.21.jar",
       "modId": "octolib",
@@ -836,34 +382,12 @@
       "required": true
     },
     {
-      "name": "Pehkui",
-      "filename": "Pehkui-3.8.3+1.21-neoforge.jar",
-      "modId": "pehkui",
-      "version": "3.8.3+1.21-neoforge",
-      "sha256": "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec",
-      "size": 507568,
-      "downloadUrl": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3%2B1.21-neoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3%2B1.21-neoforge.jar",
-      "required": true
-    },
-    {
       "name": "Placebo-1.21.1-9.9.4",
       "filename": "Placebo-1.21.1-9.9.4.jar",
       "sha256": "d8952c019d6e54befe37155bc9876985ec57bf73dd33872115c7a65ac6bceba0",
       "size": 326063,
       "downloadUrl": "https://cdn.modrinth.com/data/tCkE8p2N/versions/B5zbSVlT/Placebo-1.21.1-9.9.4.jar",
       "serverUrl": "https://cdn.modrinth.com/data/tCkE8p2N/versions/B5zbSVlT/Placebo-1.21.1-9.9.4.jar",
-      "required": true
-    },
-    {
-      "name": "Platform",
-      "filename": "Platform-neoforge-1.21.1-1.4.2.jar",
-      "modId": "platform",
-      "version": "1.4.2",
-      "sha256": "56f63d73614e35841f6f8ac79d2eb2f7d8b9ff6414272eecac19274644c849ac",
-      "size": 550771,
-      "downloadUrl": "https://cdn.modrinth.com/data/i6fiqm5y/versions/rh4p4ixM/Platform-neoforge-1.21.1-1.4.2.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/i6fiqm5y/versions/rh4p4ixM/Platform-neoforge-1.21.1-1.4.2.jar",
       "required": true
     },
     {
@@ -899,16 +423,6 @@
       "required": true
     },
     {
-      "name": "Serene Seasons",
-      "filename": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "modId": "sereneseasons",
-      "version": "10.1.0.3",
-      "sha256": "86d89fce593f868cb6b542943c0f82850ca56970fe0327e401966d8d0420861d",
-      "size": 159205,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
-      "required": true
-    },
-    {
       "name": "Storage Drawers",
       "filename": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
       "modId": "storagedrawers",
@@ -924,6 +438,16 @@
       "sha256": "d2cce8b93379fd8d5fc3eabd948a0ed36e61d274ee27cfa149462f1d3e28ffaa",
       "size": 245453,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/TFMW-CE-2.1.2.jar",
+      "required": true
+    },
+    {
+      "name": "TerraBlender",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "modId": "terrablender",
+      "version": "${file.jarVersion}",
+      "sha256": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+      "size": 120364,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "required": true
     },
     {
@@ -1133,13 +657,11 @@
       "required": true
     },
     {
-      "name": "Abyss Sonata",
-      "filename": "abyss_sonata-1.3.1.jar",
-      "modId": "abyss_sonata",
-      "version": "1.3.1",
-      "sha256": "495a0bfcfbb1ad78b8f05bf41a58e0823b7c6c3b2c6849f339025300b05df8e4",
-      "size": 54501,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/abyss_sonata-1.3.1.jar",
+      "name": "aaa_particles-neoforge-1.21.1-2.3.4",
+      "filename": "aaa_particles-neoforge-1.21.1-2.3.4.jar",
+      "sha256": "bc07466a3265b534a9fdd5319d95f87003db0916c592eab81de6c3e357224c1a",
+      "size": 5637159,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aaa_particles-neoforge-1.21.1-2.3.4.jar",
       "required": true
     },
     {
@@ -1152,15 +674,6 @@
       "required": true
     },
     {
-      "name": "acolyte-1.0.3",
-      "filename": "acolyte-1.0.3.jar",
-      "sha256": "73fe745bbb0016fbc00af9ba14c0ecfe0a1d8a7d72a7892557739182b3486256",
-      "size": 621837,
-      "downloadUrl": "https://cdn.modrinth.com/data/S1u5j9dB/versions/r0BSsxdc/acolyte-1.0.3.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/S1u5j9dB/versions/r0BSsxdc/acolyte-1.0.3.jar",
-      "required": true
-    },
-    {
       "name": "aero_cam_sync-1.4.0",
       "filename": "aero_cam_sync-1.4.0.jar",
       "sha256": "335ecaf8cefa4792815a81ac7257e5d432ee1c30704187fc548f1d1db855f4e2",
@@ -1170,12 +683,12 @@
       "required": true
     },
     {
-      "name": "aeronauticadditions_neoforge_mc_1.21.1-1.2.0",
-      "filename": "aeronauticadditions_neoforge_mc_1.21.1-1.2.0.jar",
-      "sha256": "34705fa43efb7d1325e9584ae8c2089704f36c460bd43183ac8c5d740ad48792",
-      "size": 91371,
-      "downloadUrl": "https://cdn.modrinth.com/data/Ui2FZZHS/versions/PJ9p6T0Q/aeronauticadditions_neoforge_mc_1.21.1-1.2.0.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/Ui2FZZHS/versions/PJ9p6T0Q/aeronauticadditions_neoforge_mc_1.21.1-1.2.0.jar",
+      "name": "aeronautics-craftable-levitite-1.0",
+      "filename": "aeronautics-craftable-levitite-1.0.jar",
+      "sha256": "9b55d964fcbf7d17c8c214e5fc331c9a17faa2bfcd9a3b24d7c8cf6d817f0405",
+      "size": 722653,
+      "downloadUrl": "https://cdn.modrinth.com/data/pHv8F8pB/versions/272laaTj/aeronautics-craftable-levitite-1.0.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/pHv8F8pB/versions/272laaTj/aeronautics-craftable-levitite-1.0.jar",
       "required": true
     },
     {
@@ -1196,16 +709,6 @@
       "sha256": "30bad4bf907ee5ae2849de163634cf9a5bc8507bb4b12d7d291c59f3265d7bad",
       "size": 790152,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aeroworks-1.5.0.jar",
-      "required": true
-    },
-    {
-      "name": "The Aether",
-      "filename": "aether-1.21.1-1.5.10-neoforge.jar",
-      "modId": "aether",
-      "version": "1.5.10",
-      "sha256": "b19386301560a017a458e9790a7b59999e270f93010def0b61e7cbe4c8630dbf",
-      "size": 40223909,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/aether-1.21.1-1.5.10-neoforge.jar",
       "required": true
     },
     {
@@ -1293,17 +796,6 @@
       "required": true
     },
     {
-      "name": "Aquamirae",
-      "filename": "aquamirae-neoforge-1.21.1-7.2.13.jar",
-      "modId": "aquamirae",
-      "version": "7.2.13",
-      "sha256": "665927e1edf73101f2014682659a756d2972f6fbff0f54b3db4fdebba288c8e2",
-      "size": 26105694,
-      "downloadUrl": "https://cdn.modrinth.com/data/k23mNPhZ/versions/lKu7coya/aquamirae-neoforge-1.21.1-7.2.13.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/k23mNPhZ/versions/lKu7coya/aquamirae-neoforge-1.21.1-7.2.13.jar",
-      "required": true
-    },
-    {
       "name": "Archaion",
       "filename": "archaion-1.21.1-1.4.4.jar",
       "modId": "archaion",
@@ -1367,25 +859,6 @@
       "required": true
     },
     {
-      "name": "Ars Nouveau: Two-Way Portals",
-      "filename": "ars_two_way_portals-2.0.0.jar",
-      "modId": "ars_two_way_portals",
-      "version": "2.0.0",
-      "sha256": "616a07c0510ca7222698d90e365ae0c70b7a7c3d1f296acada8f5354a7be4166",
-      "size": 67372,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ars_two_way_portals-2.0.0.jar",
-      "required": true
-    },
-    {
-      "name": "arsdelight-2.2.5",
-      "filename": "arsdelight-2.2.5.jar",
-      "sha256": "ec3c2e8262b440f41e2e2836f481de3f15c9cb6a642e97e0611422edb6f6c247",
-      "size": 1252333,
-      "downloadUrl": "https://cdn.modrinth.com/data/BwbT0OZE/versions/JtS0qjOn/arsdelight-2.2.5.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/BwbT0OZE/versions/JtS0qjOn/arsdelight-2.2.5.jar",
-      "required": true
-    },
-    {
       "name": "Artifacts",
       "filename": "artifacts-neoforge-13.2.5.jar",
       "modId": "artifacts",
@@ -1403,6 +876,17 @@
       "size": 987245,
       "downloadUrl": "https://cdn.modrinth.com/data/XImLIVFt/versions/pHid8vVL/asterismarcanum-1.21.1-0.1.0.jar",
       "serverUrl": "https://cdn.modrinth.com/data/XImLIVFt/versions/pHid8vVL/asterismarcanum-1.21.1-0.1.0.jar",
+      "required": true
+    },
+    {
+      "name": "AutoModpack",
+      "filename": "automodpack-5.0.0-rc.7.jar",
+      "modId": "automodpack",
+      "version": "5.0.0-rc.7",
+      "sha256": "96e46ea968e5b24084aff6077bfed9ebffb23c2e8760dde57cc2729b5a3a3717",
+      "size": 4253428,
+      "downloadUrl": "https://cdn.modrinth.com/data/k68glP2e/versions/s49Ma0rZ/automodpack-5.0.0-rc.7.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/k68glP2e/versions/s49Ma0rZ/automodpack-5.0.0-rc.7.jar",
       "required": true
     },
     {
@@ -1454,6 +938,16 @@
       "size": 585998,
       "downloadUrl": "https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
       "serverUrl": "https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "required": true
+    },
+    {
+      "name": "UI Library Mod",
+      "filename": "blockui-1.0.212-1.21.1-snapshot.jar",
+      "modId": "blockui",
+      "version": "1.0.212-1.21.1-snapshot",
+      "sha256": "b7bab58b5f3d8eb722609005d628a0094d9220eb3b7edf4e0acd4ee9d592dca4",
+      "size": 468141,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/blockui-1.0.212-1.21.1-snapshot.jar",
       "required": true
     },
     {
@@ -1514,6 +1008,16 @@
       "size": 1184270,
       "downloadUrl": "https://cdn.modrinth.com/data/3FEg0A8D/versions/7fmcTGwb/cataclysm_spellbooks-1.1.15-1.21.jar",
       "serverUrl": "https://cdn.modrinth.com/data/3FEg0A8D/versions/7fmcTGwb/cataclysm_spellbooks-1.1.15-1.21.jar",
+      "required": true
+    },
+    {
+      "name": "Cataclysm x YUNG\u0027s Better Nether Fortresses Compat",
+      "filename": "cataclysmfortresses-1.21.1-NeoForge.jar",
+      "modId": "cataclysmfortresses",
+      "version": "1.21.1",
+      "sha256": "a6f4812a9735a55cb1bc2e669a1fa6dc016a162434ada347514aea9a4e39d840",
+      "size": 19893,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cataclysmfortresses-1.21.1-NeoForge.jar",
       "required": true
     },
     {
@@ -1605,6 +1109,17 @@
       "required": true
     },
     {
+      "name": "Cloth Config v15 API",
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "modId": "cloth_config",
+      "version": "15.0.140",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+      "size": 1163890,
+      "downloadUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "required": true
+    },
+    {
       "name": "Collective",
       "filename": "collective-1.21.1-8.84.jar",
       "modId": "collective",
@@ -1613,6 +1128,16 @@
       "size": 1620271,
       "downloadUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/3UYXTEpg/collective-1.21.1-8.84.jar",
       "serverUrl": "https://cdn.modrinth.com/data/e0M1UDsY/versions/3UYXTEpg/collective-1.21.1-8.84.jar",
+      "required": true
+    },
+    {
+      "name": "Color Magic",
+      "filename": "colormagic-1.0.4.jar",
+      "modId": "colormagic",
+      "version": "1.1.0",
+      "sha256": "af914408375e0462f6a450f199c5f6f8fa4e5a896d173add00f66b54e31a451b",
+      "size": 1286194,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/colormagic-1.0.4.jar",
       "required": true
     },
     {
@@ -1626,32 +1151,11 @@
       "required": true
     },
     {
-      "name": "Configured",
-      "filename": "configured-neoforge-1.21.1-2.6.3.jar",
-      "modId": "configured",
-      "version": "2.6.3",
-      "sha256": "421ffd2604b5487cbdb284d1eb5d1cb8a7d28f3ff84d5b4bda25e0a579282a15",
-      "size": 428793,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/configured-neoforge-1.21.1-2.6.3.jar",
-      "required": true
-    },
-    {
       "name": "connector-2.0.0-beta.17+1.21.1-full",
       "filename": "connector-2.0.0-beta.17+1.21.1-full.jar",
       "sha256": "5a4ad10e57b8b1690832d9b77fc488fbe5e7cf41ac5a90d9f569bd78fbea25be",
       "size": 4573244,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/connector-2.0.0-beta.17+1.21.1-full.jar",
-      "required": true
-    },
-    {
-      "name": "Continuity",
-      "filename": "continuity-3.0.0+1.21.neoforge.jar",
-      "modId": "continuity",
-      "version": "3.0.0+1.21.neoforge",
-      "sha256": "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a",
-      "size": 1014626,
-      "downloadUrl": "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar",
       "required": true
     },
     {
@@ -1677,12 +1181,12 @@
       "required": true
     },
     {
-      "name": "create-aeronautics-bundled-1.21.1-1.3.2",
-      "filename": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
-      "sha256": "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e",
-      "size": 33123131,
-      "downloadUrl": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "name": "create-aeronautics-bundled-1.21.1-1.3.3",
+      "filename": "create-aeronautics-bundled-1.21.1-1.3.3.jar",
+      "sha256": "f430c52eedc1a20f7458c9f5b07cc212fe90869bd302c69c6dedf7b75a2a5c9f",
+      "size": 33133981,
+      "downloadUrl": "https://cdn.modrinth.com/data/oWaK0Q19/versions/demX2roU/create-aeronautics-bundled-1.21.1-1.3.3.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/oWaK0Q19/versions/demX2roU/create-aeronautics-bundled-1.21.1-1.3.3.jar",
       "required": true
     },
     {
@@ -1705,16 +1209,6 @@
       "size": 1819221,
       "downloadUrl": "https://cdn.modrinth.com/data/7KCNsGPM/versions/AmBZCjMo/create-gunsmithing-1.21.1-1.4.9.jar",
       "serverUrl": "https://cdn.modrinth.com/data/7KCNsGPM/versions/AmBZCjMo/create-gunsmithing-1.21.1-1.4.9.jar",
-      "required": true
-    },
-    {
-      "name": "Create Gunsmithing + Aero Compat",
-      "filename": "create-gunsmithing-aero-compat-1.21.1-1.0.0.jar",
-      "modId": "cgs_aero_compat",
-      "version": "1.21.1-1.0.0",
-      "sha256": "65334cb8011b747c0072c579ac7377722126d834a70c654dca12cc62262225b5",
-      "size": 116993,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/create-gunsmithing-aero-compat-1.21.1-1.0.0.jar",
       "required": true
     },
     {
@@ -1915,16 +1409,6 @@
       "required": true
     },
     {
-      "name": "Create Aeronautics Curios Compat",
-      "filename": "createaeronauticscurios-neoforge-1.21.1-2.3.jar",
-      "modId": "aeronautics_curios_compat",
-      "version": "2.0",
-      "sha256": "a9dd62a20597b075b304c235d76b32fa77ab8c34ea0b6ea859857ba2b7ff575e",
-      "size": 45263,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createaeronauticscurios-neoforge-1.21.1-2.3.jar",
-      "required": true
-    },
-    {
       "name": "Create Ars Compact",
       "filename": "createarscompact-1.20.6.jar",
       "modId": "createarscompact",
@@ -2037,6 +1521,16 @@
       "required": true
     },
     {
+      "name": "Create TNT",
+      "filename": "createtnt-1.21.1-neoforge-2.1.0.jar",
+      "modId": "createtnt",
+      "version": "2.1.0",
+      "sha256": "5ebea4b887c7d2267b68bc35f1ceef6b39190b291156b39b44b0f1852a536673",
+      "size": 302327,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/createtnt-1.21.1-neoforge-2.1.0.jar",
+      "required": true
+    },
+    {
       "name": "cristellib-neoforge-1.21.1-3.1.7",
       "filename": "cristellib-neoforge-1.21.1-3.1.7.jar",
       "sha256": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
@@ -2065,6 +1559,27 @@
       "required": true
     },
     {
+      "name": "Cursed School - Iron\u0027s Spells Addon",
+      "filename": "cursed_school-1.21.1-1.0.17.jar",
+      "modId": "cursed_school",
+      "version": "1.21.1-1.0.17",
+      "sha256": "b5cafe637d49018ae84b9ae5b1946a07632de674ec67585af521db86b495a018",
+      "size": 679474,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/cursed_school-1.21.1-1.0.17.jar",
+      "required": true
+    },
+    {
+      "name": "CustomSkinLoader",
+      "filename": "customskinloader_universal-14.28.jar",
+      "modId": "customskinloader",
+      "version": "14.28",
+      "sha256": "0008fb0a91dd1e84d52162cfe96addb5f6aed3b76d426ea7305d7624e31f1894",
+      "size": 191666,
+      "downloadUrl": "https://cdn.modrinth.com/data/idMHQ4n2/versions/11FjKEY1/CustomSkinLoader_Universal-14.28.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/idMHQ4n2/versions/11FjKEY1/CustomSkinLoader_Universal-14.28.jar",
+      "required": true
+    },
+    {
       "name": "Diorama",
       "filename": "diorama-0.8.1-neoforge-1.21.1.jar",
       "modId": "diorama",
@@ -2076,13 +1591,13 @@
       "required": true
     },
     {
-      "name": "Diorama Addons: Client Map",
-      "filename": "diorama-addons-clientmap-1.21.1-0.3.0.jar",
-      "modId": "dioaddons_clientmap",
+      "name": "Diorama Addons: Claims",
+      "filename": "diorama-addons-claims-1.21.1-0.3.0.jar",
+      "modId": "dioaddons_claims",
       "version": "0.3.0",
-      "sha256": "61723036d09e7a20fc1a01de2a230867eb2a6f27b91b5b84cfb05d906a49d96c",
-      "size": 147090,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-clientmap-1.21.1-0.3.0.jar",
+      "sha256": "1c340d892dcefc8ca0a364a6c3d80486d31cfb9aae9f33c3dcd419523e61dfe7",
+      "size": 218645,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/diorama-addons-claims-1.21.1-0.3.0.jar",
       "required": true
     },
     {
@@ -2118,15 +1633,6 @@
       "size": 516323,
       "downloadUrl": "https://cdn.modrinth.com/data/QIt10I7z/versions/4XIbhTdE/dungeons-and-taverns-pillager-outpost-overhaul-v2.2.jar",
       "serverUrl": "https://cdn.modrinth.com/data/QIt10I7z/versions/4XIbhTdE/dungeons-and-taverns-pillager-outpost-overhaul-v2.2.jar",
-      "required": true
-    },
-    {
-      "name": "dungeons-and-taverns-stronghold-overhaul-v2.1.f",
-      "filename": "dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
-      "sha256": "aded59a9f4a00c2614bc100af18ae9da420b2f9a12c192c5dd998efacc124f90",
-      "size": 3128192,
-      "downloadUrl": "https://cdn.modrinth.com/data/rYocd2LE/versions/6PYBSejs/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/rYocd2LE/versions/6PYBSejs/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar",
       "required": true
     },
     {
@@ -2283,6 +1789,17 @@
       "required": true
     },
     {
+      "name": "Extra Copycats",
+      "filename": "extra_copycats-1.0.2.jar",
+      "modId": "extra_copycats",
+      "version": "1.0.2",
+      "sha256": "afb39b4fe940275015e4809b5c69704346883f72139924da8f347ebf7032ab19",
+      "size": 105281,
+      "downloadUrl": "https://cdn.modrinth.com/data/KEG1fY2H/versions/xDN9lyTb/extra_copycats-1.0.2.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/KEG1fY2H/versions/xDN9lyTb/extra_copycats-1.0.2.jar",
+      "required": true
+    },
+    {
       "name": "farmers-cutting-nethers-exoticism-1.21.1-1.0",
       "filename": "farmers-cutting-nethers-exoticism-1.21.1-1.0.jar",
       "sha256": "b1bca9ec3b689b2adc1e52e3ea1d13ba618856b4b3ee1c1409f6a5d7ec734f74",
@@ -2324,16 +1841,6 @@
       "required": true
     },
     {
-      "name": "Fragmentum",
-      "filename": "fragmentum-5.4.0+1.21.1-neoforge.jar",
-      "modId": "fragmentum",
-      "sha256": "fb7e1b28d54fda52c62df2a7c050e772030d7c75663d1679371deb0a860d3c1f",
-      "size": 7815344,
-      "downloadUrl": "https://cdn.modrinth.com/data/49C5QgTK/versions/kCXNhuIV/fragmentum-5.4.0%2B1.21.1-neoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/49C5QgTK/versions/kCXNhuIV/fragmentum-5.4.0%2B1.21.1-neoforge.jar",
-      "required": true
-    },
-    {
       "name": "Framework",
       "filename": "framework-neoforge-1.21.1-0.13.11.jar",
       "modId": "framework",
@@ -2344,23 +1851,13 @@
       "required": true
     },
     {
-      "name": "fusion-1.3.16-neoforge-mc1.21.1",
-      "filename": "fusion-1.3.16-neoforge-mc1.21.1.jar",
-      "sha256": "29920a6838f4f942947d208349480d7f5737f9fac6411c6eac5f3e824a438048",
-      "size": 947335,
-      "downloadUrl": "https://cdn.modrinth.com/data/p19vrgc2/versions/AYDaLPK8/fusion-1.3.16-neoforge-mc1.21.1.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/p19vrgc2/versions/AYDaLPK8/fusion-1.3.16-neoforge-mc1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "Fzzy Config",
-      "filename": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
-      "modId": "fzzy_config",
-      "version": "0.7.7+fix1+1.21+neoforge",
-      "sha256": "414782aba00502349da192c1affcd4cbaf653119ec26605453f1b0690b3f8cc5",
-      "size": 2392720,
-      "downloadUrl": "https://cdn.modrinth.com/data/hYykXjDp/versions/jRuOkBAG/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/hYykXjDp/versions/jRuOkBAG/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar",
+      "name": "Frieren Spells - Iron\u0027s Spells Addon",
+      "filename": "frierenvoid-1.21.1-neoforge-1.11.7.jar",
+      "modId": "frierenvoid",
+      "version": "1.11.7",
+      "sha256": "c450c62a8631e6838d03d98ea52fc6ebe637fd23c9af1603eb3f979dbc8f111b",
+      "size": 1699754,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/frierenvoid-1.21.1-neoforge-1.11.7.jar",
       "required": true
     },
     {
@@ -2392,6 +1889,14 @@
       "size": 7693,
       "downloadUrl": "https://cdn.modrinth.com/data/pg5DWzmH/versions/iEJR1CsA/godly_vampirism-1.21.1-1.10.0.jar",
       "serverUrl": "https://cdn.modrinth.com/data/pg5DWzmH/versions/iEJR1CsA/godly_vampirism-1.21.1-1.10.0.jar",
+      "required": true
+    },
+    {
+      "name": "gpumemleakfix-1.21-1.8",
+      "filename": "gpumemleakfix-1.21-1.8.jar",
+      "sha256": "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+      "size": 6574,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/gpumemleakfix-1.21-1.8.jar",
       "required": true
     },
     {
@@ -2443,6 +1948,16 @@
       "required": true
     },
     {
+      "name": "[HW] Patches Archive",
+      "filename": "hw_patches_archive-1.17.10.jar",
+      "modId": "hw_patches_archive",
+      "version": "1.17.10",
+      "sha256": "b3e5e469a973fc3b537f8b8fc50b5cc7a68a0e96cffeebdc307b51ed3d946337",
+      "size": 331382,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hw_patches_archive-1.17.10.jar",
+      "required": true
+    },
+    {
       "name": "Hyper \u0027N Hiei\u0027s Shenanigans",
       "filename": "hyper_n_hieis_shenanigans-neoforge-1.21.1-1.0.1.jar",
       "modId": "hyper_n_hieis_shenanigans",
@@ -2450,15 +1965,6 @@
       "sha256": "02355559cb44152d1c6b6a2546803e419a98b70912fca8941ab4590da7752962",
       "size": 20137950,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/hyper_n_hieis_shenanigans-neoforge-1.21.1-1.0.1.jar",
-      "required": true
-    },
-    {
-      "name": "immortuoscalyx-neoforge-1.21.1-2.2.0",
-      "filename": "immortuoscalyx-neoforge-1.21.1-2.2.0.jar",
-      "sha256": "5e101a75226101d3c33dd855556f9737561a9e3b699a6875d4502fb284aa43fd",
-      "size": 467249,
-      "downloadUrl": "https://cdn.modrinth.com/data/SJ8XpDcm/versions/IcPr9A6p/immortuoscalyx-neoforge-1.21.1-2.2.0.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/SJ8XpDcm/versions/IcPr9A6p/immortuoscalyx-neoforge-1.21.1-2.2.0.jar",
       "required": true
     },
     {
@@ -2544,6 +2050,24 @@
       "required": true
     },
     {
+      "name": "Iron\u0027s Spells x Sable Compat",
+      "filename": "ironssablecompat-1.0.4.jar",
+      "modId": "ironssablecompat",
+      "version": "1.0.4",
+      "sha256": "8bfae20bdd87c457ff6b0922cf97f690205f1828c4f942b1cd615bf762171edf",
+      "size": 65043,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/ironssablecompat-1.0.4.jar",
+      "required": true
+    },
+    {
+      "name": "iss_elden_ring-1.1.4",
+      "filename": "iss_elden_ring-1.1.4.jar",
+      "sha256": "ee7b0082f164bc619a97129f490cf991a10c42f735ba1349552f8ba3048e6d34",
+      "size": 1736180,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/iss_elden_ring-1.1.4.jar",
+      "required": true
+    },
+    {
       "name": "jei-1.21.1-neoforge-19.70.0.469",
       "filename": "jei-1.21.1-neoforge-19.70.0.469.jar",
       "sha256": "9ab82d9bdbc8d9a08b80bc2023e1d886f6335b92f937d3afac878c9ea995dc33",
@@ -2553,13 +2077,11 @@
       "required": true
     },
     {
-      "name": "Jupiter",
-      "filename": "jupiter-2.3.7-1.21.1-neoforge.jar",
-      "modId": "jupiter",
-      "sha256": "95af332af250f97fe2d9d288fe6b2057c266673a388348bf33756b0b693ace15",
-      "size": 278988,
-      "downloadUrl": "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar",
+      "name": "kotlinforforge-5.12.0-all",
+      "filename": "kotlinforforge-5.12.0-all.jar",
+      "sha256": "095aed94f21b4e55895b21ea957750ae3ab829fbcfc6d3c66a3489f5f1128d46",
+      "size": 7279276,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/kotlinforforge-5.12.0-all.jar",
       "required": true
     },
     {
@@ -2633,11 +2155,25 @@
       "required": true
     },
     {
-      "name": "mana_sub_zero-1.0.0",
-      "filename": "mana_sub_zero-1.0.0.jar",
-      "sha256": "14f1fd6f20aca89e6af26a00790bbcce3dad9f5f926e6e20d4fbd34b860d5168",
-      "size": 339394,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/mana_sub_zero-1.0.0.jar",
+      "name": "Create: Loconautics",
+      "filename": "loconautics-0.1.3BETA.jar",
+      "modId": "loconautics",
+      "version": "0.1.3BETA",
+      "sha256": "2cd0b33189b2ebdb3551b59aa8fb5cfef6b4b89d238b99b0185cf45bec05e5de",
+      "size": 4614886,
+      "downloadUrl": "https://cdn.modrinth.com/data/VeDZqxHa/versions/dEi5A4wM/loconautics-0.1.3BETA.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/VeDZqxHa/versions/dEi5A4wM/loconautics-0.1.3BETA.jar",
+      "required": true
+    },
+    {
+      "name": "LOD Server Support",
+      "filename": "lod-server-support-neoforge-0.23.0-beta.1+1.21.1.jar",
+      "modId": "lss",
+      "version": "0.23.0-beta.1",
+      "sha256": "3240d6f475a6a9c51628f4fe3e1ed009a064ac306040c6b6af7de599387b7a7c",
+      "size": 14640572,
+      "downloadUrl": "https://cdn.modrinth.com/data/lKiXKLvv/versions/PEnoUn7P/lod-server-support-neoforge-0.23.0-beta.1%2B1.21.1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/lKiXKLvv/versions/PEnoUn7P/lod-server-support-neoforge-0.23.0-beta.1%2B1.21.1.jar",
       "required": true
     },
     {
@@ -2656,6 +2192,16 @@
       "size": 614138,
       "downloadUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "[Setver] SyncModPack",
+      "filename": "modpack-sync-server-1.0.0.jar",
+      "modId": "modpacksync",
+      "version": "1.0.0",
+      "sha256": "ea851967b763d26e690f1f9648210836e65413d0484483c6a314cc96aad15345",
+      "size": 33465,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/modpack-sync-server-1.0.0.jar",
       "required": true
     },
     {
@@ -2698,6 +2244,32 @@
       "required": true
     },
     {
+      "name": "moretidefish-1.15",
+      "filename": "moretidefish-1.15.jar",
+      "sha256": "df86bbf9e5acd961e196ea67984de312d3a7669095b4501ab6fc1abad1a32288",
+      "size": 229074,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/moretidefish-1.15.jar",
+      "required": true
+    },
+    {
+      "name": "multipiston-1.2.58-1.21.1",
+      "filename": "multipiston-1.2.58-1.21.1.jar",
+      "sha256": "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7",
+      "size": 34139,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/multipiston-1.2.58-1.21.1.jar",
+      "required": true
+    },
+    {
+      "name": "Neo-Voxy",
+      "filename": "neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
+      "modId": "voxy",
+      "version": "0.5.0-alpha.12",
+      "sha256": "0991b4770bc113891df9b30f293173f4ac52fc2350c6cf3d40a6c392173f0ea9",
+      "size": 14215249,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/neo-voxy-0.5.0-alpha.12-mc1.21.1-neoforge.jar",
+      "required": true
+    },
+    {
       "name": "neoforge-dungeonsdelight-1.21.1-1.5.2",
       "filename": "neoforge-dungeonsdelight-1.21.1-1.5.2.jar",
       "sha256": "833f351fff7f295f9c416cdc8692b4b7521119555f47ccb4ddf91c5739f08fef",
@@ -2727,6 +2299,17 @@
       "required": true
     },
     {
+      "name": "Nodalith",
+      "filename": "nodalith-neoforge-0.1.0-beta.jar",
+      "modId": "nodalith",
+      "version": "0.1.0-beta",
+      "sha256": "c19858902f9b23a013bf0a54f46605b3e575615926b0fe53c26eb1312086b8be",
+      "size": 193011,
+      "downloadUrl": "https://cdn.modrinth.com/data/YaZ9ccC8/versions/aDZmFt1a/nodalith-neoforge-0.1.0-beta.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/YaZ9ccC8/versions/aDZmFt1a/nodalith-neoforge-0.1.0-beta.jar",
+      "required": true
+    },
+    {
       "name": "NukaTeam\u0027s Gun Lib",
       "filename": "ntgl-1.21.1-3.2.0.jar",
       "modId": "ntgl",
@@ -2744,17 +2327,6 @@
       "size": 117108,
       "downloadUrl": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
       "serverUrl": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
-      "required": true
-    },
-    {
-      "name": "oωo",
-      "filename": "owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar",
-      "modId": "owo",
-      "version": "0.12.15.6-beta.1+1.21",
-      "sha256": "5fc306ad3d42e1dc26812f2df856e7c232376405caab6af4f5aaffe89cd2b256",
-      "size": 1223197,
-      "downloadUrl": "https://cdn.modrinth.com/data/ccKDOlHs/versions/wbdHEItB/owo-lib-neoforge-0.12.15.6-beta.1%2B1.21.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/ccKDOlHs/versions/wbdHEItB/owo-lib-neoforge-0.12.15.6-beta.1%2B1.21.jar",
       "required": true
     },
     {
@@ -2835,6 +2407,17 @@
       "required": true
     },
     {
+      "name": "Reese\u0027s Sodium Options",
+      "filename": "reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+      "modId": "reeses_sodium_options",
+      "version": "2.2.4+mc1.21.1",
+      "sha256": "e4c86cad7c86c3601261441c0282571dc6b1ebeb41b694c11eb58b2becb90b51",
+      "size": 258894,
+      "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
+      "required": true
+    },
+    {
       "name": "Relics",
       "filename": "relics-1.21.1-0.12.11.jar",
       "modId": "relics",
@@ -2877,13 +2460,13 @@
       "required": true
     },
     {
-      "name": "Reliquified Twilight Forest new relics fix",
-      "filename": "reliquified-twilight-forest-new-relics-fix-1.0.5.jar",
-      "modId": "reliquified_twilight_forest_new_relics_fix",
-      "version": "1.0.5",
-      "sha256": "a601a8f0ffa547fda3b644b79e4fa313de0639900837125f36ae6374a0c78354",
-      "size": 80378,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reliquified-twilight-forest-new-relics-fix-1.0.5.jar",
+      "name": "Reliquified L_Ender \u0027s Cataclysm new relics fix",
+      "filename": "reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
+      "modId": "reliquified_lenders_cataclysm_new_relics_fix",
+      "version": "1.0.3",
+      "sha256": "7f439bb0ed0f7f3a4dd2a1bad63bc4d2a9e8c479c288996d9c0f6dca46171273",
+      "size": 70753,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reliquified-lenders-cataclysm-new-relics-fix-1.0.3.jar",
       "required": true
     },
     {
@@ -2920,14 +2503,11 @@
       "required": true
     },
     {
-      "name": "Reliquified Twilight Forest",
-      "filename": "reliquified_twilight_forest-1.21.1-0.5.3.jar",
-      "modId": "reliquified_twilight_forest",
-      "version": "0.5.3",
-      "sha256": "2c89d7310c3809f77ece6cf0dd8583a7815409afb4db244de53245657456a9e3",
-      "size": 769787,
-      "downloadUrl": "https://cdn.modrinth.com/data/zpFCv1jC/versions/9UsckWGL/reliquified_twilight_forest-1.21.1-0.5.3.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/zpFCv1jC/versions/9UsckWGL/reliquified_twilight_forest-1.21.1-0.5.3.jar",
+      "name": "reskillable-4.1.2-1.21.1",
+      "filename": "reskillable-4.1.2-1.21.1.jar",
+      "sha256": "e46ee70c28e176e36a1d8ff11e5abe1179f55b7a66c19a6b70838f16d3610ba3",
+      "size": 272227,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/reskillable-4.1.2-1.21.1.jar",
       "required": true
     },
     {
@@ -3015,20 +2595,51 @@
       "required": true
     },
     {
-      "name": "sauce-1.21.1-0.0.62",
-      "filename": "sauce-1.21.1-0.0.62.jar",
-      "sha256": "457edc4879e03bb3c97f6bd9dc845d35a0b540fae12dc5e6e8f0b89f7f7de907",
-      "size": 247912,
-      "downloadUrl": "https://cdn.modrinth.com/data/qUG1AVSA/versions/gveR4LCK/sauce-1.21.1-0.0.62.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/qUG1AVSA/versions/gveR4LCK/sauce-1.21.1-0.0.62.jar",
-      "required": true
-    },
-    {
       "name": "scrollshelf-1.21.1-1.0.5",
       "filename": "scrollshelf-1.21.1-1.0.5.jar",
       "sha256": "fa825d18dfae928e7eb80f03459b800cc2eb250a97123629b882d08891c9c54b",
       "size": 371378,
       "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/scrollshelf-1.21.1-1.0.5.jar",
+      "required": true
+    },
+    {
+      "name": "[Setver] Balance Skills",
+      "filename": "setver-balance-skills-1.2.1.jar",
+      "modId": "balanceskills",
+      "version": "1.2.1",
+      "sha256": "880da726872dc488aeea0f0458e735d06417a8b3436ee6a9fc0c027684919067",
+      "size": 35329,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.2.1.jar",
+      "required": true
+    },
+    {
+      "name": "[Setver] Balance Skills",
+      "filename": "setver-balance-skills-1.2.2.jar",
+      "modId": "balanceskills",
+      "version": "1.2.2",
+      "sha256": "2f133ce22b99dbeb8786933aace1cb8677a89f9271cfd630d7648520ec7b0554",
+      "size": 35394,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-balance-skills-1.2.2.jar",
+      "required": true
+    },
+    {
+      "name": "[Setver] MobSpawnControl",
+      "filename": "setver-mob-spawn-control-1.0.jar",
+      "modId": "mobspawncontrol",
+      "version": "1.0",
+      "sha256": "cd2b924850d89269b39e6ac5048b009c095490081698b204a4400b504b6f35cb",
+      "size": 11265,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-mob-spawn-control-1.0.jar",
+      "required": true
+    },
+    {
+      "name": "[Setver] ServerCore",
+      "filename": "setver-server-core-1.0.jar",
+      "modId": "setvercore",
+      "version": "1.0",
+      "sha256": "3fae893463f502eb7dd945a3d49a888bba3c3437066e7673b7420b210cc54e8f",
+      "size": 2887,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/setver-server-core-1.0.jar",
       "required": true
     },
     {
@@ -3073,6 +2684,17 @@
       "required": true
     },
     {
+      "name": "Sodium",
+      "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "modId": "sodium",
+      "version": "0.8.13+mc1.21.1",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
+      "size": 1292934,
+      "downloadUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "required": true
+    },
+    {
       "name": "Sophisticated Backpacks",
       "filename": "sophisticatedbackpacks-1.21.1-3.26.20.2244.jar",
       "modId": "sophisticatedbackpacks",
@@ -3111,14 +2733,6 @@
       "size": 3642581,
       "downloadUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
       "serverUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
-      "required": true
-    },
-    {
-      "name": "spell_actionbar-1.1.7-neoforge-1.21.1",
-      "filename": "spell_actionbar-1.1.7-neoforge-1.21.1.jar",
-      "sha256": "85d0d73877c39d6a12eb5c41c65af49091eef1b836bbe345ec026144718b96cf",
-      "size": 139791,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/spell_actionbar-1.1.7-neoforge-1.21.1.jar",
       "required": true
     },
     {
@@ -3223,12 +2837,13 @@
       "required": true
     },
     {
-      "name": "thick_air-1.21.1-NeoForge-1.1.2",
-      "filename": "thick_air-1.21.1-NeoForge-1.1.2.jar",
-      "sha256": "e30fbc577a5ea001cc0857c36af8fabd2ab96227196be750649ea9b27201740d",
-      "size": 123053,
-      "downloadUrl": "https://cdn.modrinth.com/data/YCdc6cKo/versions/XZ93w1xP/thick_air-1.21.1-NeoForge-1.1.2.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/YCdc6cKo/versions/XZ93w1xP/thick_air-1.21.1-NeoForge-1.1.2.jar",
+      "name": "TFMG FE Patch",
+      "filename": "tfmg_fe_patch-1.0.0.jar",
+      "modId": "tfmg_fe_patch",
+      "version": "1.0.0",
+      "sha256": "31404d0791bc8294288c14e6c35d35faabf1b39ca54ddeb15910669c09868a5c",
+      "size": 6887,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/tfmg_fe_patch-1.0.0.jar",
       "required": true
     },
     {
@@ -3277,42 +2892,11 @@
       "required": true
     },
     {
-      "name": "twilight_spellbooks-1.2.0",
-      "filename": "twilight_spellbooks-1.2.0.jar",
-      "sha256": "e863d32ce39575e99c68c895ea5e7ea45b6fcbe533071a66213aa2c746ef1db6",
-      "size": 135303,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/twilight_spellbooks-1.2.0.jar",
-      "required": true
-    },
-    {
-      "name": "The Twilight Forest",
-      "filename": "twilightforest-1.21.1-4.8.3345-universal.jar",
-      "modId": "twilightforest",
-      "version": "4.8.3345",
-      "sha256": "493da16d10210f9f53a3c33b3d8fcb4ae9b14016ee420d753c894562bd9aba35",
-      "size": 27154121,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/twilightforest-1.21.1-4.8.3345-universal.jar",
-      "required": true
-    },
-    {
-      "name": "Unraveling Spells",
-      "filename": "unraveling_spells-1.21.1-1.2.0b.jar",
-      "modId": "unraveling_spells",
-      "version": "1.21.1-1.2.0b",
-      "sha256": "da040c0de44f0bab12fc3135c34dbc1b7219bca2fad86773e81e74e49fb44397",
-      "size": 403371,
-      "downloadUrl": "https://cdn.modrinth.com/data/x7x0umr5/versions/KFL0C2EL/unraveling_spells-1.21.1-1.2.0b.jar",
-      "serverUrl": "https://cdn.modrinth.com/data/x7x0umr5/versions/KFL0C2EL/unraveling_spells-1.21.1-1.2.0b.jar",
-      "required": true
-    },
-    {
-      "name": "Uranus",
-      "filename": "uranus-3.0-beta.1.jar",
-      "modId": "uranus",
-      "version": "3.0-beta.1",
-      "sha256": "3ab2a8c474aa306cc139ea03e343b20c0267b4887dedc05eed43968a8aed9232",
-      "size": 221525,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/uranus-3.0-beta.1.jar",
+      "name": "vampiricageing-1.21-1.4.21",
+      "filename": "vampiricageing-1.21-1.4.21.jar",
+      "sha256": "1c44732a52f42b135864a15eb5dad3ca497826b7efa4274d3beab7c92b71b996",
+      "size": 229919,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vampiricageing-1.21-1.4.21.jar",
       "required": true
     },
     {
@@ -3338,16 +2922,6 @@
       "required": true
     },
     {
-      "name": "Vampirism: Raids \u0026 Patrols",
-      "filename": "vp-release-0.6.1.1.jar",
-      "modId": "vco_hunter_patrols",
-      "version": "0.6.1.1",
-      "sha256": "a944c0ffc1984d8abfe122f2e30e6b4d2e65faa05f9164c55d03700156633b51",
-      "size": 590348,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vp-release-0.6.1.1.jar",
-      "required": true
-    },
-    {
       "name": "Voxy Server Side",
       "filename": "vss-0.3.5-neoforge-1.21.1.jar",
       "modId": "vss",
@@ -3358,11 +2932,13 @@
       "required": true
     },
     {
-      "name": "wind_spellbooks-1.0.5",
-      "filename": "wind_spellbooks-1.0.5.jar",
-      "sha256": "2b3507abfa36df18bd49b289778ce59d1c3e3d9dc10b4e7aae4cbe0756815d40",
-      "size": 459532,
-      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/wind_spellbooks-1.0.5.jar",
+      "name": "Vynx\u0027s Expansion",
+      "filename": "vynxs_expansion-0.9.0.jar",
+      "modId": "vynxs_expansion",
+      "version": "0.8.1",
+      "sha256": "13cb79b327007a22f36d7bf99bc9a5eb8eaebe7610d6aec49db154cc4bdb894e",
+      "size": 1893703,
+      "serverUrl": "http://ip-213-152-43-5.joinserver.xyz:30037/modpack/mods/vynxs_expansion-0.9.0.jar",
       "required": true
     },
     {
@@ -3374,6 +2950,17 @@
       "size": 6222854,
       "downloadUrl": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
       "serverUrl": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+      "required": true
+    },
+    {
+      "name": "ZakoOpt",
+      "filename": "zakoopt-2.0.4-1.21.1-neoforge.jar",
+      "modId": "zakoopt",
+      "version": "2.0.4",
+      "sha256": "b675e6dc449b46bdab20305467a89733dbe76a42ca56ba98eb5a37759bbcda18",
+      "size": 581446,
+      "downloadUrl": "https://cdn.modrinth.com/data/kis3AnZl/versions/SLGsGW3O/zakoopt-2.0.4%2B1.21.1-neoforge.jar",
+      "serverUrl": "https://cdn.modrinth.com/data/kis3AnZl/versions/SLGsGW3O/zakoopt-2.0.4%2B1.21.1-neoforge.jar",
       "required": true
     }
   ]
